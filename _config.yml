@@ -1,8 +1,7 @@
 title: Khadush
-tagline: Product Designer & Psychology Writer
+tagline: Product Designer
 description: >-
-  Design, psychology, and things I've learned along the way. Deep dives on why
-  people do what they do, and building products that actually work.
+  Design work and case studies by Rohit Singh (Khadush) — product designer at VWO.
 author: Rohit Singh
 email: rs949863@gmail.com
 url: ""
@@ -21,21 +20,14 @@ collections:
     permalink: /work/:name/
 
 defaults:
-  - scope: { path: "", type: "posts" }
-    values: { layout: "post" }
   - scope: { path: "", type: "projects" }
     values: { layout: "project" }
   - scope: { path: "" }
     values: { layout: "page" }
 
-paginate: 6
-paginate_path: "/page/:num/"
-
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
 
 exclude:
   - Gemfile
