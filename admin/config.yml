@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+backend:
+  name: github
+  repo: khadushrohit/khadushrohit.github.io
+  branch: main
+
+site_url: https://khadushrohit.github.io
+display_url: https://khadushrohit.github.io
+
+media_folder: assets/uploads
+public_folder: /assets/uploads
+
+collections:
+  - name: projects
+    label: Design work
+    label_singular: Case study
+    folder: _projects
+    create: true
+    delete: true
+    extension: md
+    format: yaml-frontmatter
+    slug: '{{slug}}'
+    summary: '{{title}} — {{year}}'
+    sortable_fields: [order, year, title]
+    fields:
+      - { label: Project name, name: title, widget: string }
+      - {
+          label: One-line description,
+          name: description,
+          widget: text,
+          hint: Shows on the homepage card. Keep it to one sentence.,
+        }
+      - { label: Your role, name: role, widget: string, default: Product Designer }
+      - { label: Year, name: year, widget: number, value_type: int, required: false }
+      - { label: Tags, name: tags, widget: list, required: false }
+      - { label: Cover image, name: image, widget: image, required: false }
+      - {
+          label: External link,
+          name: link,
+          widget: string,
+          required: false,
+          hint: Optional. Link to the live product if there is one.,
+        }
+      - {
+          label: Sort order,
+          name: order,
+          widget: number,
+          value_type: int,
+          required: false,
+          hint: Lower numbers show first on the homepage.,
+        }
+      - { label: Layout, name: layout, widget: hidden, default: project }
+      - { label: Case study, name: body, widget: richtext }
+
+  - name: pages
+    label: Pages
+    files:
+      - name: about
+        label: About page
+        file: about.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Eyebrow, name: eyebrow, widget: string, required: false }
+          - { label: Subtitle, name: description, widget: text, required: false }
+          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Permalink, name: permalink, widget: hidden, default: /about/ }
+          - { label: Content, name: body, widget: richtext }
