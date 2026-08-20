@@ -11,7 +11,7 @@ layout: default
       <div class="tags">{% for t in page.tags %}<span class="tag">{{ t }}</span>{% endfor %}</div>
       {% endif %}
     </header>
-    {% if page.image %}<img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.title }}">{% endif %}
+    {% if page.image != "" %}<img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.title }}">{% endif %}
     <div class="article-body">{{ content }}</div>
     <hr>
     <p class="measure"><a class="read-more" href="{{ '/blog/' | relative_url }}">&larr; All posts</a></p>

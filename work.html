@@ -15,7 +15,7 @@ permalink: /work/
     <div class="grid">
       {% for project in site.projects %}
       <article class="card">
-        <div class="thumb"{% if project.image %} style="background-image:url('{{ project.image | relative_url }}')"{% endif %}></div>
+        <div class="thumb"{% if project.image != "" %} style="background-image:url('{{ project.image | relative_url }}')"{% endif %}></div>
         <div class="body">
           <p class="muted">{{ project.role }}{% if project.year %} &middot; {{ project.year }}{% endif %}</p>
           <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
