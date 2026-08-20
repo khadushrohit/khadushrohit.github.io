@@ -1,0 +1,44 @@
+title: Khadush
+tagline: Product Designer & Psychology Writer
+description: >-
+  Design, psychology, and things I've learned along the way. Deep dives on why
+  people do what they do, and building products that actually work.
+author: Rohit Singh
+email: rs949863@gmail.com
+url: ""
+baseurl: ""
+
+permalink: /:title/
+
+social:
+  twitter: https://twitter.com/Rohitsi00372049
+  linkedin: https://www.linkedin.com/in/rohit-singh-designer/
+  instagram: https://www.instagram.com/khadush_rohit/
+
+collections:
+  projects:
+    output: true
+    permalink: /work/:name/
+
+defaults:
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
+  - scope: { path: "", type: "projects" }
+    values: { layout: "project" }
+  - scope: { path: "" }
+    values: { layout: "page" }
+
+paginate: 6
+paginate_path: "/page/:num/"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

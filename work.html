@@ -1,0 +1,29 @@
+---
+layout: default
+title: Design work
+permalink: /work/
+---
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Selected work</p>
+    <h1>Products I've shaped</h1>
+    <p>A few things I've designed end to end. Placeholder case studies for now &mdash; real ones landing soon.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="wrap">
+    <div class="grid">
+      {% for project in site.projects %}
+      <article class="card">
+        <div class="thumb"{% if project.image %} style="background-image:url('{{ project.image | relative_url }}')"{% endif %}></div>
+        <div class="body">
+          <p class="muted">{{ project.role }}{% if project.year %} &middot; {{ project.year }}{% endif %}</p>
+          <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+          <p>{{ project.description }}</p>
+          {% if project.tags %}<div class="tags">{% for t in project.tags %}<span class="tag">{{ t }}</span>{% endfor %}</div>{% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

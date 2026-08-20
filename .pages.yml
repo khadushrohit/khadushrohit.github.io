@@ -1,0 +1,139 @@
+media:
+  input: assets/uploads
+  output: /assets/uploads
+
+content:
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: _posts
+    filename: '{year}-{month}-{day}-{primary}.md'
+    view:
+      fields: [title, date, tags]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Publish date
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd HH:mm:ss xx
+      - name: description
+        label: Short description
+        type: text
+        description: One or two lines. Shows on the blog list and in Google results.
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: image
+        label: Cover image
+        type: image
+      - name: layout
+        label: Layout
+        type: string
+        hidden: true
+        default: post
+      - name: body
+        label: Post
+        type: rich-text
+
+  - name: projects
+    label: Design work
+    type: collection
+    path: _projects
+    filename: '{primary}.md'
+    view:
+      fields: [title, role, year]
+      primary: title
+      sort: [order, year, title]
+    fields:
+      - name: title
+        label: Project name
+        type: string
+        required: true
+      - name: description
+        label: One-line description
+        type: text
+        required: true
+      - name: role
+        label: Your role
+        type: string
+        default: Product Designer
+      - name: year
+        label: Year
+        type: number
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: image
+        label: Cover image
+        type: image
+      - name: link
+        label: External link
+        type: string
+      - name: order
+        label: Sort order
+        type: number
+        description: Lower numbers show first on the Work page.
+      - name: layout
+        label: Layout
+        type: string
+        hidden: true
+        default: project
+      - name: body
+        label: Case study
+        type: rich-text
+
+  - name: about
+    label: About page
+    type: file
+    path: about.md
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: eyebrow
+        label: Eyebrow
+        type: string
+      - name: description
+        label: Subtitle
+        type: text
+      - name: layout
+        type: string
+        hidden: true
+        default: page
+      - name: permalink
+        type: string
+        hidden: true
+        default: /about/
+      - name: body
+        label: Content
+        type: rich-text
+
+  - name: config
+    label: Site settings
+    type: file
+    path: _config.yml
+    fields:
+      - name: title
+        label: Site title
+        type: string
+      - name: tagline
+        label: Tagline
+        type: string
+      - name: description
+        label: Site description
+        type: text
+      - name: author
+        label: Author
+        type: string

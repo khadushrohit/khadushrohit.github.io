@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="dot" aria-hidden="true"></span>
+      {{ site.title }}
+    </a>
+    <nav class="site-nav">
+      <a href="{{ '/work/' | relative_url }}"{% if page.url contains '/work' %} aria-current="page"{% endif %}>Design work</a>
+      <a href="{{ '/blog/' | relative_url }}"{% if page.url contains '/blog' %} aria-current="page"{% endif %}>Blog</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url contains '/about' %} aria-current="page"{% endif %}>About</a>
+    </nav>
+  </div>
+</header>

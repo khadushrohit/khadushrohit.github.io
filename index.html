@@ -1,0 +1,46 @@
+---
+layout: default
+title: Product Designer & Psychology Writer
+---
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Rohit Singh &mdash; Khadush</p>
+    <h1>Design, psychology &amp; things I've learned along the way</h1>
+    <p>Product designer at VWO. I write about why people do what they do, and how that shows up in the products we build.</p>
+    <div class="actions">
+      <a class="btn btn-primary" href="{{ '/work/' | relative_url }}">See design work</a>
+      <a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">Read the blog</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head measure">
+      <p class="eyebrow">The blog</p>
+      <h2>Explore your curiosity</h2>
+      <p>Deep dives on design, psychology, why people stay trapped, and building products that actually work.</p>
+    </div>
+    <div class="post-list">
+      {% for post in paginator.posts %}{% include post-item.html post=post %}{% endfor %}
+    </div>
+    {% if paginator.total_pages > 1 %}
+    <nav class="pager">
+      {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer</a>{% endif %}
+      <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Older &rarr;</a>{% endif %}
+    </nav>
+    {% endif %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head measure">
+      <p class="eyebrow">About me</p>
+      <h2>Who is Rohit (Khadush)?</h2>
+      <p>Just a human obsessed with why humans do what they do. Four years designing products, most of them at VWO, where I work on experimentation tooling used by teams who need to be right about their users.</p>
+      <p><a class="read-more" href="{{ '/about/' | relative_url }}">More about me &rarr;</a></p>
+    </div>
+  </div>
+</section>
