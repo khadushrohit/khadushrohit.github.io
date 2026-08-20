@@ -3,20 +3,20 @@ layout: page
 title: Who is Rohit (Khadush)?
 permalink: /about/
 eyebrow: About me
-description: Just a human obsessed with why humans do what they do.
+description: Product designer, four years in, obsessed with why people do what they do.
 ---
 
-> Demo content. Replace with the real About page from khadush.com.
+> Demo content. Replace this with your real About copy through Pages CMS.
 
-I'm a product designer with four years of experience, currently at VWO, where I work on experimentation tooling. Before design I waited tables. That detour is most of the reason I write about psychology rather than about design tools.
+I'm a product designer with four years of experience, currently at VWO, where I work on experimentation tooling. Before design I waited tables. That detour is most of the reason I think about behaviour first and interface second.
 
-## What I write about
+## What I work on
 
-Why people stay stuck in situations they say they want out of. How stories get remembered when facts don't. What actually changes behaviour, as opposed to what we tell ourselves changes behaviour.
+Complex, data-heavy B2B products — the kind where the hard part isn't making a screen look good, it's making a first-time user confident enough to act. A/B testing setup, automation workflows, analytics dashboards.
 
-## What I'm building
+## How I work
 
-A paid book, a free Notion journal, and a newsletter. Landing pages for those will live on this site.
+Start from the real use case, not the data model. Make the important action the most visible thing on screen. Cut anything that asks the user for something the product could have inferred.
 
 ## Elsewhere
 
