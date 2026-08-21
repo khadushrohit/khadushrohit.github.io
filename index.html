@@ -19,10 +19,12 @@ title: Product Designer — SaaS websites & web apps
 {% if hp.clients %}
 <section class="clients">
   <div class="wrap">
-    <p class="eyebrow">Websites I've worked on</p>
-    <ul class="client-strip">
-      {% for c in hp.clients %}<li>{{ c }}</li>{% endfor %}
-    </ul>
+    <div class="section-head measure">
+      <p class="eyebrow">Websites I've worked on</p>
+    </div>
+    <div class="client-grid">
+      {% for c in hp.clients %}<div class="client-card">{{ c }}</div>{% endfor %}
+    </div>
   </div>
 </section>
 {% endif %}
