@@ -350,7 +350,7 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
 .hero-portrait img {
   position: relative; z-index: 1;
   width: 420px; aspect-ratio: 4 / 5; height: auto;
-  object-fit: cover; object-position: 50% 26%;
+  object-fit: cover; object-position: 50% 18%;
   border-radius: 20px;
   /* Flipped so Rohit faces the headline rather than away from it. */
   transform: scaleX(-1);
