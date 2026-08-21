@@ -85,17 +85,17 @@ Since my goal is clear, **I want a remote design job**. For that, I have to find
 
 Click on the search bar and type "Remote designer" without quotes.
 
-![linkedin feed image](/assets/uploads/Screenshot-2024-04-18-at-10.20.19-PM-1024x346.png)
+![linkedin feed image](/assets/uploads/Screenshot-2024-04-18-at-10.20.19-PM-1024x346.png){: loading="lazy" decoding="async"}
 
 * * *
 
-![Linkedin jobs page](/assets/uploads/Screenshot-2024-04-18-at-10.27.01-PM-1-1024x486.png)
+![Linkedin jobs page](/assets/uploads/Screenshot-2024-04-18-at-10.27.01-PM-1-1024x486.png){: loading="lazy" decoding="async"}
 
 Click on Jobs
 
 * * *
 
-![How to get a remote job as a UI/UX designer using Linkedin!](/assets/uploads/Screenshot-2024-04-18-at-10.30.42-PM-1024x559.png)
+![How to get a remote job as a UI/UX designer using Linkedin!](/assets/uploads/Screenshot-2024-04-18-at-10.30.42-PM-1024x559.png){: loading="lazy" decoding="async"}
 
 A screen will look like this. Make sure the "Remote" filter is on.
 
@@ -103,7 +103,7 @@ Click on the company page (In case you already want to work in a company, then c
 
 * * *
 
-![Linkedin company page.](/assets/uploads/image-1-1024x705.png)
+![Linkedin company page.](/assets/uploads/image-1-1024x705.png){: loading="lazy" decoding="async"}
 
 Click on people and start connecting with these people.
 
@@ -127,7 +127,7 @@ See how Casey shared his perspective on one of my posts, which got my attention.
 
 Tip: You can do something similar but, don't stop just there. Use the opportunity to connect and send DM's to keep momentum going.
 
-![https://www.linkedin.com/posts/rohit-singh-designer\_ux-ui-designer-activity-7143522918734438400-m4W8](/assets/uploads/Screenshot-2024-04-19-at-11.23.38-PM-777x1024.png)
+![https://www.linkedin.com/posts/rohit-singh-designer\_ux-ui-designer-activity-7143522918734438400-m4W8](/assets/uploads/Screenshot-2024-04-19-at-11.23.38-PM-777x1024.png){: loading="lazy" decoding="async"}
 
 https://www.linkedin.com/posts/rohit-singh-designer\_ux-ui-designer-activity-7143522918734438400-m4W8
 
@@ -135,7 +135,7 @@ https://www.linkedin.com/posts/rohit-singh-designer\_ux-ui-designer-activity-714
 
 My friend used this method. She commented on one of the target employers.
 
-![Linkedin message](/assets/uploads/image-2-461x1024.png)
+![Linkedin message](/assets/uploads/image-2-461x1024.png){: loading="lazy" decoding="async"}
 
 Comment [link](https://www.linkedin.com/feed/update/urn:li:activity:7162176565164941312?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7162176565164941312%2C7162674893300461568%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287162674893300461568%2Curn%3Ali%3Aactivity%3A7162176565164941312%29)
 
@@ -143,13 +143,13 @@ After a few days, she got this reply, and the whole conversation ended with a jo
 
 She got his first full-time remote job.
 
-![Linkedin message](/assets/uploads/image-3-461x1024.png)
+![Linkedin message](/assets/uploads/image-3-461x1024.png){: loading="lazy" decoding="async"}
 
 #### Tell a short story that comes to mind when reading that topic
 
 See how this professor shared my post with his own specific story; you can also do something similar to some other incident.
 
-![https://www.linkedin.com/posts/rogerlouismartinez\_ux-ui-designer-activity-7144475122819555329-SpsR](/assets/uploads/Screenshot-2024-04-19-at-11.28.48-PM-913x1024.png)
+![https://www.linkedin.com/posts/rogerlouismartinez\_ux-ui-designer-activity-7144475122819555329-SpsR](/assets/uploads/Screenshot-2024-04-19-at-11.28.48-PM-913x1024.jpg){: loading="lazy" decoding="async"}
 
 [https://www.linkedin.com/posts/rogerlouismartinez\_ux-ui-designer-activity-7144475122819555329-SpsR](https://www.linkedin.com/posts/rogerlouismartinez_ux-ui-designer-activity-7144475122819555329-SpsR?utm_source=share&utm_medium=member_desktop)
 
@@ -159,7 +159,7 @@ I don't have any specific examples right now.Last time, I read something on Twit
 
 Within a few days, I got this message on my LinkedIn. I don't need to explain this one further!
 
-![Linkedin message](/assets/uploads/Screenshot-2024-04-19-at-11.35.35-PM.png)
+![Linkedin message](/assets/uploads/Screenshot-2024-04-19-at-11.35.35-PM.png){: loading="lazy" decoding="async"}
 
 #### Ask a question that will get them to respond to you.
 
@@ -167,13 +167,13 @@ You can use this method if you find that the other person doesn't post on Linked
 
 The question should be specific and exciting to the person; otherwise, they will not answer them.
 
-![Linkedin question](/assets/uploads/Screenshot-2024-04-19-at-11.07.52-PM.png)
+![Linkedin question](/assets/uploads/Screenshot-2024-04-19-at-11.07.52-PM.png){: loading="lazy" decoding="async"}
 
 So, keep changing your question unless you find something suitable to use on everyone.
 
 Also, don't let your conversation be buried under the heap. Just keep asking questions.
 
-![How to get a remote job as a UI/UX designer using Linkedin!](/assets/uploads/Screenshot-2024-04-19-at-11.09.31-PM.png)
+![How to get a remote job as a UI/UX designer using Linkedin!](/assets/uploads/Screenshot-2024-04-19-at-11.09.31-PM.png){: loading="lazy" decoding="async"}
 
 **Bonus:** You can send some resources, articles, or anything useful.  
 It will create reciprocity and make you memorable in a person's mind.
@@ -196,11 +196,11 @@ Never ask for anything unless you have given something to that person.
 
 Please make this rule as a rule of thumb; otherwise, you will hear crickets.
 
-![How to get a remote job as a UI/UX designer using Linkedin!](/assets/uploads/Screenshot-2024-04-19-at-11.46.21-PM.png)
+![How to get a remote job as a UI/UX designer using Linkedin!](/assets/uploads/Screenshot-2024-04-19-at-11.46.21-PM.png){: loading="lazy" decoding="async"}
 
 I also made these mistakes in the past, and whenever I did this, I never heard anything in return, so don't waste your time making these mistakes.
 
-![How to get a remote job as a UI/UX designer using Linkedin!](/assets/uploads/Screenshot-2024-04-19-at-11.49.17-PM.png)
+![How to get a remote job as a UI/UX designer using Linkedin!](/assets/uploads/Screenshot-2024-04-19-at-11.49.17-PM.png){: loading="lazy" decoding="async"}
 
 **Please bookmark this article so you can refer back and find your next remote job using Linkedin.**
 

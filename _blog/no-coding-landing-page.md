@@ -112,7 +112,7 @@ That's why I decided to tell you about some of my favourite tools for doing it! 
 
 ### [Optimizepress](https://www.optimizepress.com/)
 
-![https://www.optimizepress.com/](/assets/uploads/Screenshot-2021-06-17-at-11-01-40-OptimizePress-Landing-Page-Builder-for-WordPress-1-1024x580.png)
+![https://www.optimizepress.com/](/assets/uploads/Screenshot-2021-06-17-at-11-01-40-OptimizePress-Landing-Page-Builder-for-WordPress-1-1024x580.png){: loading="lazy" decoding="async"}
 
 This is the best tool in terms of creating a landing page and sales pages. The most important thing I love about OptimizePress it is built on WordPress. And WordPress already give you full access to your website(assuming that you have your own domain and hosting).
 

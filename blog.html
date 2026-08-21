@@ -51,7 +51,7 @@ description: Essays on design, psychology, decision-making, careers, and money â
       {% for p in posts %}
       <article class="post-item">
         {% if p.image and p.image != "" %}
-        <div class="post-item__thumb" style="background-image:url('{{ p.image | relative_url }}')"></div>
+        <div class="post-item__thumb"><img src="{{ p.image | relative_url }}" alt="" loading="lazy" decoding="async"></div>
         {% else %}
         <div class="post-item__thumb post-item__thumb--blank" aria-hidden="true"><span>{{ p.category | default: "Essay" }}</span></div>
         {% endif %}

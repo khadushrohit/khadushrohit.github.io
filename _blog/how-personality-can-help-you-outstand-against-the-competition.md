@@ -21,7 +21,7 @@ We have only two options left: Either choose a different location for the shop o
 
 Rather than choosing one option among the two, we decided to use completely another approach.
 
-![gray and blue Open signage](/assets/uploads/mike-petrucci-c9fqyqiecds-unsplash-1024x683.jpeg)
+![gray and blue Open signage](/assets/uploads/mike-petrucci-c9fqyqiecds-unsplash-1024x683.jpeg){: loading="lazy" decoding="async"}
 
 Photo by [Mike Petrucci](https://unsplash.com/@mikepetrucci)
 
@@ -49,11 +49,11 @@ Both channels teach the same content in the same language (Hindi), create their 
 
 But, you see the no of subscribers and easily spot the difference.
 
-[![image](/assets/uploads/khansir.png)](/assets/uploads/khansir.png)
+[![image](/assets/uploads/khansir.png){: loading="lazy" decoding="async"}](/assets/uploads/khansir.png)
 
 khan GS Research Centre with 16.3M subscribers
 
-[![image](/assets/uploads/worldaffairs-1024x152.png)](/assets/uploads/worldaffairs.png)
+[![image](/assets/uploads/worldaffairs-1024x152.png){: loading="lazy" decoding="async"}](/assets/uploads/worldaffairs.png)
 
 World affairs with 2.23M subscribers
 
@@ -111,6 +111,6 @@ Timesup!
 
 Oh, here is an image of my new shop, CARING INSIGHT.
 
-[![caring insight image](/assets/uploads/Caring-insight-1024x768.jpg)](/assets/uploads/Caring-insight.jpg)
+[![caring insight image](/assets/uploads/Caring-insight-1024x768.jpg){: loading="lazy" decoding="async"}](/assets/uploads/Caring-insight.jpg)
 
 My elder brother sitting in the shop

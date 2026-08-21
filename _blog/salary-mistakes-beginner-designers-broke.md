@@ -5,7 +5,7 @@ description: "Will you apply for the job in the same company you left 5 months e
 date: 2025-06-28 02:34:53
 category: "Design career"
 tags: ["design", "ui ux"]
-image: "/assets/uploads/Twitter-post-7.png"
+image: "/assets/uploads/Twitter-post-7.jpg"
 ---
 Will you apply for the job in the same company you left 5 months earlier?
 

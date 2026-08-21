@@ -9,7 +9,7 @@ image: "/assets/uploads/photo-1588347300869-4e8709274b1b"
 ---
 This was the first time I visited one of the Seven Wonders of the World, the Taj Mahal, with my family.
 
-![my image with taj mahal](/assets/uploads/photo_2023-03-04_13-55-18-461x1024.jpg)
+![my image with taj mahal](/assets/uploads/photo_2023-03-04_13-55-18-461x1024.jpg){: loading="lazy" decoding="async"}
 
 Like every human on Earth, we don't want to spend an extra penny on something we don't need.
 

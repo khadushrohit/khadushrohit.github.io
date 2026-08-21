@@ -35,7 +35,7 @@ So after reading that book what if I can share it with another person (who wants
 
 After the initial inspiration, I moved forward and decided to perform a quick check on my idea to know that, Does my problem might worth my blood and sweet.
 
-![Validating idea](/assets/uploads/Untitled-1.png)
+![Validating idea](/assets/uploads/Untitled-1.png){: loading="lazy" decoding="async"}
 
 **If you are thinking about my competitor** then let me tell you there is no competitor in the market :) (at least locally) But I had found some of the international websites https://www.bookupapp.com/ http://bookmooch.com/ https://browzly.com/
 
@@ -95,7 +95,7 @@ So that was my one interview out of 3 conversations. I also conducted 2 more int
 
 I am not a big fan of empathy map but still created it for practice and summing up all the user's problems and it\\'s underlying frustrations.
 
-![Empathy map](/assets/uploads/DSG-1024x576-1.jpg)
+![Empathy map](/assets/uploads/DSG-1024x576-1.jpg){: loading="lazy" decoding="async"}
 
 ## Persona
 
@@ -103,7 +103,7 @@ Personas are imaginary characters that we use when need to make an important dec
 
 So which one should I choose? hmmm quite complicated situation, In this type of situations personas come handy it helps to narrow down decision making for our product. **It's very important that personas should contain the real data otherwise we end up with wrong decision.**
 
-![Persona image](/assets/uploads/1-1-1024x768-1.jpg)
+![Persona image](/assets/uploads/1-1-1024x768-1.jpg){: loading="lazy" decoding="async"}
 
 *Now the research phase has is been done enough! and it's time to think about how our product will make money in the market. e.g. How It will attract customers to join it.*
 
@@ -111,7 +111,7 @@ So which one should I choose? hmmm quite complicated situation, In this type of 
 
 Just to know how will the user reach out to my website. What will their mindset and what they want to achieve want from my product.
 
-![Customer journey](/assets/uploads/Web-1280-1-697x1024-1.jpg)
+![Customer journey](/assets/uploads/Web-1280-1-697x1024-1.jpg){: loading="lazy" decoding="async"}
 
 ## Lean Canvas
 
@@ -137,7 +137,7 @@ The above condition leads to make an interface which should be modern, as well a
 
 I had used picular.com for experimenting with some colour variations but I was not happy with my choice and decided to come up with some other colour version and other things like typography and icons. But I was not still happy with my choice and changed everything, which I will show you in the last. Here I decided to move forward by trusting my choice.
 
-![style tile](/assets/uploads/Style-Tile-1-759x1024-1.png)
+![style tile](/assets/uploads/Style-Tile-1-759x1024-1.png){: loading="lazy" decoding="async"}
 
 The first version or visuals which I come up with. font is "carmen sans"
 
@@ -145,7 +145,7 @@ The first version or visuals which I come up with. font is "carmen sans"
 
 I chose the old method for designing an interface (using pencil and paper). I had laid out some sketches quickly and turned them into mockup. Just to experiment with the interface and below its version.
 
-![first-version-of-booksite](/assets/uploads/first-version-of-booksite-834x1024-1.png)
+![first-version-of-booksite](/assets/uploads/first-version-of-booksite-834x1024-1.png){: loading="lazy" decoding="async"}
 
 first-version-of-booksite
 
@@ -155,7 +155,7 @@ I know that the interface is awful but it's a good start for getting something s
 
 As you can see in the above interface that It was missing proper content to educate the user. To solve this problem I used the **Storybrand-copywriting** for writing the content of the website. And also designed a whole new interface from scratch [wireframe link](https://cdn.filestackcontent.com/OttdGHufTE6FYCrCb4jX). Below its home-page preview and here is the all pages [link](https://xd.adobe.com/view/a24cb1a7-9ee4-4f87-61bf-a9831220e2d6-d47d/).
 
-![booksite-home-page](/assets/uploads/home-page-352x1024.png)
+![booksite-home-page](/assets/uploads/home-page-352x1024.png){: loading="lazy" decoding="async"}
 
 ## Another serious Problem
 

@@ -16,7 +16,7 @@ Computers were my passion since childhood, and that passion landed me in a compu
 
 Cristian Doru Barin was one of my early mentors. He taught me to design web and apps in Photoshop, back when there was no Figma and XD was still an early version.
 
-![The first work I did in 2018 for Chase Amante, founder of Girls Chase](/assets/uploads/first-work-for-girlschase-991x1024.png)
+![The first work I did in 2018 for Chase Amante, founder of Girls Chase](/assets/uploads/first-work-for-girlschase-991x1024.png){: loading="lazy" decoding="async"}
 *The first work I did in 2018 for Chase Amante, the founder of Girls Chase.*
 
 ## Imagine a UX designer who is good at CRO and psychology

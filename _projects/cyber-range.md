@@ -6,7 +6,7 @@ role: "Strategy, UX & Design System"
 date: 2023-06-12 07:31:14
 year: 2023
 tags: ["B2B", "Design system", "UX"]
-image: "/assets/uploads/Featured-image.png"
+image: "/assets/uploads/Featured-image.jpg"
 link: ""
 order: 1
 ---
@@ -40,7 +40,7 @@ The above information wasn't enough to understand the user, so digging deep into
 
 But, for the sake of this project, we have developed a persona of instructor.
 
-[![persona](/assets/uploads/image-1024x770.png)](/assets/uploads/full-image.png)
+[![persona](/assets/uploads/image-1024x770.png){: loading="lazy" decoding="async"}](/assets/uploads/full-image.jpg)
 
 ## **Roles & responsibilities**
 
@@ -58,7 +58,7 @@ My other responsibilities included turning vision into the product through user 
 
 We got around 8 months to build the MVP because we have to present our product to the international expo market.
 
-[![cyberrange](/assets/uploads/image-1-2.png)](/assets/uploads/full-image-1.png)
+[![cyberrange](/assets/uploads/image-1-2.png){: loading="lazy" decoding="async"}](/assets/uploads/full-image-1.png)
 
 There was no proper scope for the project.
 
@@ -66,7 +66,7 @@ There was no proper scope for the project.
 
 And the most significant constraint was that I was new to this field, and understanding technical jargon was confusing and complicated.
 
-[![cyber range](/assets/uploads/image-2.png)](/assets/uploads/full-image-2.png)
+[![cyber range](/assets/uploads/image-2.png){: loading="lazy" decoding="async"}](/assets/uploads/full-image-2.png)
 
 Example of technical jargon & infrastructure of the platform
 
@@ -76,15 +76,15 @@ Since the product scope was not clear so I started with:
 
 ### Market & competitor research
 
-![Market research](/assets/uploads/Screenshot-2023-06-09-at-9.14.26-AM-1024x768.png)
+![Market research](/assets/uploads/Screenshot-2023-06-09-at-9.14.26-AM-1024x768.png){: loading="lazy" decoding="async"}
 
 1\. Market research
 
-![Market research](/assets/uploads/Screenshot-2023-06-09-at-9.15.03-AM-1024x768.png)
+![Market research](/assets/uploads/Screenshot-2023-06-09-at-9.15.03-AM-1024x768.png){: loading="lazy" decoding="async"}
 
 2\. Market research
 
-![Market research](/assets/uploads/Screenshot-2023-06-09-at-9.15.42-AM-1024x767.png)
+![Market research](/assets/uploads/Screenshot-2023-06-09-at-9.15.42-AM-1024x767.png){: loading="lazy" decoding="async"}
 
 3\. Market research
 
@@ -116,13 +116,13 @@ Below is a rough user story mapping actually, is more like a mind map instead of
 
 I just used it to dump everthing from my mind.
 
-[![mind mapping](/assets/uploads/Screenshot-2023-06-09-at-6.53.13-PM-1024x480.png)](/assets/uploads/Screenshot-2023-06-09-at-6.53.13-PM.png)
+[![mind mapping](/assets/uploads/Screenshot-2023-06-09-at-6.53.13-PM-1024x480.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-09-at-6.53.13-PM.png)
 
 Link:[https://whimsical.com/rangestorm-BwiCHJ2nDPg3zcEVbsu4EM@LUSUr8hW5neYTFZBFa](https://whimsical.com/rangestorm-BwiCHJ2nDPg3zcEVbsu4EM@LUSUr8hW5neYTFZBFa)
 
 Used mind map instead of conventional sitemap
 
-[![user story mapping cyber range](/assets/uploads/Screenshot-2023-06-10-at-1.57.16-PM-1024x668.png)](/assets/uploads/Screenshot-2023-06-10-at-1.57.16-PM.png)
+[![user story mapping cyber range](/assets/uploads/Screenshot-2023-06-10-at-1.57.16-PM-1024x668.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-10-at-1.57.16-PM.png)
 
 User story mapping
 
@@ -130,15 +130,15 @@ Instead of starting to write user story mapping for all three user types, I focu
 
 ## User flow, Wire flow & Card sorting
 
-[![User flow for the instructor journey](/assets/uploads/Screenshot-2023-06-10-at-2.23.49-PM-1024x455.png)](/assets/uploads/Screenshot-2023-06-10-at-2.23.49-PM.png)
+[![User flow for the instructor journey](/assets/uploads/Screenshot-2023-06-10-at-2.23.49-PM-1024x455.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-10-at-2.23.49-PM.png)
 
 User flow
 
-[![Wireflow](/assets/uploads/Screenshot-2023-06-10-at-3.20.59-PM-1024x614.png)](/assets/uploads/Screenshot-2023-06-10-at-3.20.59-PM.png)
+[![Wireflow](/assets/uploads/Screenshot-2023-06-10-at-3.20.59-PM-1024x614.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-10-at-3.20.59-PM.png)
 
 Wireframe
 
-[![Card sorting results for the student side of the product](/assets/uploads/Screenshot-2023-06-14-at-5.53.30-PM-1024x524.png)](/assets/uploads/Screenshot-2023-06-14-at-5.53.30-PM.png)
+[![Card sorting results for the student side of the product](/assets/uploads/Screenshot-2023-06-14-at-5.53.30-PM-1024x524.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-14-at-5.53.30-PM.png)
 
 Card sorting did for the student part side
 
@@ -146,7 +146,7 @@ Card sorting did for the student part side
 
 There was lots of feedback going back & forth with developers about the project's technicality, so instead of creating lots of user flow, I created a workflow to get feedback directly on the screens.
 
-[![wireflow cyber range](/assets/uploads/Screenshot-2023-06-10-at-2.08.18-PM-1024x589.png)](/assets/uploads/Screenshot-2023-06-10-at-2.08.18-PM.png)
+[![wireflow cyber range](/assets/uploads/Screenshot-2023-06-10-at-2.08.18-PM-1024x589.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-10-at-2.08.18-PM.png)
 
 Wireflow
 
@@ -154,11 +154,11 @@ Wireflow
 
 While I was working on it, I also started to prepare the look and feel of the software, so I wanted to give it a bit cyber look; with that, I also wanted to give a clean and engaging look because this was the first type of software made from India.
 
-[![Moodboard](/assets/uploads/Screenshot-2023-06-10-at-8.52.33-PM-1024x600.png)](/assets/uploads/Screenshot-2023-06-10-at-8.52.33-PM.png)
+[![Moodboard](/assets/uploads/Screenshot-2023-06-10-at-8.52.33-PM-1024x600.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-10-at-8.52.33-PM.jpg)
 
 Moodboard
 
-[![Some variations](/assets/uploads/Screenshot-2023-06-10-at-9.11.23-PM-1024x622.png)](/assets/uploads/Screenshot-2023-06-10-at-9.11.23-PM.png)
+[![Some variations](/assets/uploads/Screenshot-2023-06-10-at-9.11.23-PM-1024x622.jpg){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-10-at-9.11.23-PM.jpg)
 
 Applying moodboard color variations on dashboard
 
@@ -166,9 +166,9 @@ Applying moodboard color variations on dashboard
 
 because we also wanted to give the gamify look so, the software will look more engaging...
 
-[![gamified cyber range](/assets/uploads/Screenshot-2023-06-10-at-9.13.59-PM-1024x715.png)](/assets/uploads/Screenshot-2023-06-10-at-9.13.59-PM.png)
+[![gamified cyber range](/assets/uploads/Screenshot-2023-06-10-at-9.13.59-PM-1024x715.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-10-at-9.13.59-PM.jpg)
 
-[![gamified cyber range](/assets/uploads/Screenshot-2023-06-10-at-9.27.43-PM-1024x740.png)](/assets/uploads/Screenshot-2023-06-10-at-9.27.43-PM.png)
+[![gamified cyber range](/assets/uploads/Screenshot-2023-06-10-at-9.27.43-PM-1024x740.jpg){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-10-at-9.27.43-PM.jpg)
 
 Gamified cyber range
 
@@ -176,15 +176,15 @@ Gamified cyber range
 
 After lots of UI vairations our team landed on color scheme of last moodboard and used the typography of second last moodboard.
 
-![Final colour scheme and typography chosen from the moodboards](/assets/uploads/Screenshot-2023-06-10-at-9.35.49-PM-1024x556.png)
+![Final colour scheme and typography chosen from the moodboards](/assets/uploads/Screenshot-2023-06-10-at-9.35.49-PM-1024x556.png){: loading="lazy" decoding="async"}
 
 **As I told you earlier, we were limited resources, so instead of developing our component, we were following the base guidelines of [material ui](https://m2.material.io/components) and React components of [MUI](https://mui.com/material-ui/react-autocomplete/).**
 
-[![Cyber range screens built with the design system](/assets/uploads/Screenshot-2023-06-11-at-9.34.07-AM-1024x445.png)](/assets/uploads/Screenshot-2023-06-11-at-9.34.07-AM.png)
+[![Cyber range screens built with the design system](/assets/uploads/Screenshot-2023-06-11-at-9.34.07-AM-1024x445.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-11-at-9.34.07-AM.png)
 
 Screens designed with design system
 
-[![More cyber range screens built with the design system](/assets/uploads/Screenshot-2023-06-11-at-9.32.13-AM-1024x418.png)](/assets/uploads/Screenshot-2023-06-11-at-9.32.13-AM.png)
+[![More cyber range screens built with the design system](/assets/uploads/Screenshot-2023-06-11-at-9.32.13-AM-1024x418.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-11-at-9.32.13-AM.png)
 
 Screens designed with design system
 

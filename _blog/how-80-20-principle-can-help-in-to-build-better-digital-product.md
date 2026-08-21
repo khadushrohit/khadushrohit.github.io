@@ -5,7 +5,7 @@ description: "I was reading the “universal principles of design” book, and i
 date: 2021-04-04 16:39:48
 category: "UX"
 tags: ["user experience"]
-image: "/assets/uploads/Twitter-header-1.png"
+image: "/assets/uploads/Twitter-header-1.jpg"
 ---
 Estimated reading time: 3 minutes
 

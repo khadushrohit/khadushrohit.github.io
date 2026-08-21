@@ -29,7 +29,7 @@ Nudge is such a powerful thing that even United Kingdom Prime Minister David Cam
 
 This is done by integrating insights from social psychology and behavioural economics to overcome the biases that might be in the way. Last, **Nudges are only external, which means we can touch or see them.**
 
-![google chat nudge](/assets/uploads/nudge-use-by-google-chat.png)
+![google chat nudge](/assets/uploads/nudge-use-by-google-chat.png){: loading="lazy" decoding="async"}
 
 *An example of nudge used in google chat to increase the probablity of reply.*
 
@@ -50,7 +50,7 @@ It also gives punishment when the goal is not completed(in the form of sending y
 
 #### **An example of right Nudge**
 
-![Road stripe](/assets/uploads/asphalt-road-steppe-kazakhstan-aral-district-kyzylorda-region-1024x683.jpg)
+![Road stripe](/assets/uploads/asphalt-road-steppe-kazakhstan-aral-district-kyzylorda-region-1024x683.jpg){: loading="lazy" decoding="async"}
 
 In a Lake Shore Drive, a roadway. One particular segment includes a series of S curves that require drivers to slow down to 25 mph. **Many drivers ignore the posted sign that states the reduced speed limit. They are either easily distracted by the scenery or cannot assume how tight the curve is**(obviously, if people didn't pass the road, how can you make assumptions), **both of which may result in accidents.**
 
@@ -84,7 +84,7 @@ Enough theory, let's talk about practical implementation
 
 The first message was designed to reflect the industry-standard approach and focused the guest's attention on the importance of environmental protection. Here is the message "**HELP SAVE THE ENVIRONMENT. You can show your respect for nature and help save the environment by reusing your towels during your stay."**
 
-![image of sign](/assets/uploads/sign.png)
+![image of sign](/assets/uploads/sign.png){: loading="lazy" decoding="async"}
 
 The second message used social proof, informing guests that the majority of other guests do, in fact, participate in the program at least once during their stays participated in the towel reuse program.
 
@@ -92,7 +92,7 @@ Here is the original message **"JOIN YOUR FELLOW GUESTS IN HELPING TO SAVE THE E
 
 Both messages get printed on signs and positioned on washroom towel racks. The results showed that the social proof sign(second sign) yielded significantly higher than the industry standard(first sign). Below you can see the stat's that which messaged worked and which not.
 
-![stats of result](/assets/uploads/stats-of-result.png)
+![stats of result](/assets/uploads/stats-of-result.png){: loading="lazy" decoding="async"}
 
 *Result of experiment*
 
@@ -104,19 +104,19 @@ In case you don't want to read, then here is the crucial thing to remember. Peop
 
 I am sure you knew about reviews and other social proof on the website and other landing pages to help the people choose your product. So, I am not going to give you those generic examples; however, I had found some unique and creative way to show social proofs, which are shown below:
 
-![Instapaper.com provides a number of their current customers under the "Get started for free" CTA to increase the probability](/assets/uploads/instapaper-pricing-1024x649.png)
+![Instapaper.com provides a number of their current customers under the "Get started for free" CTA to increase the probability](/assets/uploads/instapaper-pricing-1024x649.png){: loading="lazy" decoding="async"}
 
 [Instapaper.com](http://Instapaper.com) provides a number of their current customers under the "Get started for free" CTA to increase the probability of clicking on the button by reducing friction.
 
 .
 
-![The same thing is doing by optinmonster.com they are placing the testimonial of industry thought leader above the pricing](/assets/uploads/optinmonster-1024x548.png)
+![The same thing is doing by optinmonster.com they are placing the testimonial of industry thought leader above the pricing](/assets/uploads/optinmonster-1024x548.png){: loading="lazy" decoding="async"}
 
 The same thing is doing by [optinmonster.com](http://optinmonster.com) they are placing the testimonial of industry thought leader above the pricing plans.
 
 .
 
-![Mx player games provide the numbers of users who are playing the game so others can choose which game should they play and](/assets/uploads/mxplayer-480x1024.jpg)
+![Mx player games provide the numbers of users who are playing the game so others can choose which game should they play and](/assets/uploads/mxplayer-480x1024.jpg){: loading="lazy" decoding="async"}
 
 Mx player games provide the numbers of users who are playing the game so others can choose which game should they play and which not.
 
@@ -142,13 +142,13 @@ The results were quite surprising, more French wine was sold on days when French
 
 .
 
-![Smashing Magazine is showing promotional ad's related to UI, UX design when I am reading the article on topic of UX design.](/assets/uploads/smashing-magazine-1024x679.png)
+![Smashing Magazine is showing promotional ad's related to UI, UX design when I am reading the article on topic of UX design.](/assets/uploads/smashing-magazine-1024x679.jpg){: loading="lazy" decoding="async"}
 
 Smashing Magazine is showing promotional ad's related to UI, UX design when I am reading the article on topic of UX design.
 
 .
 
-![When purchasing from amazon fresh, when the user checkout after adding the product into the cart, Amazon shows this screen](/assets/uploads/amazon-505x1024.jpg)
+![When purchasing from amazon fresh, when the user checkout after adding the product into the cart, Amazon shows this screen](/assets/uploads/amazon-505x1024.jpg){: loading="lazy" decoding="async"}
 
 When purchasing from amazon fresh, when the user checkout after adding the product into the cart, Amazon shows this screen to increase the probability of buying more items.
 
@@ -180,7 +180,7 @@ Research shows that **numbers become more easily evaluated if broken into catego
 
 For example, newly proposed EPA labels contain information about carbon dioxide emissions, but no one is familiar with a "good" or bad" level of CO2. The labels try to remedy this problem by rating a given car on a 1 to 10 scale linear in CO2 reduction.
 
-![Rather than saying our product sold 232000 times, amazon is labelling with the word best seller](/assets/uploads/amazon.png)
+![Rather than saying our product sold 232000 times, amazon is labelling with the word best seller](/assets/uploads/amazon.png){: loading="lazy" decoding="async"}
 
 Rather than saying our product sold 232000 times, amazon is labelling with the word best seller
 
@@ -197,19 +197,19 @@ Have you ever landed on a website that wants you to purchase something but your 
 
 It's because you don't have trust on the product website. Now, there are infinite factors that decide whatever a person should believe on the website or not; I want to talk about only one of them, which is **trust**
 
-![Use of trust seal logo on the website where your users make a transaction can dramatically help you in build trust](/assets/uploads/trust-logos.png)
+![Use of trust seal logo on the website where your users make a transaction can dramatically help you in build trust](/assets/uploads/trust-logos.png){: loading="lazy" decoding="async"}
 
 Use of trust seal logo on the website where your users make a transaction can dramatically help you in build trust
 
 Maybe the above paragraph seems not reasonable to you, so I included a survey from [shopify.com](http://shopify.com) where you can see that 75% of people didn't purchase anything due to missing a trust logo.
 
-![Shopify survey data on shopping cart abandonment and trust signals](/assets/uploads/shopping-cart-abandonment-trust-signals.png)
+![Shopify survey data on shopping cart abandonment and trust signals](/assets/uploads/shopping-cart-abandonment-trust-signals.png){: loading="lazy" decoding="async"}
 
 ## **5) Pros and cons**
 
 According to research, People choose between alternatives by weighing their pros and cons on different attributes, and choice architects influence behaviour when particular attributes are made more or less salient. So always highlight the best option
 
-![image](/assets/uploads/image-1024x845.png)
+![image](/assets/uploads/image-1024x845.png){: loading="lazy" decoding="async"}
 
 Best option is highlighted by "Best Deal"
 
@@ -217,13 +217,13 @@ Best option is highlighted by "Best Deal"
 
 Research has demonstrated that decision aids such as product recommendation systems can be highly beneficial to consumers, enabling them to find products that better match their preferences while at the same time reducing search effort (**[Häubl and Trifts 2000](https://www.researchgate.net/publication/227442205_Consumer_Decision_Making_in_Online_Shopping_Environments_The_Effects_of_Interactive_Decision_Aids)**).
 
-![Amazon feed is showing personalized books](/assets/uploads/amazon-feed-461x1024.jpg)
+![Amazon feed is showing personalized books](/assets/uploads/amazon-feed-461x1024.jpg){: loading="lazy" decoding="async"}
 
 Amazon feed is showing personalized books
 
 .
 
-![Same with this one](/assets/uploads/amazon-prime-505x1024.jpeg)
+![Same with this one](/assets/uploads/amazon-prime-505x1024.jpeg){: loading="lazy" decoding="async"}
 
 Same with this one
 
@@ -237,7 +237,7 @@ For example, If I search for the book "Atomic habit" since it has a tag of self-
 
 #### The second personalization model is based on people.
 
-![Choice architect: how to present choice so people will choose it for better user experience and conversion.](/assets/uploads/amazon-customer-personalization-505x1024.jpeg)
+![Choice architect: how to present choice so people will choose it for better user experience and conversion.](/assets/uploads/amazon-customer-personalization-505x1024.jpeg){: loading="lazy" decoding="async"}
 
 A similarity index identifies people who have attributes in common. These similarities can include tens or hundreds of variables to precisely match people to others who are like them in critical ways. Then the algorithm makes recommendations based on items that look like users have chosen. This recommendation algorithm says, "People like you liked these items."
 
@@ -251,7 +251,7 @@ Give them choice only when they really need it!
 
 Don't show choices that are not helpful for the people. **Not all choices are meaningful. While users may appreciate it if you give them lots of customizable options, but that doesn't mean everyone needs it!**
 
-![As you can see MX player is giving option which no one cares about](/assets/uploads/mxplayer-510x1024.jpeg)
+![As you can see MX player is giving option which no one cares about](/assets/uploads/mxplayer-510x1024.jpeg){: loading="lazy" decoding="async"}
 
 As you can see MX player is giving option which no one cares about
 

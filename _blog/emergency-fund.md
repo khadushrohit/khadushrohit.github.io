@@ -9,7 +9,7 @@ image: ""
 ---
 Imagine you wake up in the morning and your parents want you to leave their house. You don't have a job and little to no savings. How will you survive?
 
-![Photo by Surface](/assets/uploads/surface-rb8vfip7ges-unsplash.jpeg)
+![Photo by Surface](/assets/uploads/surface-rb8vfip7ges-unsplash.jpeg){: loading="lazy" decoding="async"}
 
 Photo by [Surface](https://unsplash.com/@surface)
 

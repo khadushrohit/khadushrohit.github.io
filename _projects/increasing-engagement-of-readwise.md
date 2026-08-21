@@ -33,11 +33,11 @@ By the way, you can check the video here: [https://youtu.be/G-lR2vpyPz8?t=394](h
 
 Readwise solves the boringness of spaced repetition by showing the best highlights at the right time with a mix of little gamification.
 
-![readwise image](/assets/uploads/readwise-1024x490.png)
+![readwise image](/assets/uploads/readwise-1024x490.png){: loading="lazy" decoding="async"}
 
 Screenshot of USP
 
-[![leadboard image](/assets/uploads/leaderboard-1024x413.png)](/assets/uploads/leaderboard.png)
+[![leadboard image](/assets/uploads/leaderboard-1024x413.png){: loading="lazy" decoding="async"}](/assets/uploads/leaderboard.png)
 
 Leaderboard(gamification)
 
@@ -45,7 +45,7 @@ Leaderboard(gamification)
 
 Showing the best highlight and leaderboard is not enough because look at my statistics, and I never did space repetition more than a week.
 
-![statistics image](/assets/uploads/statistics.png)
+![statistics image](/assets/uploads/statistics.png){: loading="lazy" decoding="async"}
 
 Maybe I could be lazy but, I am not alone. 
 
@@ -65,15 +65,15 @@ I had already written an article on easy/friction. You can read more about this 
 
 To access spaced repetition, you have to open the app/website --> **click on daily review** --> start to revise highlights.
 
-![dailyreview image](/assets/uploads/dailyreview-461x1024.jpeg)
+![dailyreview image](/assets/uploads/dailyreview-461x1024.jpeg){: loading="lazy" decoding="async"}
 
 Final version after removing the extra step
 
-![final screen](/assets/uploads/readwise-final-461x1024.png)
+![final screen](/assets/uploads/readwise-final-461x1024.png){: loading="lazy" decoding="async"}
 
 I want to end the power of **Make it easy** with one final research in which the rise of filling tax form get increased **from 19.2 to 22 percent of people.**
 
-[![screenshot](/assets/uploads/inside-nudge-unit.png)](/assets/uploads/full-inside-nudge-unit.png)
+[![screenshot](/assets/uploads/inside-nudge-unit.png){: loading="lazy" decoding="async"}](/assets/uploads/full-inside-nudge-unit.png)
 
 Screenshot from the book "Inside the nudge unit"
 
@@ -91,7 +91,7 @@ To overcome this problem, we can show the highlight directly in the notification
 
 Below is an example:
 
-![status-bar image](/assets/uploads/status-bar-461x1024.png)
+![status-bar image](/assets/uploads/status-bar-461x1024.png){: loading="lazy" decoding="async"}
 
 Personalized notification in status bar with Foot-In-door technique.
 
@@ -107,7 +107,7 @@ The primary role of making things attractive is increasing people's motivation a
 
 This first idea is to make the note showing section more attractive through colours and a little animation.
 
-![make it attractive image](/assets/uploads/Frame-1-505x1024.png)
+![make it attractive image](/assets/uploads/Frame-1-505x1024.png){: loading="lazy" decoding="async"}
 
 readwise.io
 

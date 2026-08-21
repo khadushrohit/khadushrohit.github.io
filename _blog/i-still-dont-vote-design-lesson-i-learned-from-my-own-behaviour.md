@@ -9,7 +9,7 @@ image: ""
 ---
 A few months back, I made a post on LinkedIn where I had criticized the government for not making their digital products user-friendly.
 
-![My linkedin post image](/assets/uploads/Screenshot-2021-08-12-at-8.48.34-AM.png)
+![My linkedin post image](/assets/uploads/Screenshot-2021-08-12-at-8.48.34-AM.png){: loading="lazy" decoding="async"}
 
 Here is a link: https://www.linkedin.com/posts/rohit-singh-designer\_ux-badux-goverment-activity-6762687959121571840--9Nz
 
@@ -77,7 +77,7 @@ It is an external force that stops things to move. It's a similar thing, except 
 
 ### Consider, this story!
 
-[![suicide image](/assets/uploads/andreea-popa-c82WpNI6A-o-unsplash-1024x685.jpg)](/assets/uploads/andreea-popa-c82WpNI6A-o-unsplash-scaled.jpg)
+[![suicide image](/assets/uploads/andreea-popa-c82WpNI6A-o-unsplash-1024x685.jpg){: loading="lazy" decoding="async"}](/assets/uploads/andreea-popa-c82WpNI6A-o-unsplash-scaled.jpg)
 
 https://unsplash.com/photos/c82WpNI6A-o
 
@@ -116,7 +116,7 @@ Britain and the Netherlands saw comparable reductions in thefts of a third or mo
 
 Paypal uses friction to help users avoid sending the wrong amount of money when they are in a hurry! By showing the written digit from right to left, rather than left to right!
 
-![paypal payment image](/assets/uploads/photo_2021-08-15_10-34-17-461x1024.jpg)
+![paypal payment image](/assets/uploads/photo_2021-08-15_10-34-17-461x1024.jpg){: loading="lazy" decoding="async"}
 
 paypal.com
 
@@ -126,7 +126,7 @@ There is no need to do anything hard. Also, I don't think there is any need to d
 
 But still, sharing some of my favourite examples below.
 
-![xiomi mi](/assets/uploads/Frame-1-1-1024x726.png)
+![xiomi mi](/assets/uploads/Frame-1-1-1024x726.png){: loading="lazy" decoding="async"}
 
 See how mi is making it easy to read and copy the OTP for their user.
 

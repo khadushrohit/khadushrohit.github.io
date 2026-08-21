@@ -38,7 +38,7 @@ Here are few reasons why the client wants a redesign:
 -   To assist in providing with more infrastructure to bring more clients on board.
 -   **Last one according to my perspective was website was missing human touch it was more looking like a SAAS website rather than an recruitment agency!**
 
-[![old website ajs](/assets/uploads/old-website-ajs-1024x1001.png)](/assets/uploads/old-website-ajs.png)
+[![old website ajs](/assets/uploads/old-website-ajs-1024x1001.png){: loading="lazy" decoding="async"}](/assets/uploads/old-website-ajs.png)
 
 the old website of alexander James recruiting
 
@@ -62,7 +62,7 @@ Since this was the redesign, we didn't have to develop the website's content, bu
 
 [https://whimsical.com/sitemap-K3c3kQonGZsNJ32YBudCMt](https://whimsical.com/sitemap-K3c3kQonGZsNJ32YBudCMt)
 
-![sitemap image](/assets/uploads/sitemap-1024x572.png)
+![sitemap image](/assets/uploads/sitemap-1024x572.png){: loading="lazy" decoding="async"}
 
 ## My process
 
@@ -72,19 +72,19 @@ I started to collect inspiration and with the combination of font, colour and la
 
 Finally! this is the first version I have come up with!
 
-[![first-iteration](/assets/uploads/first-iteration-338x1024.png)](/assets/uploads/first-iteration.png)
+[![first-iteration](/assets/uploads/first-iteration-338x1024.png){: loading="lazy" decoding="async"}](/assets/uploads/first-iteration.png)
 
 the first version of the design
 
 **I have few days of feedback and iteration. This was the final version upon which the client had decided to go with.**
 
-[![final version](/assets/uploads/final-version-of-design-467x1024-1.png)](/assets/uploads/full-final-version-of-design-467x1024-1.png)
+[![final version](/assets/uploads/final-version-of-design-467x1024-1.png){: loading="lazy" decoding="async"}](/assets/uploads/full-final-version-of-design-467x1024-1.png)
 
 .
 
 Click on the image to get a clear view!
 
-[![services page](/assets/uploads/attachment_117392243-229x1024.webp)](/assets/uploads/attachment_117392243-scaled.webp)
+[![services page](/assets/uploads/attachment_117392243-229x1024.webp){: loading="lazy" decoding="async"}](/assets/uploads/attachment_117392243-scaled.webp)
 
 ## Result
 

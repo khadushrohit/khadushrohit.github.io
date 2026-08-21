@@ -5,7 +5,7 @@ description: "You're sitting at your desk, heart pounding before a big presentat
 date: 2025-07-10 02:29:38
 category: "Mental health"
 tags: []
-image: "/assets/uploads/MacBook-Air-2.png"
+image: "/assets/uploads/MacBook-Air-2.jpg"
 ---
 Think stress is your enemy? Think again.
 

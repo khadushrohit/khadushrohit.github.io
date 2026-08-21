@@ -27,7 +27,7 @@ For example, one person wants to keep the light on during the night for study bu
 
 So my main goal was to design a solution that makes it safe to find the ideal roommate to nearby places.
 
-![Story](/assets/uploads/Layer-0-1024x723-1.png)
+![Story](/assets/uploads/Layer-0-1024x723-1.png){: loading="lazy" decoding="async"}
 
 Here I had tried to replicate the real problem of the user through a story  
 and how this will solve their problem.
@@ -46,7 +46,7 @@ If you wanted to know which questions I have asked from the user then check out 
 
 Another problem which I found was, the users who are new in the city generally look for a room on rent or PG’s near them. But for now, I just want to stick to only one problem and solve it.
 
-![User-Persona-Template](/assets/uploads/User-Persona-Template-1024x888-1.png)
+![User-Persona-Template](/assets/uploads/User-Persona-Template-1024x888-1.png){: loading="lazy" decoding="async"}
 
 ## **My role**
 
@@ -66,29 +66,29 @@ First of all, I have used **empathy** to understand the user by watching them an
 
 Then, I defined the problem and I got stuck in the ideate stage because I was not sure that the user really needs the app or not. Then I had made my assumption and started to work on my own assumptions, Which is **Roomers** app.
 
-![Design-process](/assets/uploads/Capture-1.png)
+![Design-process](/assets/uploads/Capture-1.png){: loading="lazy" decoding="async"}
 
 So let's start to see the process.
 
 I had started with a simple user-flow.
 
-![User-flow](/assets/uploads/Layer-0-1-768x576-1.png)
+![User-flow](/assets/uploads/Layer-0-1-768x576-1.png){: loading="lazy" decoding="async"}
 
 then I had created some rough sketches to put my ideas live.
 
-![Rough-sketches](/assets/uploads/dfs-768x648-1.jpg)
+![Rough-sketches](/assets/uploads/dfs-768x648-1.jpg){: loading="lazy" decoding="async"}
 
-![Some more sketches](/assets/uploads/dgererr-295x403-1.jpg)
+![Some more sketches](/assets/uploads/dgererr-295x403-1.jpg){: loading="lazy" decoding="async"}
 
 ## **Wireflow**
 
-![Wireflow](/assets/uploads/Untitled-1-768x1173-1-670x1024.png)
+![Wireflow](/assets/uploads/Untitled-1-768x1173-1-670x1024.png){: loading="lazy" decoding="async"}
 
 ## **Outcomes and lesson I learned from it.**
 
 Now trusting my guts I moved forward and started to visuals of the app. but, as soon as I started to create visuals from a wireframe. I found the issue in the wireframe and fixed it! then suddenly I got another issue and this step continues as soon as I started to make the visuals. below its proof.
 
-![mockup](/assets/uploads/Capture-2.png)
+![mockup](/assets/uploads/Capture-2.png){: loading="lazy" decoding="async"}
 
 The left one is the first version and the right one is an improved one.
 
@@ -96,7 +96,7 @@ The left one is the first version and the right one is an improved one.
 
 Anyway, I tried to make some visuals of the app but again same problem arise and I end up doing 2-3 screens only.
 
-![Mockup](/assets/uploads/Capture-3.png)
+![Mockup](/assets/uploads/Capture-3.png){: loading="lazy" decoding="async"}
 
 So that's was my case study on the room finding app. I know that the visuals are not complete by the wireframe was enough to make progress further.
 

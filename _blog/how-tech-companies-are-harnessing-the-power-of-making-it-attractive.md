@@ -22,7 +22,7 @@ After a few days of watching short videos, I got so habitual that Whenever I use
 It's the attractiveness of the short videos.  
 Every time I open Facebook 8 out of 10 times, they show me the preview of a girl doing something in the video.
 
-![facebook-shorts-video](/assets/uploads/ezgif.com-gif-maker-1.gif)
+![facebook-shorts-video](/assets/uploads/ezgif.com-gif-maker-1.gif){: loading="lazy" decoding="async"}
 
 Here is what I am talking about!
 
@@ -32,7 +32,7 @@ It's not only in my FB; I have checked it in my friends and family members' phon
 
 To increase the completion rate of the profile, LinkedIn uses a simple but effective tool: The progress bar. Users see a progress bar that fills up when they add new information to their virtual profile. After successfully entering all relevant data, members also receive a badge – they are now "superstars".
 
-![linkedin profile completion](/assets/uploads/image-3.png)
+![linkedin profile completion](/assets/uploads/image-3.png){: loading="lazy" decoding="async"}
 
 The image below shows the progress bar (on the left) and the badge that users receive on completing their profile.
 
@@ -58,13 +58,13 @@ On **Facebook and Youtube**, both of them are grabbing attention by showing a gi
 
 Because girls are everywhere, but we don't pay attention everywhere, they show the previews in which girl is doing something, which makes us curious to click.
 
-![youtube shorts image](/assets/uploads/youtube-shorts-461x1024.jpeg)
+![youtube shorts image](/assets/uploads/youtube-shorts-461x1024.jpeg){: loading="lazy" decoding="async"}
 
 see how they are using salient and curiosity here
 
 .
 
-![facebook shorts image](/assets/uploads/facebooks-shorts.png)
+![facebook shorts image](/assets/uploads/facebooks-shorts.png){: loading="lazy" decoding="async"}
 
 Facebook is also doing the same thing with their shorts video.
 
@@ -90,7 +90,7 @@ If you are reading this article so far, you may have noticed that whatever actio
 
 ### Research on why immediate reward can change behaviour
 
-![black and white hospital bed in the middle of interior building](/assets/uploads/arseny-togulev-de6ryp1naho-unsplash.jpeg)
+![black and white hospital bed in the middle of interior building](/assets/uploads/arseny-togulev-de6ryp1naho-unsplash.jpeg){: loading="lazy" decoding="async"}
 
 Photo by [Arseny Togulev](https://unsplash.com/@tetrakiss) on [Unsplash](https://unsplash.com/?utm_source=khadush&utm_medium=referral)
 

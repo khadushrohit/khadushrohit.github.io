@@ -25,7 +25,7 @@ Until I listened to a podcast where the author shared his story. Whenever he doe
 
 Did you see what the author is trying to do?
 
-![wooden armchair](/assets/uploads/michelle-ding-qaotkq8ehcw-unsplash-1024x678.jpeg)
+![wooden armchair](/assets/uploads/michelle-ding-qaotkq8ehcw-unsplash-1024x678.jpeg){: loading="lazy" decoding="async"}
 
 unsplash.com
 

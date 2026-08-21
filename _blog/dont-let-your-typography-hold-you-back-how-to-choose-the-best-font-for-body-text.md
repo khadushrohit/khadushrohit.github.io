@@ -17,13 +17,13 @@ While a deep understanding of typography can undoubtedly help, several online to
 
 Additionally, it's crucial to remember that readability and legibility are key factors when choosing a body font.
 
-[![Idea-2](/assets/uploads/Twitter-post-7-1-1024x1024.png)](/assets/uploads/Twitter-post-7-1.png)
+[![Idea-2](/assets/uploads/Twitter-post-7-1-1024x1024.png){: loading="lazy" decoding="async"}](/assets/uploads/Twitter-post-7-1.png)
 
-[![Don't Let Your Typography Hold You Back: How to Choose the Best Font for Body Text](/assets/uploads/Twitter-post-9-1-1024x1024.png)](/assets/uploads/Twitter-post-9-1.png)
+[![Don't Let Your Typography Hold You Back: How to Choose the Best Font for Body Text](/assets/uploads/Twitter-post-9-1-1024x1024.png){: loading="lazy" decoding="async"}](/assets/uploads/Twitter-post-9-1.png)
 
-[![Don't Let Your Typography Hold You Back: How to Choose the Best Font for Body Text](/assets/uploads/Twitter-post-11-1-1024x1024.png)](/assets/uploads/Twitter-post-11-1.png)
+[![Don't Let Your Typography Hold You Back: How to Choose the Best Font for Body Text](/assets/uploads/Twitter-post-11-1-1024x1024.png){: loading="lazy" decoding="async"}](/assets/uploads/Twitter-post-11-1.png)
 
-[![Idea-4](/assets/uploads/Twitter-post-12-1-1024x1024.png)](/assets/uploads/Twitter-post-12-1.png)
+[![Idea-4](/assets/uploads/Twitter-post-12-1-1024x1024.png){: loading="lazy" decoding="async"}](/assets/uploads/Twitter-post-12-1.png)
 
 By considering these factors and using available resources, designers with minimal typography skills can find a suitable body font.
 

@@ -6,7 +6,7 @@ role: "Research, UX & Visual Design"
 date: 2021-10-04 10:32:46
 year: 2021
 tags: ["Mobile", "Behavioural design"]
-image: "/assets/uploads/Frame-185.png"
+image: "/assets/uploads/Frame-185.jpg"
 link: ""
 order: 4
 ---
@@ -58,7 +58,7 @@ Due to the above-mentioned constraints, I had started to interview **my friend w
 
 Here are a few things I found:
 
-[![image of interview answer](/assets/uploads/Frame-188-1024x644.png)](/assets/uploads/Frame-188.png)
+[![image of interview answer](/assets/uploads/Frame-188-1024x644.png){: loading="lazy" decoding="async"}](/assets/uploads/Frame-188.png)
 
 * * *
 
@@ -68,7 +68,7 @@ After doing a sales safari I found a good amount of ideas about users. Here is t
 
 With those **interview data and survey data**, I designed the persona!
 
-[![Persona Image](/assets/uploads/UX-Persona-1024x681.png)](/assets/uploads/UX-Persona.png)
+[![Persona Image](/assets/uploads/UX-Persona-1024x681.png){: loading="lazy" decoding="async"}](/assets/uploads/UX-Persona.png)
 
 ## 02/ Defining
 
@@ -84,11 +84,11 @@ There are lots of opportunities as well as problems that can be tackled through 
 
 There is no solid solution regarding increasing self-control especially when the person is addicted. But, **I had found that the environment & triggers play a very critical role when the user makes decisions.**
 
-![process](/assets/uploads/photo_2022-03-08-11.20.25-1024x810.jpeg)
+![process](/assets/uploads/photo_2022-03-08-11.20.25-1024x810.jpeg){: loading="lazy" decoding="async"}
 
 There was lots of idea and things going in my mind about the app because I have to create the behaviour intervention as well as merge it will the product so, I decided to create brain mapping to see the big picture.
 
-[![Brain mapping of the app idea and behaviour intervention](/assets/uploads/image-1024x399.png)](/assets/uploads/full-image.png)
+[![Brain mapping of the app idea and behaviour intervention](/assets/uploads/image-1024x399.png){: loading="lazy" decoding="async"}](/assets/uploads/full-image.jpg)
 
 [figma.com](https://www.figma.com/file/chshCCRcwoAoHy1JreJkZ2/brain-mapping?node-id=0%3A1)
 
@@ -98,17 +98,17 @@ Rather than creating the whole app flow in one go, I decided to draw the flow on
 
 It will help me to avoid confusion as well as extra work.
 
-![User flow](/assets/uploads/image-12-767x1024.png)
+![User flow](/assets/uploads/image-12-767x1024.jpg){: loading="lazy" decoding="async"}
 
 Click on the image for the full-screen view!
 
 * * *
 
-![Wireflow + Sketches](/assets/uploads/Wireflow-768x1024.png)
+![Wireflow + Sketches](/assets/uploads/Wireflow-768x1024.jpg){: loading="lazy" decoding="async"}
 
 Wireflow + Sketches
 
-[![Second flow image](/assets/uploads/first-782x1024.png)](/assets/uploads/first.png)
+[![Second flow image](/assets/uploads/first-782x1024.jpg){: loading="lazy" decoding="async"}](/assets/uploads/first.png)
 
 Second flow
 

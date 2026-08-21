@@ -105,7 +105,7 @@ For example, suppose you are reading the word on the landing page, but the words
 
 Or what if your webpage colour is very light similar to given in the below image.
 
-![5 things to ensure before launching your landing page](/assets/uploads/badux-1024x216.png)
+![5 things to ensure before launching your landing page](/assets/uploads/badux-1024x216.png){: loading="lazy" decoding="async"}
 
 Or what if your landing page is not looking trustworthy at all? Is it looking more like a website built in 20 century?
 

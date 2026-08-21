@@ -63,7 +63,7 @@ Fear is a great motivator—even more than rewards.
 
 Make a list of things you *hate*. Then, build your life in a way that helps you avoid those things.
 
-[![I went from waiter to designer at VWO — Here are the 2 mindset shifts that made it possible](/assets/uploads/Screenshot-2025-03-21-at-10.37.21-AM-300x73.png)](/assets/uploads/Screenshot-2025-03-21-at-10.37.21-AM.png)
+[![I went from waiter to designer at VWO — Here are the 2 mindset shifts that made it possible](/assets/uploads/Screenshot-2025-03-21-at-10.37.21-AM-300x73.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2025-03-21-at-10.37.21-AM.png)
 
 Hating things is good for motivation, but you need proper planning to avoid that scary dream.
 

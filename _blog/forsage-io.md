@@ -17,7 +17,7 @@ I am not a financial expert. I am a 23-year-old guy looking to save and invest h
 
 Basically, I want financial freedom.
 
-![Investment Scrabble text](/assets/uploads/precondo-ca-olsgcrlsykw-unsplash-1024x576.jpeg)
+![Investment Scrabble text](/assets/uploads/precondo-ca-olsgcrlsykw-unsplash-1024x576.jpeg){: loading="lazy" decoding="async"}
 
 Photo by Precondo CA
 
@@ -63,7 +63,7 @@ It will take me around six years to get this amount of return with a 15k rupee o
 
 .
 
-![forsage](/assets/uploads/photo_2022-01-01-07.52.37-461x1024.jpeg)
+![forsage](/assets/uploads/photo_2022-01-01-07.52.37-461x1024.jpeg){: loading="lazy" decoding="async"}
 
 It gets increased later
 
