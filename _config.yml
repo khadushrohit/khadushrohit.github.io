@@ -1,9 +1,11 @@
-title: Khadush
+title: Rohit Singh
 tagline: Product Designer
 description: >-
-  Design work and case studies by Rohit Singh (Khadush) — product designer at VWO.
+  Design work and case studies by Rohit Singh — product designer specialising in SaaS websites and web apps.
 author: Rohit Singh
-url: ""
+# Absolute site URL. Change this ONE line to https://rohitdesigner.in when the
+# domain is connected — canonical tags and the sitemap follow automatically.
+url: "https://khadushrohit.github.io"
 baseurl: ""
 
 permalink: /:title/
