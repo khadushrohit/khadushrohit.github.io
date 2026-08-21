@@ -1,0 +1,23 @@
+<script>
+(function () {
+  // Obfuscated email links
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest ? e.target.closest('.email-link') : null;
+    if (!a) return;
+    e.preventDefault();
+    window.location.href = 'mailto:' + atob(a.getAttribute('data-e'));
+  });
+
+  // Any link off this site opens in a new tab
+  var host = window.location.hostname;
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var href = a.getAttribute('href') || '';
+    if (/^(mailto:|tel:|#)/i.test(href)) return;
+    if (a.classList.contains('email-link')) return;
+    if (a.hostname && a.hostname !== host) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+})();
+</script>
