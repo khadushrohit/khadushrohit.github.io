@@ -45,4 +45,4 @@ I feel that this is the problem that exists with me. If you are reading my artic
 
 Understanding this can help me improve the storybrand for new businesses.
 
-My email is rs949863@gmail.com
+My email: {% include email.html text="write to me" %}

@@ -34,7 +34,7 @@ I found a couple of apps there, but after using the app I found ample opportunit
 
 I was not happy with the app at all so, I used google this time and found a few solutions in the articles but still, they all are **based too much upon the willpower of the user.** e.g. Avoid pornography, and Do exercise.
 
-Here is the link to the article: [https://www.medicalnewstoday.com/articles/325743#how-to-stop](https://www.medicalnewstoday.com/articles/325743#how-to-stop)
+Here is the link to the article: [medicalnewstoday.com](https://www.medicalnewstoday.com/articles/325743#how-to-stop)
 
 ## 01/ Discovery
 
@@ -64,7 +64,7 @@ Here are a few things I found:
 
 One user's answer was not enough to design the whole app. So, I decide to use "**Sales safari"(a remote user research method used for finding user problems)!**
 
-After doing a sales safari I found a good amount of ideas about users. Here is the link to sales safari data -> [https://www.evernote.com/shard/s454/sh/300138e4-756f-5e44-78cf-16a152fb40e4/0168ac4f1c401c41d1ef462937b262b0](https://www.evernote.com/shard/s454/sh/300138e4-756f-5e44-78cf-16a152fb40e4/0168ac4f1c401c41d1ef462937b262b0)
+After doing a sales safari I found a good amount of ideas about users. Here is the link to sales safari data -> [evernote.com](https://www.evernote.com/shard/s454/sh/300138e4-756f-5e44-78cf-16a152fb40e4/0168ac4f1c401c41d1ef462937b262b0)
 
 With those **interview data and survey data**, I designed the persona!
 
@@ -116,6 +116,6 @@ Second flow
 
 Yes, please write "hello" — {% include email.html text="send me an email" %}
 
-More sketches and flows: [https://www.figma.com/file/xPu3UtKWSATaeVYT1EaPPK/no-more-mess?node-id=0%3A1](https://www.figma.com/file/xPu3UtKWSATaeVYT1EaPPK/no-more-mess?node-id=0%3A1)
+More sketches and flows: [figma.com](https://www.figma.com/file/xPu3UtKWSATaeVYT1EaPPK/no-more-mess?node-id=0%3A1)
 
-Figma link in case you want to see progress: [https://www.figma.com/file/uQmjYBbpWZn3RUdXsyYKOk/nomoremess?node-id=0%3A1](https://www.figma.com/file/uQmjYBbpWZn3RUdXsyYKOk/nomoremess?node-id=0%3A1)
+Figma link in case you want to see progress: [figma.com](https://www.figma.com/file/uQmjYBbpWZn3RUdXsyYKOk/nomoremess?node-id=0%3A1)

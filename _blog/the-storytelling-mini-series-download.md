@@ -7,9 +7,9 @@ category: "Marketing"
 tags: []
 image: ""
 ---
-**Booklet 1: The Power of Stories**: [https://www.psychotactics.com/pddownloads/sttlg09/001\_StoryTelling01.pdf](https://www.psychotactics.com/pddownloads/sttlg09/001_StoryTelling01.pdf)
+**Booklet 1: The Power of Stories**: [psychotactics.com](https://www.psychotactics.com/pddownloads/sttlg09/001_StoryTelling01.pdf)
 
-**Booklet 2: Signature Stories**: [https://www.psychotactics.com/pddownloads/sttlg09/002\_Signature\_Stories2.pdf](https://www.psychotactics.com/pddownloads/sttlg09/002_Signature_Stories2.pdf)
+**Booklet 2: Signature Stories**: [psychotactics.com](https://www.psychotactics.com/pddownloads/sttlg09/002_Signature_Stories2.pdf)
 
 **Booklet 3: The Power of Drama**: https://www.psychotactics.com/pddownloads/sttlg09/003\_Creating\_Drama3.pdf
 

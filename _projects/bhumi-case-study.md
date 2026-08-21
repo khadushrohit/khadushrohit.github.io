@@ -25,7 +25,7 @@ It's not possible to achieve goals with an outdated website which does not look 
 
 [![website image](/assets/uploads/Bhumiitech-old-website-357x1024.png){: loading="lazy" decoding="async"}](/assets/uploads/Bhumiitech-old-website.png)
 
-The old website of bhumiitech [https://web.archive.org/web/20220814132843/https://www.bhumiitech.com/](https://web.archive.org/web/20220814132843/https://www.bhumiitech.com/)
+The old website of bhumiitech [web.archive.org](https://web.archive.org/web/20220814132843/https://www.bhumiitech.com/)
 
 * * *
 
@@ -114,7 +114,7 @@ I don't want to extend the case study, so I will not talk about how I wrote copy
 
 [![wireframe image](/assets/uploads/wireframe-content-1024x677.png){: loading="lazy" decoding="async"}](/assets/uploads/wireframe-content.jpg)
 
-[https://www.figma.com/file/G5exqookcaHeIerJuUijEh/wireframe?node-id=0%3A1&t=UkMd1ScAjmKhohxD-1](https://www.figma.com/file/G5exqookcaHeIerJuUijEh/wireframe?node-id=0%3A1&t=UkMd1ScAjmKhohxD-1)
+[figma.com](https://www.figma.com/file/G5exqookcaHeIerJuUijEh/wireframe?node-id=0%3A1&t=UkMd1ScAjmKhohxD-1)
 
 It took around 20 days to write content and create a website wireframe.
 

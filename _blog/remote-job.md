@@ -127,7 +127,7 @@ See how Casey shared his perspective on one of my posts, which got my attention.
 
 Tip: You can do something similar but, don't stop just there. Use the opportunity to connect and send DM's to keep momentum going.
 
-![https://www.linkedin.com/posts/rohit-singh-designer\_ux-ui-designer-activity-7143522918734438400-m4W8](/assets/uploads/Screenshot-2024-04-19-at-11.23.38-PM-777x1024.png){: loading="lazy" decoding="async"}
+![LinkedIn post by Rohit Singh Designer](/assets/uploads/Screenshot-2024-04-19-at-11.23.38-PM-777x1024.png){: loading="lazy" decoding="async"}
 
 https://www.linkedin.com/posts/rohit-singh-designer\_ux-ui-designer-activity-7143522918734438400-m4W8
 
@@ -149,9 +149,9 @@ She got his first full-time remote job.
 
 See how this professor shared my post with his own specific story; you can also do something similar to some other incident.
 
-![https://www.linkedin.com/posts/rogerlouismartinez\_ux-ui-designer-activity-7144475122819555329-SpsR](/assets/uploads/Screenshot-2024-04-19-at-11.28.48-PM-913x1024.jpg){: loading="lazy" decoding="async"}
+![LinkedIn post by Rogerlouismartinez](/assets/uploads/Screenshot-2024-04-19-at-11.28.48-PM-913x1024.jpg){: loading="lazy" decoding="async"}
 
-[https://www.linkedin.com/posts/rogerlouismartinez\_ux-ui-designer-activity-7144475122819555329-SpsR](https://www.linkedin.com/posts/rogerlouismartinez_ux-ui-designer-activity-7144475122819555329-SpsR?utm_source=share&utm_medium=member_desktop)
+[linkedin.com](https://www.linkedin.com/posts/rogerlouismartinez_ux-ui-designer-activity-7144475122819555329-SpsR?utm_source=share&utm_medium=member_desktop)
 
 ## ADD to someone else's content or post it and format it in your own way.
 

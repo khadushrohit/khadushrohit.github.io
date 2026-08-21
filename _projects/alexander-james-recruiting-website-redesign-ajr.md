@@ -27,7 +27,7 @@ Alexander  James Recruiting (AJR) is a small UK recruitment agency that speciali
 
 ### Link of questionnaire if you want to dig further
 
-[https://www.dropbox.com/s/z1v5oik2q2zvhnb/AJ%20Recruiting%20Website%20Questionnaire.pdf?dl=0](https://www.dropbox.com/s/z1v5oik2q2zvhnb/AJ%20Recruiting%20Website%20Questionnaire.pdf?dl=0)
+[dropbox.com](https://www.dropbox.com/s/z1v5oik2q2zvhnb/AJ%20Recruiting%20Website%20Questionnaire.pdf?dl=0)
 
 ## Why redesign?
 

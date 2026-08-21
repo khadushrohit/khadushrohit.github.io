@@ -147,7 +147,7 @@ Supplement reading
 
 "Donna Armellino et al., "Using High-Technology to Enforce Low-Technology Safety Measures: The Use of Third-Party Remote Video Auditing and Real-Time Feedback in Healthcare," Clinical Infectious Diseases (2011): cir773;
 
-[http://thomas-lindemann.com/en/gamification-en/how-linkedin-uses-gamification-to-boost-engagement/](http://thomas-lindemann.com/en/gamification-en/how-linkedin-uses-gamification-to-boost-engagement/)
+[thomas-lindemann.com](http://thomas-lindemann.com/en/gamification-en/how-linkedin-uses-gamification-to-boost-engagement/)
 
 "The influential mind" by Talia sharot
 

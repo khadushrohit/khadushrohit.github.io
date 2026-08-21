@@ -17,7 +17,7 @@ Although the pandemic was an exceptional case that started in 2019, now it's 202
 
 Coinbase.com had recently rejected the offer letter of many new employees, and now they are asking for a new job on Linkedin.
 
-[![https://www.linkedin.com/posts/danislou\_update-on-hiring-plans-activity-6938339020737241088-FYiK?utm\_source=linkedin\_share&u](/assets/uploads/image-1-3.png){: loading="lazy" decoding="async"}](/assets/uploads/image-1-3.png)
+[![LinkedIn post by Danislou](/assets/uploads/image-1-3.png){: loading="lazy" decoding="async"}](/assets/uploads/image-1-3.png)
 
 https://www.linkedin.com/posts/danislou\_update-on-hiring-plans-activity-6938339020737241088-FYiK?utm\_source=linkedin\_share&utm\_medium=member\_desktop\_web
 

@@ -21,7 +21,7 @@ Now I understand what happened to my mother. And what happened to me. And what h
 
 ![Brain image](/assets/uploads/image-1-4.png){: loading="lazy" decoding="async"}
 
-[https://qbi.uq.edu.au/brain-basics/memory/where-are-memories-stored](https://qbi.uq.edu.au/brain-basics/memory/where-are-memories-stored)
+[qbi.uq.edu.au](https://qbi.uq.edu.au/brain-basics/memory/where-are-memories-stored)
 
 When something emotional happens, your amygdala (your brain's alarm system) sends an "alert signal" throughout your entire brain. This emotional arousal acts like a highlighter, marking that memory as "extremely important."
 

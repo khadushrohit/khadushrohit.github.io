@@ -118,7 +118,7 @@ I just used it to dump everthing from my mind.
 
 [![mind mapping](/assets/uploads/Screenshot-2023-06-09-at-6.53.13-PM-1024x480.png){: loading="lazy" decoding="async"}](/assets/uploads/Screenshot-2023-06-09-at-6.53.13-PM.png)
 
-Link:[https://whimsical.com/rangestorm-BwiCHJ2nDPg3zcEVbsu4EM@LUSUr8hW5neYTFZBFa](https://whimsical.com/rangestorm-BwiCHJ2nDPg3zcEVbsu4EM@LUSUr8hW5neYTFZBFa)
+Link:[whimsical.com](https://whimsical.com/rangestorm-BwiCHJ2nDPg3zcEVbsu4EM@LUSUr8hW5neYTFZBFa)
 
 Used mind map instead of conventional sitemap
 

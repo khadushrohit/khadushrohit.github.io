@@ -60,7 +60,7 @@ I will still suggest you to use wix because wordpress can be a little bit harder
 
 ### Weebly vs Wix
 
-If you are a little bit confused regarding which one you should choose, follow the below video and here is a good article comparing Wix and Weebly. [https://tech.co/website-builders/weebly-vs-wix-website-builder-comparison](https://tech.co/website-builders/weebly-vs-wix-website-builder-comparison)
+If you are a little bit confused regarding which one you should choose, follow the below video and here is a good article comparing Wix and Weebly. [tech.co](https://tech.co/website-builders/weebly-vs-wix-website-builder-comparison)
 
 **My thought on the tools mentioned above:** Although the tools mentioned above are straightforward to use and set up, they don't give you complete control over everything. You want to access and edit some server-side file, or you want to set a redirect, or you want to optimise your website for SEO purpose.
 
@@ -102,7 +102,7 @@ If you just want to sell something and lead generation where control doesn't mat
 
 https://youtu.be/MacHlfw6gBk
 
-There are 3 more tools(click funnel, Unbounce, Instapage) similar to what leadpages is doing, but personally, I don't know much about them, but you can learn about them from here. [https://www.growthmarketingpro.com/instapage-vs-leadpages-vs-unbounce-vs-clickfunnels/](https://www.growthmarketingpro.com/instapage-vs-leadpages-vs-unbounce-vs-clickfunnels/)
+There are 3 more tools(click funnel, Unbounce, Instapage) similar to what leadpages is doing, but personally, I don't know much about them, but you can learn about them from here. [growthmarketingpro.com](https://www.growthmarketingpro.com/instapage-vs-leadpages-vs-unbounce-vs-clickfunnels/)
 
 ## If you need customisation and complete control over your landing page.
 
@@ -112,7 +112,7 @@ That's why I decided to tell you about some of my favourite tools for doing it! 
 
 ### [Optimizepress](https://www.optimizepress.com/)
 
-![https://www.optimizepress.com/](/assets/uploads/Screenshot-2021-06-17-at-11-01-40-OptimizePress-Landing-Page-Builder-for-WordPress-1-1024x580.png){: loading="lazy" decoding="async"}
+![Screenshot from optimizepress.com](/assets/uploads/Screenshot-2021-06-17-at-11-01-40-OptimizePress-Landing-Page-Builder-for-WordPress-1-1024x580.png){: loading="lazy" decoding="async"}
 
 This is the best tool in terms of creating a landing page and sales pages. The most important thing I love about OptimizePress it is built on WordPress. And WordPress already give you full access to your website(assuming that you have your own domain and hosting).
 
