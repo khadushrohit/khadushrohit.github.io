@@ -1,18 +1,20 @@
 ---
-layout: project
-title: "Agentic workflows"
-description: "Designed the trigger and action model that lets teams automate experiment operations."
-role: "Lead Designer"
+title: Agentic workflows
+description: Designed the trigger and action model that lets teams automate experiment operations.
+role: Lead Designer
 year: 2025
-tags: [Systems, Automation]
-image: ""
-link: ""
+tags:
+  - Systems
+  - Automation
+image: ''
+link: ''
 order: 2
+layout: project
 ---
 
 > Demo case study. Replace with the real one.
 
-## The problem
+The problem
 
 One paragraph on what was broken, for whom, and how you knew. Numbers here if you have them — a support-ticket count, a drop-off rate, a sales complaint that kept repeating.
 
