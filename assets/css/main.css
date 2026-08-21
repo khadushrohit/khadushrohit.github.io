@@ -253,3 +253,19 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
   .article-row { gap: 16px; }
   .article-row .arrow { display: none; }
 }
+
+/* ---- Whole card clickable (stretched-link pattern) ---- */
+.card { position: relative; transition: border-color .15s ease, transform .15s ease; }
+.card h3 a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+.card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.card:hover .thumb { opacity: .9; }
+.card:hover h3 a { color: var(--accent); }
+.card:focus-within { border-color: var(--accent); }
+.card .thumb { transition: opacity .15s ease; }
+/* keep tags below the invisible link overlay so they don't swallow clicks oddly */
+.card .tags { position: relative; z-index: 2; pointer-events: none; }

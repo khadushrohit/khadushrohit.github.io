@@ -38,7 +38,7 @@ title: Product Designer — SaaS websites & web apps
       {% assign projects = site.projects | sort: 'order' %}
       {% for project in projects %}
       <article class="card">
-        <a class="thumb"{% if project.image != "" %} style="background-image:url('{{ project.image | relative_url }}')"{% endif %} href="{{ project.url | relative_url }}" aria-label="{{ project.title }}"></a>
+        <div class="thumb"{% if project.image != "" %} style="background-image:url('{{ project.image | relative_url }}')"{% endif %}></div>
         <div class="body">
           <p class="muted">{{ project.role }}{% if project.year %} &middot; {{ project.year }}{% endif %}</p>
           <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
