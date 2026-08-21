@@ -1,18 +1,31 @@
 ---
 layout: default
-title: Product Designer & Psychology Writer
+title: Product Designer — SaaS websites & web apps
 ---
 <section class="hero">
   <div class="wrap">
     <p class="eyebrow">Rohit Singh &mdash; Khadush</p>
-    <h1>I design experimentation tools people actually understand</h1>
-    <p>Product designer at VWO. Four years turning complex, data-heavy products into something a first-time user can act on without training. I care about revenue as much as usability, and about psychology more than either.</p>
+    <h1>I design interfaces that convert visitors into customers</h1>
+    <p>Product designer, 4+ years, specialised in SaaS websites and web apps. Right now I'm building features and redesigning screens for <strong>VWO.com</strong>, an A/B testing tool doing $40M ARR.</p>
+    <p>I use psychology and conversion optimisation to make products usable, customer-centric, and conversion-focused. Not everything is shown here &mdash; some work is under NDA.</p>
     <div class="actions">
       <a class="btn btn-primary" href="#work">See design work</a>
       <a class="btn btn-ghost" href="{{ '/about/' | relative_url }}">About me</a>
     </div>
   </div>
 </section>
+
+{% assign hp = site.data.homepage %}
+{% if hp.clients %}
+<section class="clients">
+  <div class="wrap">
+    <p class="eyebrow">Websites I've worked on</p>
+    <ul class="client-strip">
+      {% for c in hp.clients %}<li>{{ c }}</li>{% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}
 
 <section class="section" id="work">
   <div class="wrap">
@@ -38,18 +51,27 @@ title: Product Designer & Psychology Writer
   </div>
 </section>
 
-<section class="section">
+<section class="section" id="writing">
   <div class="wrap">
-    <div class="writing-split">
-      <div class="section-head measure">
-        <p class="eyebrow">Writing</p>
-        <h2>I write about design, psychology &amp; money</h2>
-        <p>Deep dives on why people do what they do, and how that shows up in the products we build. All my articles live on Medium now.</p>
-        <div class="actions">
-          <a class="btn btn-primary" href="{{ site.social.medium }}" rel="noopener">Read on Medium</a>
-          <a class="btn btn-ghost" href="{{ site.social.linkedin }}" rel="noopener">Connect on LinkedIn</a>
-        </div>
-      </div>
+    <div class="section-head measure">
+      <p class="eyebrow">Writing</p>
+      <h2>Why humans do what they do</h2>
+      <p>I write about design, psychology, decision-making, and why smart people get stuck. Published on Medium.</p>
     </div>
+    <div class="article-list">
+      {% for a in hp.articles %}
+      <a class="article-row" href="{{ a.url }}" target="_blank" rel="noopener">
+        <div>
+          <p class="muted">{{ a.date | date: "%b %-d, %Y" }}</p>
+          <h3>{{ a.title }}</h3>
+          <p>{{ a.excerpt }}</p>
+        </div>
+        <span class="arrow" aria-hidden="true">&rarr;</span>
+      </a>
+      {% endfor %}
+    </div>
+    <p class="more-link">
+      <a class="btn btn-ghost" href="{{ site.social.medium }}" target="_blank" rel="noopener">Read more on Medium &rarr;</a>
+    </p>
   </div>
 </section>

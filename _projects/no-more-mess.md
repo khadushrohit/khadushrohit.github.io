@@ -76,7 +76,7 @@ Due to the above-mentioned constraints, I had started to interview **my friend w
 
 Here are a few things I found:
 
-[![image of interview answer](/assets/uploads/Frame-188-1024x644.png)](https://www.khadush.com/wp-content/uploads/2021/09/Frame-188.png)
+[![image of interview answer](/assets/uploads/Frame-188-1024x644.png)](/assets/uploads/Frame-188.png)
 
 * * *
 
@@ -86,7 +86,7 @@ After doing a sales safari I found a good amount of ideas about users. Here is t
 
 With those **interview data and survey data**, I designed the persona!
 
-[![Persona Image](/assets/uploads/UX-Persona-1024x681.png)](https://www.khadush.com/wp-content/uploads/2021/10/UX-Persona.png)
+[![Persona Image](/assets/uploads/UX-Persona-1024x681.png)](/assets/uploads/UX-Persona.png)
 
 ## 02/ Defining
 
@@ -106,7 +106,7 @@ There is no solid solution regarding increasing self-control especially when the
 
 There was lots of idea and things going in my mind about the app because I have to create the behaviour intervention as well as merge it will the product so, I decided to create brain mapping to see the big picture.
 
-[![](/assets/uploads/image-1024x399.png)](https://www.khadush.com/wp-content/uploads/2022/06/image.png)
+[![](/assets/uploads/image-1024x399.png)](/assets/uploads/full-image.png)
 
 https://www.figma.com/file/chshCCRcwoAoHy1JreJkZ2/brain-mapping?node-id=0%3A1
 
@@ -126,7 +126,7 @@ Click on the image for the full-screen view!
 
 Wireflow + Sketches
 
-[![Second flow image](/assets/uploads/first-782x1024.png)](https://www.khadush.com/wp-content/uploads/2021/10/first.png)
+[![Second flow image](/assets/uploads/first-782x1024.png)](/assets/uploads/first.png)
 
 Second flow
 

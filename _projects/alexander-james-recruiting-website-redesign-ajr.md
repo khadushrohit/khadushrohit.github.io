@@ -38,7 +38,7 @@ Here are few reasons why the client wants a redesign:
 -   To assist in providing with more infrastructure to bring more clients on board.
 -   **Last one according to my perspective was website was missing human touch it was more looking like a SAAS website rather than an recruitment agency!**
 
-[![old website ajs](/assets/uploads/old-website-ajs-1024x1001.png)](https://www.khadush.com/wp-content/uploads/2021/09/old-website-ajs.png)
+[![old website ajs](/assets/uploads/old-website-ajs-1024x1001.png)](/assets/uploads/old-website-ajs.png)
 
 the old website of alexander James recruiting
 
@@ -72,19 +72,19 @@ I started to collect inspiration and with the combination of font, colour and la
 
 Finally! this is the first version I have come up with!
 
-[![first-iteration](/assets/uploads/first-iteration-338x1024.png)](https://www.khadush.com/wp-content/uploads/2021/09/first-iteration.png)
+[![first-iteration](/assets/uploads/first-iteration-338x1024.png)](/assets/uploads/first-iteration.png)
 
 the first version of the design
 
 **I have few days of feedback and iteration. This was the final version upon which the client had decided to go with.**
 
-[![final version](/assets/uploads/final-version-of-design-467x1024-1.png)](https://www.khadush.com/wp-content/uploads/2021/09/final-version-of-design-467x1024-1.png)
+[![final version](/assets/uploads/final-version-of-design-467x1024-1.png)](/assets/uploads/full-final-version-of-design-467x1024-1.png)
 
 .
 
 Click on the image to get a clear view!
 
-[![services page](/assets/uploads/attachment_117392243-229x1024.webp)](https://www.khadush.com/wp-content/uploads/2021/09/attachment_117392243-scaled.webp)
+[![services page](/assets/uploads/attachment_117392243-229x1024.webp)](/assets/uploads/attachment_117392243-scaled.webp)
 
 ## Result
 

@@ -51,7 +51,7 @@ This problem can be solved very easily by placing a small tab-bar section under 
 
 It can definitely reduce the user's scrolling rate by cutting down the number of options when he/she is looking for a movie.
 
-[![Redesign of screen added nav bar](/assets/uploads/Artboard-1.png)](https://www.khadush.com/wp-content/uploads/2020/11/Artboard-1.png)
+[![Redesign of screen added nav bar](/assets/uploads/Artboard-1.png)](/assets/uploads/full-Artboard-1.png)
 
 * * *
 
@@ -75,7 +75,7 @@ How are you gonna find these all types of movies? When there will be no option f
 
 In the old version, there was nothing under the filter section, but I decided to give as much control as possible to users so they can find the best possible movie according to their mood and need.
 
-[![Redesign of filter screen](/assets/uploads/Artboard-1-copy.png)](https://www.khadush.com/wp-content/uploads/2020/11/Artboard-1-copy.png)
+[![Redesign of filter screen](/assets/uploads/Artboard-1-copy.png)](/assets/uploads/full-Artboard-1-copy.png)
 
 **Problem 1** and **Problem 2**, which I have discussed above, is not very critical if the person is highly motivated.
 
@@ -91,13 +91,13 @@ This same question has raised in my mind as a user, and I solved this problem by
 
 Hopefully amazon has also provided this feature in their app.
 
-[![IMBD ratiing](/assets/uploads/Screenrecorder-2020-10-17-21-03-31-664-Copy_Moment-edited.jpg)](https://www.khadush.com/wp-content/uploads/2020/11/Screenrecorder-2020-10-17-21-03-31-664-Copy_Moment-edited.jpg)
+[![IMBD ratiing](/assets/uploads/Screenrecorder-2020-10-17-21-03-31-664-Copy_Moment-edited.jpg)](/assets/uploads/full-Screenrecorder-2020-10-17-21-03-31-664-Copy_Moment-edited.jpg)
 
 So what's the problem here?
 
 Before, knowing the problem see how I decide the best movie to watch.
 
-[![gif](/assets/uploads/ezgif.com-gif-maker.gif)](https://www.khadush.com/wp-content/uploads/2020/11/ezgif.com-gif-maker.gif)
+[![gif](/assets/uploads/ezgif.com-gif-maker.gif)](/assets/uploads/full-ezgif.com-gif-maker.gif)
 
 As you can see in the above "gif" whenever I have to find the movie, I click on movie card > then scroll down > see it's **rating** and **description**. If the rating is good, I start to watch. This is my way of finding the best movie for me.
 
@@ -107,7 +107,7 @@ This process continues until I find the well-rated movie. Now you can imagine ho
 
 ### The Solution:
 
-[![Solution of the above problem](/assets/uploads/3.png)](https://www.khadush.com/wp-content/uploads/2020/11/3.png)
+[![Solution of the above problem](/assets/uploads/3.png)](/assets/uploads/full-3.png)
 
 I know that there can be a lot of possibilities regarding the placement of rating.
 
@@ -133,7 +133,7 @@ Actually I wanted to dig deeper to know how people choose the movie. I got 24 re
 
 Below is a list of answers. I had choosed only common answers here.
 
-[![Basic answer for the movie](/assets/uploads/basic-answers-1024x738.png)](https://www.khadush.com/wp-content/uploads/2020/11/basic-answers.png)
+[![Basic answer for the movie](/assets/uploads/basic-answers-1024x738.png)](/assets/uploads/basic-answers.png)
 
 The three pattern I found in the users answers are:
 

@@ -37,7 +37,7 @@ Readwise solves the boringness of spaced repetition by showing the best highligh
 
 Screenshot of USP
 
-[![leadboard image](/assets/uploads/leaderboard-1024x413.png)](https://www.khadush.com/wp-content/uploads/2022/01/leaderboard.png)
+[![leadboard image](/assets/uploads/leaderboard-1024x413.png)](/assets/uploads/leaderboard.png)
 
 Leaderboard(gamification)
 
@@ -61,7 +61,7 @@ Anyway, now that we know the problem.
 
 Making things easy is one of the easiest yet powerful ways of changing human behaviour.
 
-I had already written an article on easy/friction. You can [read more](https://www.khadush.com/i-still-dont-vote-design-lesson-i-learned-from-my-own-behaviour/) about this topic.
+I had already written an article on easy/friction. You can read more about this topic.
 
 To access spaced repetition, you have to open the app/website --> **click on daily review** --> start to revise highlights.
 
@@ -73,7 +73,7 @@ Final version after removing the extra step
 
 I want to end the power of **Make it easy** with one final research in which the rise of filling tax form get increased **from 19.2 to 22 percent of people.**
 
-[![screenshot](/assets/uploads/inside-nudge-unit.png)](https://www.khadush.com/wp-content/uploads/2022/01/inside-nudge-unit.png)
+[![screenshot](/assets/uploads/inside-nudge-unit.png)](/assets/uploads/full-inside-nudge-unit.png)
 
 Screenshot from the book "Inside the nudge unit"
 
@@ -99,7 +99,7 @@ Personalized notification in status bar with Foot-In-door technique.
 
 Like "making things easy", "making things attractive" is also a powerful technique to change human behaviour.
 
-I have written an article on this topic also. [Check here](https://www.khadush.com/how-tech-companies-are-harnessing-the-power-of-making-it-attractive/)
+I have written an article on this topic also. Check here
 
 For a couple of days, I have been reading and doing intensive research on these topics and finding different ways to use them in design. Still, I have a few ideas for now.
 

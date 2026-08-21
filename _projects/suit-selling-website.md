@@ -46,7 +46,7 @@ Before judging my solution, it's essential to talk about the restrictions to und
 
 For this problem, I tried to use the visual hierarchy and deemphasize the other less essential elements first to create a solid visual hierarchy. As well as added white to feel the layout less overwhelm.
 
-[![visual hierarchy of old website](/assets/uploads/visual-hierarchy-1024x732.png)](https://www.khadush.com/wp-content/uploads/2021/09/visual-hierarchy.png)
+[![visual hierarchy of old website](/assets/uploads/visual-hierarchy-1024x732.png)](/assets/uploads/visual-hierarchy.png)
 
 With the addition of white space and hierarchy. I also divided the section into two parts two make the interface perceived as a two-step process.
 
@@ -54,13 +54,13 @@ With the addition of white space and hierarchy. I also divided the section into 
 
 After landing on-page, you can spot the mistake that when first time users who will land on this page will be unclear that how they are going to give the measurement of the chest and in which size.
 
-[![users-don't-know-how-to-provide-size](/assets/uploads/users-dont-know-how-to-provide-size-1024x687.png)](https://www.khadush.com/wp-content/uploads/2021/09/users-dont-know-how-to-provide-size.png)
+[![users-don't-know-how-to-provide-size](/assets/uploads/users-dont-know-how-to-provide-size-1024x687.png)](/assets/uploads/users-dont-know-how-to-provide-size.png)
 
 Even though the client had already built the solution to this problem, the process of taking measurements will only show when you click on the input box. 
 
 For example, When I click on **the chest input field**, they will show you how to take a measurement.
 
-[![how to take measurement](/assets/uploads/how-to-take-measurement-1024x561.png)](https://www.khadush.com/wp-content/uploads/2021/09/how-to-take-measurement.png)
+[![how to take measurement](/assets/uploads/how-to-take-measurement-1024x561.png)](/assets/uploads/how-to-take-measurement.png)
 
 As you can see in the above image when the user clicks on the input field, they will get to see an image of chest measurement, and on the right side, there is a step on how to measure it!
 
@@ -72,7 +72,7 @@ A trigger should convey what will happen when the user clicks on it. It means it
 
 **And that's what this interface was lacking. So, for this reason, I made the trigger more clear up front.**
 
-[![solution of 2nd problem](/assets/uploads/solution-of-2nd-problem-1024x732.png)](https://www.khadush.com/wp-content/uploads/2021/09/solution-of-2nd-problem.png)
+[![solution of 2nd problem](/assets/uploads/solution-of-2nd-problem-1024x732.png)](/assets/uploads/solution-of-2nd-problem.png)
 
 I made the chest image visible so users can understand that they have to take the chest measurement first.  
 Also, I have added the "inch" in the input field so users can understand that they have to enter the size in "inch".
@@ -97,6 +97,6 @@ I tried my best to come up with the solution, but it was tough to implement this
 
 In the end, we had to drop the idea, and the client had to implement this idea.
 
-[![final version](/assets/uploads/final-version-1024x655.png)](https://www.khadush.com/wp-content/uploads/2021/09/final-version.png)
+[![final version](/assets/uploads/final-version-1024x655.png)](/assets/uploads/full-final-version.png)
 
 Although this was easy to 2implement for the developer and client But, I am sure this will still not solve the user problem 100% because the arrow and microcopy added with it were still unclear.

@@ -23,7 +23,7 @@ It's not possible to achieve goals with an outdated website which does not look 
 
 * * *
 
-[![website image](/assets/uploads/Bhumiitech-old-website-357x1024.png)](https://www.khadush.com/wp-content/uploads/2022/10/Bhumiitech-old-website.png)
+[![website image](/assets/uploads/Bhumiitech-old-website-357x1024.png)](/assets/uploads/Bhumiitech-old-website.png)
 
 The old website of bhumiitech [https://web.archive.org/web/20220814132843/https://www.bhumiitech.com/](https://web.archive.org/web/20220814132843/https://www.bhumiitech.com/)
 
@@ -104,7 +104,7 @@ The main thing I found on the competitor's websites was:
 -   Their homepage content is written in a way that assumes that the customer is already aware of the solution entirely.
 -   Since we are selling to Indian clients so, on our homepage, we need to talk about the problem than a solution.
 
-[![](/assets/uploads/market-research-1024x690.png)](https://www.khadush.com/wp-content/uploads/2022/11/market-research.png)
+[![](/assets/uploads/market-research-1024x690.png)](/assets/uploads/market-research.png)
 
 ## After research
 
@@ -112,7 +112,7 @@ After market research, I wrote the copy directly in the wireframe.
 
 I don't want to extend the case study, so I will not talk about how I wrote copy. You can check the wireframe and content here. 
 
-[![wireframe image](/assets/uploads/wireframe-content-1024x677.png)](https://www.khadush.com/wp-content/uploads/2022/11/wireframe-content.png)
+[![wireframe image](/assets/uploads/wireframe-content-1024x677.png)](/assets/uploads/wireframe-content.png)
 
 [https://www.figma.com/file/G5exqookcaHeIerJuUijEh/wireframe?node-id=0%3A1&t=UkMd1ScAjmKhohxD-1](https://www.figma.com/file/G5exqookcaHeIerJuUijEh/wireframe?node-id=0%3A1&t=UkMd1ScAjmKhohxD-1)
 
@@ -134,13 +134,13 @@ These emotions are decided in a meeting with stakeholders
 4.  Inviting(engaging)
 5.  Professional
 
-[![moodboard image](/assets/uploads/moodboard-1024x976.png)](https://www.khadush.com/wp-content/uploads/2022/11/moodboard.png)
+[![moodboard image](/assets/uploads/moodboard-1024x976.png)](/assets/uploads/moodboard.png)
 
 After getting feedback on the moodboard, I started to playing around with some color and layout to see how everything fits together.
 
 For that, I did lots of experiments and here are some of the outcomes of that process.
 
-[![outcome 1 image](/assets/uploads/outcome-1-1024x542.png)](https://www.khadush.com/wp-content/uploads/2022/11/outcome-1.png)
+[![outcome 1 image](/assets/uploads/outcome-1-1024x542.png)](/assets/uploads/outcome-1.png)
 
 Outcome 1
 
@@ -166,7 +166,7 @@ Finally, we then decided to use the 3D design on the website.
 
 This is what the final design looks like:
 
-[![final design image](/assets/uploads/final-design-1024x803.png)](https://www.khadush.com/wp-content/uploads/2022/11/final-design.png)
+[![final design image](/assets/uploads/final-design-1024x803.png)](/assets/uploads/full-final-design.png)
 
 * * *
 
@@ -184,7 +184,7 @@ We also lacked a highly skilled motion designer, so we made some compromises wit
 
 Overall, even after many obstacles, every stakeholder was happy with the outcome and made the website live.
 
-[![](/assets/uploads/style-guide-871x1024.png)](https://www.khadush.com/wp-content/uploads/2022/11/style-guide.png)
+[![](/assets/uploads/style-guide-871x1024.png)](/assets/uploads/style-guide.png)
 
 style guide
 

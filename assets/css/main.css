@@ -218,3 +218,38 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
 /* card thumb is a link now */
 .card .thumb { display: block; }
 .card .thumb:hover { opacity: .88; }
+
+/* ---- Client strip ---- */
+.clients { padding: 34px 0; border-bottom: 1px solid var(--border); }
+.clients .eyebrow { margin-bottom: 14px; }
+.client-strip {
+  list-style: none; margin: 0; padding: 0;
+  display: flex; flex-wrap: wrap; gap: 10px 36px;
+  color: var(--heading); font-size: 1.02rem; font-family: var(--serif);
+}
+.client-strip li { opacity: .85; }
+
+/* ---- Article rows (Medium) ---- */
+.article-list { display: grid; gap: 0; max-width: 860px; }
+.article-row {
+  display: flex; align-items: center; justify-content: space-between; gap: 28px;
+  padding: 26px 0; border-bottom: 1px solid var(--border);
+  color: inherit;
+}
+.article-row:first-child { border-top: 1px solid var(--border); }
+.article-row:hover { text-decoration: none; }
+.article-row h3 {
+  font-size: clamp(1.15rem, 2.2vw, 1.45rem);
+  color: var(--heading); margin: .2rem 0 .45rem;
+}
+.article-row:hover h3 { color: var(--accent); }
+.article-row p { margin: 0; font-size: .95rem; }
+.article-row .muted { margin: 0; }
+.article-row .arrow { color: var(--accent); font-size: 1.3rem; flex: none; opacity: .6; }
+.article-row:hover .arrow { opacity: 1; }
+.more-link { margin-top: 32px; }
+
+@media (max-width: 560px) {
+  .article-row { gap: 16px; }
+  .article-row .arrow { display: none; }
+}

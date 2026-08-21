@@ -68,3 +68,26 @@ collections:
           - { label: Layout, name: layout, widget: hidden, default: about }
           - { label: Permalink, name: permalink, widget: hidden, default: /about/ }
           - { label: Content, name: body, widget: richtext }
+
+  - name: homepage
+    label: Homepage
+    files:
+      - name: homepage_data
+        label: Homepage content
+        file: _data/homepage.yml
+        description: The client strip under the hero, and the three Medium articles in the Writing section.
+        fields:
+          - label: Client strip
+            name: clients
+            widget: list
+            field: { label: Company name, name: name, widget: string }
+          - label: Medium articles
+            name: articles
+            widget: list
+            max: 4
+            summary: '{{fields.title}}'
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Excerpt, name: excerpt, widget: text }
+              - { label: Published, name: date, widget: datetime, format: 'YYYY-MM-DD', time_format: false }
+              - { label: Medium URL, name: url, widget: string }
