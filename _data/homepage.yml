@@ -1,10 +1,15 @@
 # Edited in the CMS under Homepage. Powers the client strip and the Writing section.
 clients:
-  - Taj Hotels
-  - Pique
-  - Remo.co
-  - Canvas Culture
-  - Dae Hair
+  - name: Taj Hotels
+    logo: /assets/uploads/client-taj-hotels.png
+  - name: Pique
+    logo: /assets/uploads/client-piquelife.png
+  - name: Remo.co
+    logo: /assets/uploads/client-remo-co.png
+  - name: Canvas Culture
+    logo: /assets/uploads/client-canvas-culture.png
+  - name: Dae Hair
+    logo: /assets/uploads/client-daehair.png
 
 articles:
   - title: "Designers who don't study psychology will be replaced by AI coding tools by the end of 2026."

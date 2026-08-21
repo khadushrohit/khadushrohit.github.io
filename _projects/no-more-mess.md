@@ -11,25 +11,7 @@ link: ""
 order: 4
 ---
 
-Project
-
-Android application (Personal case study)
-
-Timeline
-
-6 Months for MVP (still working)
-
-Target user
-
-Young Indian college and school students
-
-Team size
-
-Solo
-
-My role
-
-Research, User Experience, Visual Design
+<table><tbody><tr><td>Project</td><td>Android application (Personal case study)</td></tr><tr><td>Timeline</td><td>6 Months for MVP (still working)</td></tr><tr><td>Target user</td><td>Young Indian college and school students</td></tr><tr><td>Team size</td><td>Solo</td></tr><tr><td>My role</td><td>Research, User Experience, Visual Design</td></tr></tbody></table>
 
 ## The app is incomplete due to a lack of enough data. Can you help me build this app by sharing your insights?
 

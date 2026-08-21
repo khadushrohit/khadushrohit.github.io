@@ -14,25 +14,7 @@ order: 1
 > ### As the Cyber Threat Grows More Intense, Industry and Government groups find it challenging to Recruit and Hire Trained Security Professionals.  
 > Having a Degree in Cybersecurity is Usually not Enough to Give an Individual the Skills Required for Mitigating Sophisticated Attacks Training in realistic breach scenarios is needed for this.
 
-**Project**
-
-Web-app
-
-**Timeline**
-
-6 months
-
-**Target user**
-
-Universities teaching cyber security
-
-**Team size**
-
-15-20
-
-**My role**
-
-Strategy, UX and Design system
+<table><tbody><tr><td><strong>Project</strong></td><td>Web-app</td></tr><tr><td><strong>Timeline</strong></td><td>6 months</td></tr><tr><td><strong>Target user</strong></td><td>Universities teaching cyber security</td></tr><tr><td><strong>Team size</strong></td><td>15-20</td></tr><tr><td><strong>My role</strong></td><td>Strategy, UX and Design system</td></tr></tbody></table>
 
 ## **Overview**
 

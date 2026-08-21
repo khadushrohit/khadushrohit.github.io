@@ -23,7 +23,11 @@ title: Product Designer — SaaS websites & web apps
       <p class="eyebrow">Websites I've worked on</p>
     </div>
     <div class="client-grid">
-      {% for c in hp.clients %}<div class="client-card">{{ c }}</div>{% endfor %}
+      {% for c in hp.clients %}
+      <div class="client-card">
+        <img src="{{ c.logo | relative_url }}" alt="{{ c.name }}" loading="lazy">
+      </div>
+      {% endfor %}
     </div>
   </div>
 </section>
@@ -60,16 +64,16 @@ title: Product Designer — SaaS websites & web apps
       <h2>Why humans do what they do</h2>
       <p>I write about design, psychology, decision-making, and why smart people get stuck. Published on Medium.</p>
     </div>
-    <div class="article-list">
+    <div class="grid grid--articles">
       {% for a in hp.articles %}
-      <a class="article-row" href="{{ a.url }}" target="_blank" rel="noopener">
-        <div>
-          <p class="muted">{{ a.date | date: "%b %-d, %Y" }}</p>
-          <h3>{{ a.title }}</h3>
+      <article class="card article-card">
+        <div class="body">
+          <p class="muted">{{ a.date | date: "%b %-d, %Y" }} &middot; Medium</p>
+          <h3><a href="{{ a.url }}" target="_blank" rel="noopener noreferrer">{{ a.title }}</a></h3>
           <p>{{ a.excerpt }}</p>
+          <span class="read-more">Read article &rarr;</span>
         </div>
-        <span class="arrow" aria-hidden="true">&rarr;</span>
-      </a>
+      </article>
       {% endfor %}
     </div>
     <p class="more-link">

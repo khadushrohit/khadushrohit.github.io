@@ -22,7 +22,7 @@ body {
   background: var(--bg);
   color: var(--body);
   font-family: var(--sans);
-  font-size: 17px;
+  font-size: 17.5px;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
@@ -210,75 +210,67 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
 .article-body p > img:only-child { margin-bottom: 2rem; }
 .article-body a { word-break: break-word; }
 .article-body hr { margin: 2.5rem 0; }
-.article-body table { width: 100%; border-collapse: collapse; margin: 2rem 0; font-size: .95rem; }
-.article-body th, .article-body td { border: 1px solid var(--border); padding: 10px 14px; text-align: left; }
-.article-body th { color: var(--heading); background: var(--surface); }
+.article-body table { margin: 2rem 0; font-size: .95rem; text-align: left; }
 .article-body iframe { max-width: 100%; border-radius: 8px; margin: 2rem 0; }
 
 /* card thumb is a link now */
 .card .thumb { display: block; }
 .card .thumb:hover { opacity: .88; }
 
-/* ---- Client cards ---- */
+/* ---- Client logos ---- */
 .clients { padding: 56px 0; border-bottom: 1px solid var(--border); }
 .client-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 14px;
 }
 .client-card {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 10px;
-  padding: 22px 20px;
-  text-align: center;
-  font-family: var(--serif);
-  font-size: 1.05rem;
-  color: var(--heading);
+  min-height: 96px;
+  display: flex; align-items: center; justify-content: center;
+  padding: 20px 24px;
   transition: border-color .15s ease;
 }
 .client-card:hover { border-color: var(--accent); }
+.client-card img {
+  max-height: 40px; max-width: 100%; width: auto;
+  object-fit: contain;
+  filter: grayscale(1) brightness(1.9);
+  opacity: .72;
+  transition: opacity .15s ease, filter .15s ease;
+}
+.client-card:hover img { filter: grayscale(0) brightness(1.15); opacity: 1; }
 
-/* ---- Article rows (Medium) ---- */
-.article-list { display: grid; gap: 0; max-width: 860px; }
-.article-row {
-  display: flex; align-items: center; justify-content: space-between; gap: 28px;
-  padding: 26px 0; border-bottom: 1px solid var(--border);
-  color: inherit;
-}
-.article-row:first-child { border-top: 1px solid var(--border); }
-.article-row:hover { text-decoration: none; }
-.article-row h3 {
-  font-size: clamp(1.15rem, 2.2vw, 1.45rem);
-  color: var(--heading); margin: .2rem 0 .45rem;
-}
-.article-row:hover h3 { color: var(--accent); }
-.article-row p { margin: 0; font-size: .95rem; color: var(--body); }
-.article-row .muted { margin: 0; color: var(--muted); }
-.article-row .arrow { color: var(--accent); font-size: 1.3rem; flex: none; opacity: .6; }
-.article-row:hover .arrow { opacity: 1; }
+/* ---- Article cards (Medium) ---- */
+.grid--articles { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+.article-card .body { display: flex; flex-direction: column; gap: .1rem; height: 100%; }
+.article-card h3 { font-size: 1.22rem; line-height: 1.35; margin: .35rem 0 .5rem; }
+.article-card h3 a { color: var(--heading); }
+.article-card p { color: var(--body); font-size: .95rem; }
+.article-card .muted { color: var(--muted); margin-bottom: 0; }
+.article-card .read-more { color: var(--accent); margin-top: auto; padding-top: 1rem; }
+.article-card:hover h3 a { color: var(--accent); }
 .more-link { margin-top: 32px; }
-
-@media (max-width: 560px) {
-  .article-row { gap: 16px; }
-  .article-row .arrow { display: none; }
-}
-
-/* ---- Whole card clickable (stretched-link pattern) ---- */
-.card { position: relative; transition: border-color .15s ease, transform .15s ease; }
-.card h3 a::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-}
-.card:hover { border-color: var(--accent); transform: translateY(-2px); }
-.card:hover .thumb { opacity: .9; }
-.card:hover h3 a { color: var(--accent); }
-.card:focus-within { border-color: var(--accent); }
-.card .thumb { transition: opacity .15s ease; }
-/* keep tags below the invisible link overlay so they don't swallow clicks oddly */
-.card .tags { position: relative; z-index: 2; pointer-events: none; }
 
 /* ---- Obfuscated email link ---- */
 .email-link { cursor: pointer; }
+
+/* ---- WordPress spec tables (Project / Timeline / Role) ---- */
+.article-body table {
+  display: block;
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: var(--surface);
+}
+.article-body table td { border: 0; border-bottom: 1px solid var(--border); padding: 13px 20px; vertical-align: top; }
+.article-body table tr:last-child td { border-bottom: 0; }
+.article-body table td:first-child {
+  color: var(--heading); font-weight: 600; white-space: nowrap;
+  width: 1%; border-right: 1px solid var(--border);
+}
+.article-body table td strong { font-weight: 600; }
