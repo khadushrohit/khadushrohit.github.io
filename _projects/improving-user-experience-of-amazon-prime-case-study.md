@@ -29,7 +29,7 @@ Since it’s a case study for finding small UX problems of the app, I don’t th
 
 Before diving into the problem have a look below on the list of the movies, when I go in the "Movies Dubbed in Hindi" section of the app.
 
-![Amzaon prime gif](/assets/uploads/ezgif.com-crop-2.gif){: loading="lazy" decoding="async"}
+![Amzaon prime gif](https://github.com/khadushrohit/khadushrohit.github.io/releases/download/media-assets/amazon-prime-browse.gif){: loading="lazy" decoding="async"}
 
 The screen is looking quiet, clean and easy to use. But below are some of the issues I found in this screen.
 
@@ -97,7 +97,7 @@ So what's the problem here?
 
 Before, knowing the problem see how I decide the best movie to watch.
 
-[![gif](/assets/uploads/ezgif.com-gif-maker.gif){: loading="lazy" decoding="async"}](/assets/uploads/full-ezgif.com-gif-maker.gif)
+[![Amazon Prime Video player, animated](https://github.com/khadushrohit/khadushrohit.github.io/releases/download/media-assets/amazon-prime-player.gif){: loading="lazy" decoding="async"}](https://github.com/khadushrohit/khadushrohit.github.io/releases/download/media-assets/amazon-prime-player-full.gif)
 
 As you can see in the above "gif" whenever I have to find the movie, I click on movie card > then scroll down > see it's **rating** and **description**. If the rating is good, I start to watch. This is my way of finding the best movie for me.
 

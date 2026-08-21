@@ -9,6 +9,7 @@ tags: ["Mobile", "Behavioural design"]
 image: "/assets/uploads/Frame-185.jpg"
 link: ""
 order: 4
+published: false
 ---
 
 <table><tbody><tr><td>Project</td><td>Android application (Personal case study)</td></tr><tr><td>Timeline</td><td>6 Months for MVP (still working)</td></tr><tr><td>Target user</td><td>Young Indian college and school students</td></tr><tr><td>Team size</td><td>Solo</td></tr><tr><td>My role</td><td>Research, User Experience, Visual Design</td></tr></tbody></table>

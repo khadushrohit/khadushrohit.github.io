@@ -1,4 +1,5 @@
 ---
+image: "/assets/uploads/photo_2025-06-27_07-41-03.jpg"
 layout: about
 title: It all started with curiosity
 permalink: /about/

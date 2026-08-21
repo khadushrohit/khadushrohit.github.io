@@ -22,7 +22,7 @@ After a few days of watching short videos, I got so habitual that Whenever I use
 It's the attractiveness of the short videos.  
 Every time I open Facebook 8 out of 10 times, they show me the preview of a girl doing something in the video.
 
-![facebook-shorts-video](/assets/uploads/ezgif.com-gif-maker-1.gif){: loading="lazy" decoding="async"}
+![facebook-shorts-video](https://github.com/khadushrohit/khadushrohit.github.io/releases/download/media-assets/attractive-design-demo.gif){: loading="lazy" decoding="async"}
 
 Here is what I am talking about!
 

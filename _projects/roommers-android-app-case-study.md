@@ -9,6 +9,7 @@ tags: ["Mobile", "Early work"]
 image: "/assets/uploads/Hand-Color-2-1024x870-1.jpg"
 link: ""
 order: 9
+published: false
 ---
 
 **It is an android app case-study, Roomers which helps peoples to find ideal roommate according to them.**

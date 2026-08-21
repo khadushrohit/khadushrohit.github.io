@@ -332,19 +332,41 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
 }
 
 /* ---------- hero portrait ---------- */
-.hero-grid { display: grid; grid-template-columns: 1fr 300px; gap: 56px; align-items: center; }
-.hero-portrait { justify-self: end; }
+.hero-grid { display: grid; grid-template-columns: 1fr 420px; gap: 72px; align-items: center; }
+.hero-portrait { position: relative; justify-self: end; }
+
+/* Offset accent frame sitting behind the photo. */
+.hero-portrait::before {
+  content: ""; position: absolute; inset: 22px -22px -22px 22px;
+  border: 1px solid rgba(0, 207, 130, .38); border-radius: 20px;
+  pointer-events: none;
+}
+/* Soft accent bloom so the photo sits in the page rather than on top of it. */
+.hero-portrait::after {
+  content: ""; position: absolute; inset: -12%; z-index: -1; border-radius: 50%;
+  background: radial-gradient(closest-side, rgba(0, 207, 130, .16), transparent 72%);
+  filter: blur(28px); pointer-events: none;
+}
 .hero-portrait img {
-  width: 300px; height: 300px; object-fit: cover; border-radius: 14px;
-  border: 1px solid var(--border);
+  position: relative; z-index: 1;
+  width: 420px; aspect-ratio: 4 / 5; height: auto;
+  object-fit: cover; object-position: 50% 26%;
+  border-radius: 20px;
   /* Flipped so Rohit faces the headline rather than away from it. */
   transform: scaleX(-1);
-  filter: grayscale(1) contrast(1.05);
+  filter: grayscale(1) contrast(1.08) brightness(1.02);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, .55);
+}
+
+@media (max-width: 1080px) {
+  .hero-grid { grid-template-columns: 1fr 320px; gap: 48px; }
+  .hero-portrait img { width: 320px; }
 }
 @media (max-width: 860px) {
-  .hero-grid { grid-template-columns: 1fr; gap: 32px; }
+  .hero-grid { grid-template-columns: 1fr; gap: 40px; }
   .hero-portrait { justify-self: start; order: -1; }
-  .hero-portrait img { width: 132px; height: 132px; border-radius: 12px; }
+  .hero-portrait::before { inset: 14px -14px -14px 14px; border-radius: 16px; }
+  .hero-portrait img { width: 200px; border-radius: 16px; box-shadow: 0 16px 36px rgba(0,0,0,.5); }
 }
 
 /* ---------- embedded video ---------- */
