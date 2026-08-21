@@ -54,7 +54,7 @@ description: >-
       {% assign projects = site.projects | sort: 'order' %}
       {% for project in projects %}
       <article class="card">
-        <div class="thumb"{% if project.image != "" %} style="background-image:url('{{ project.image | relative_url }}')"{% endif %}></div>
+        <div class="thumb"{% if project.image and project.image != "" %} style="background-image:url('{{ project.image | relative_url }}')"{% endif %}></div>
         <div class="body">
           <p class="muted">{{ project.role }}{% if project.year %} &middot; {{ project.year }}{% endif %}</p>
           <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
@@ -78,7 +78,7 @@ description: >-
       {% assign latest = site.blog | sort: 'date' | reverse %}
       {% for p in latest limit: 3 %}
       <article class="post-item">
-        {% if p.image != "" %}
+        {% if p.image and p.image != "" %}
         <div class="post-item__thumb" style="background-image:url('{{ p.image | relative_url }}')"></div>
         {% endif %}
         <div class="post-item__body">

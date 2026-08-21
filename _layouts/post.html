@@ -14,16 +14,20 @@ layout: default
       <h1>{{ page.title }}</h1>
       {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
     </header>
-    {% if page.image != "" %}<img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.title }}">{% endif %}
+    {% if page.image and page.image != "" %}<img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.title }}">{% endif %}
     <div class="article-body">{{ content }}</div>
 
-    {% assign posts = site.blog | sort: 'date' | reverse %}
-    {% for p in posts %}{% if p.url == page.url %}{% assign i = forloop.index0 %}{% endif %}{% endfor %}
-    {% assign prev = posts[i | plus: 1] %}
-    {% assign next = posts[i | minus: 1] %}
+    {%- assign posts = site.blog | sort: 'date' | reverse -%}
+    {%- assign idx = 0 -%}
+    {%- for p in posts -%}{%- if p.url == page.url -%}{%- assign idx = forloop.index0 -%}{%- endif -%}{%- endfor -%}
+    {%- assign older_i = idx | plus: 1 -%}
+    {%- assign newer_i = idx | minus: 1 -%}
+    {%- assign older = posts[older_i] -%}
+    {%- comment -%} A negative index wraps around in Liquid, so guard the first post. {%- endcomment -%}
+    {%- if idx > 0 -%}{%- assign newer = posts[newer_i] -%}{%- endif -%}
     <nav class="post-nav measure" aria-label="More posts">
-      {% if next %}<a class="post-nav__item" href="{{ next.url | relative_url }}"><span class="read-more">Newer</span>{{ next.title }}</a>{% endif %}
-      {% if prev %}<a class="post-nav__item post-nav__item--right" href="{{ prev.url | relative_url }}"><span class="read-more">Older</span>{{ prev.title }}</a>{% endif %}
+      {% if newer %}<a class="post-nav__item" href="{{ newer.url | relative_url }}"><span class="read-more">Newer</span>{{ newer.title }}</a>{% endif %}
+      {% if older %}<a class="post-nav__item post-nav__item--right" href="{{ older.url | relative_url }}"><span class="read-more">Older</span>{{ older.title }}</a>{% endif %}
     </nav>
 
     <hr>

@@ -20,7 +20,7 @@ description: Essays on design, psychology, decision-making, careers, and money â
       {% assign posts = site.blog | sort: 'date' | reverse %}
       {% for p in posts %}
       <article class="post-item">
-        {% if p.image != "" %}
+        {% if p.image and p.image != "" %}
         <div class="post-item__thumb" style="background-image:url('{{ p.image | relative_url }}')"></div>
         {% endif %}
         <div class="post-item__body">

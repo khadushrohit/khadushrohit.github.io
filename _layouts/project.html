@@ -9,7 +9,7 @@ layout: default
       {% if page.description %}<p>{{ page.description }}</p>{% endif %}
       {% if page.tags.size > 0 %}<div class="tags">{% for t in page.tags %}<span class="tag">{{ t }}</span>{% endfor %}</div>{% endif %}
     </header>
-    {% if page.image != "" %}<img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.title }}">{% endif %}
+    {% if page.image and page.image != "" %}<img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.title }}">{% endif %}
     <div class="article-body">{{ content }}</div>
     <hr>
     <p class="measure"><a class="read-more" href="{{ '/' | relative_url }}#work">&larr; All work</a></p>
