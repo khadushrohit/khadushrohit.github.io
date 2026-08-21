@@ -9,19 +9,51 @@ description: Essays on design, psychology, decision-making, careers, and money â
     <div class="measure">
       <p class="eyebrow">Writing</p>
       <h1>Why humans do what they do</h1>
-      <p>{{ site.blog | size }} essays on design, psychology, landing pages, careers, and the awkward stuff nobody writes about. Newest first.</p>
+      <p>{{ site.blog | size }} essays on design, psychology, landing pages, careers, and the awkward stuff nobody writes about.</p>
     </div>
   </div>
 </section>
 
+{% assign hp = site.data.homepage %}
+{% if hp.articles %}
+<section class="section section--medium" id="medium">
+  <div class="wrap">
+    <div class="section-head measure">
+      <p class="eyebrow">Elsewhere</p>
+      <h2>Published on Medium</h2>
+      <p>Longer pieces I publish for Medium's design audience.</p>
+    </div>
+    <div class="grid grid--articles">
+      {% for a in hp.articles %}
+      <article class="card article-card">
+        <div class="body">
+          <p class="muted">{{ a.date | date: "%b %-d, %Y" }} &middot; Medium</p>
+          <h3><a href="{{ a.url }}" target="_blank" rel="noopener noreferrer">{{ a.title }}</a></h3>
+          <p>{{ a.excerpt }}</p>
+          <span class="read-more">Read article &rarr;</span>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
 <section class="section section--flush">
   <div class="wrap">
+    <div class="section-head measure">
+      <p class="eyebrow">On this site</p>
+      <h2>All {{ site.blog | size }} essays</h2>
+      <p>Newest first.</p>
+    </div>
     <div class="post-list">
       {% assign posts = site.blog | sort: 'date' | reverse %}
       {% for p in posts %}
       <article class="post-item">
         {% if p.image and p.image != "" %}
         <div class="post-item__thumb" style="background-image:url('{{ p.image | relative_url }}')"></div>
+        {% else %}
+        <div class="post-item__thumb post-item__thumb--blank" aria-hidden="true"><span>{{ p.category | default: "Essay" }}</span></div>
         {% endif %}
         <div class="post-item__body">
           <p class="post-meta">
@@ -39,27 +71,3 @@ description: Essays on design, psychology, decision-making, careers, and money â
     </div>
   </div>
 </section>
-
-{% assign hp = site.data.homepage %}
-{% if hp.articles %}
-<section class="section" id="medium">
-  <div class="wrap">
-    <div class="section-head measure">
-      <p class="eyebrow">Also on Medium</p>
-      <h2>Published elsewhere</h2>
-    </div>
-    <div class="grid grid--articles">
-      {% for a in hp.articles %}
-      <article class="card article-card">
-        <div class="body">
-          <p class="muted">{{ a.date | date: "%b %-d, %Y" }} &middot; Medium</p>
-          <h3><a href="{{ a.url }}" target="_blank" rel="noopener noreferrer">{{ a.title }}</a></h3>
-          <p>{{ a.excerpt }}</p>
-          <span class="read-more">Read article &rarr;</span>
-        </div>
-      </article>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-{% endif %}

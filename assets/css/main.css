@@ -358,3 +358,15 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
   color: var(--muted); font-size: .88rem; line-height: 1.5;
   margin-bottom: 2rem; padding-left: 2px;
 }
+
+/* Posts with no cover image keep the grid even with a typographic tile. */
+.post-item__thumb--blank {
+  display: flex; align-items: center; justify-content: center;
+  background: linear-gradient(150deg, #232323, #1c1c1c);
+  padding: 10px;
+}
+.post-item__thumb--blank span {
+  font-family: var(--serif); font-size: 1.05rem; line-height: 1.2;
+  color: var(--muted); text-align: center;
+}
+.section--medium { padding-top: 56px; }

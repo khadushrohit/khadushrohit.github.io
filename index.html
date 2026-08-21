@@ -80,6 +80,8 @@ description: >-
       <article class="post-item">
         {% if p.image and p.image != "" %}
         <div class="post-item__thumb" style="background-image:url('{{ p.image | relative_url }}')"></div>
+        {% else %}
+        <div class="post-item__thumb post-item__thumb--blank" aria-hidden="true"><span>{{ p.category | default: "Essay" }}</span></div>
         {% endif %}
         <div class="post-item__body">
           <p class="post-meta">
