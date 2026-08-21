@@ -5,7 +5,7 @@ description: "I am the guy who loves to read books on every topic I struggle wit
 date: 2022-03-20 05:22:09
 category: "Life"
 tags: []
-image: "/assets/uploads/-3"
+image: "/assets/uploads/photo-1613520761471-8d5f28e343c0"
 ---
 I am the guy who loves to read books on every topic I struggle with, I was struggling a lot to build habits, and I was not alone. My friends' were also struggling.
 
@@ -25,7 +25,7 @@ Until I listened to a podcast where the author shared his story. Whenever he doe
 
 Did you see what the author is trying to do?
 
-![wooden armchair](/assets/uploads/michelle-ding-qaotkq8ehcw-unsplash-1024x678-2.jpeg)
+![wooden armchair](/assets/uploads/michelle-ding-qaotkq8ehcw-unsplash-1024x678.jpeg)
 
 unsplash.com
 
@@ -61,4 +61,4 @@ Build consistency by achieving that small goal daily.
 
 ### Summary
 
-Don't focus on outcome focus on consistency by breaking goals into small goals. www.khadush.com
+Don't focus on outcome, focus on consistency by breaking goals into small goals.

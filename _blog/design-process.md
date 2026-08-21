@@ -5,7 +5,7 @@ description: "I am sure if you had answered the question, you already know how c
 date: 2022-08-08 14:33:19
 category: "UX"
 tags: ["ui ux"]
-image: "/assets/uploads/-4"
+image: "/assets/uploads/photo-1497005367839-6e852de72767"
 ---
 "Which song do you like most"?
 

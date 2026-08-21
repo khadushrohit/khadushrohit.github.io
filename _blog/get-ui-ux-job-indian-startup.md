@@ -5,7 +5,7 @@ description: "Have you seen the LinkedIn post where beginner designers frequentl
 date: 2022-08-15 07:35:15
 category: "Design career"
 tags: ["design job"]
-image: "/assets/uploads/-5"
+image: "/assets/uploads/photo-1598257006626-48b0c252070d"
 ---
 Have you seen the LinkedIn post where beginner designers frequently post that they are looking for a job?
 
@@ -166,4 +166,4 @@ While submitting design assignments (show 40% process and 60% UI work).
 
 I am sure you will get your next job in a startup.
 
-**Next step:** Apply the step mentioned above, and if you don't get the result, email me at [rohit@khadush.com](mailto:rohit@khadush.com), and I will help you land the job for free.
+**Next step:** Apply the step mentioned above, and if you don't get the result, {% include email.html text="email me" %}, and I will help you land the job for free.

@@ -11,15 +11,15 @@ It's Sunday, June 05; the time is 09:45 PM. My stomach is full of maggie (noodle
 
 As I was taking rest and planning for Monday, I remembered the pandemic time when many people were getting laid off from their job. Linkedin was full of these types of job posts, just like the below one.
 
-![image of linkedin post](/assets/uploads/job-2.png)
+![image of linkedin post](/assets/uploads/job.png)
 
 Although the pandemic was an exceptional case that started in 2019, now it's 2022. I still see the same thing.
 
 Coinbase.com had recently rejected the offer letter of many new employees, and now they are asking for a new job on Linkedin.
 
-[![https://www.linkedin.com/posts/danislou\_update-on-hiring-plans-activity-6938339020737241088-FYiK?utm\_source=linkedin\_share&u](/assets/uploads/image-1-5.png)](/assets/uploads/image-1-5.png)
+[![https://www.linkedin.com/posts/danislou\_update-on-hiring-plans-activity-6938339020737241088-FYiK?utm\_source=linkedin\_share&u](/assets/uploads/image-1-3.png)](/assets/uploads/image-1-3.png)
 
-[linkedin.com](https://www.linkedin.com/posts/danislou_update-on-hiring-plans-activity-6938339020737241088-FYiK?utm_source=linkedin_share&utm_medium=member_desktop_web)
+https://www.linkedin.com/posts/danislou\_update-on-hiring-plans-activity-6938339020737241088-FYiK?utm\_source=linkedin\_share&utm\_medium=member\_desktop\_web
 
 What if your boss will also fire you tomorrow. What will you do then?
 
@@ -27,11 +27,10 @@ What if your boss will also fire you tomorrow. What will you do then?
 
 Imagine you're going on a vacation with your friend. Both of you purchased child beers and decided to sit near a river bank. So, you can enjoy the view and beer.
 
-![body river surrounded by dress](/assets/uploads/kazuend-ccthplhmrzi-unsplash-1024x683-2.jpeg)
+![body river surrounded by dress](/assets/uploads/kazuend-ccthplhmrzi-unsplash-1024x683.jpeg)
 
-Photo by [kazuend](https://unsplash.com/@kazuend) on[](https://unsplash.com/?utm_source=khadush&utm_medium=referral)
+Photo by [kazuend](https://unsplash.com/@kazuend) on [Unsplash](https://unsplash.com/).
 
-[
 
 As you're talking with your friend, you hear a child's voice who is screaming, "help, help". Without waiting for a second, you jumped into a river with your friend and saved the child.
 
@@ -47,4 +46,3 @@ Honestly, I don't know the answer. I am still finding it as I am moving in my li
 
 I will share it very soon!
 
-](https://unsplash.com/?utm_source=khadush&utm_medium=referral)

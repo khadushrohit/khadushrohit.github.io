@@ -5,7 +5,7 @@ description: "You are looking to set up your landing page or website but don't k
 date: 2021-06-17 05:45:36
 category: "Landing pages"
 tags: []
-image: "/assets/uploads/upload1-2.png"
+image: "/assets/uploads/upload1.png"
 ---
 You are looking to set up your landing page or website but don't know where to start?  
 Maybe you don't have coding skills and you are wondering how can you still get success in getting a website?  
@@ -36,7 +36,7 @@ This is the first recommendation I had found with. It's a simple drag and drop t
 
 **Here is how to set up your Weebly website**
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/f8Jgp45wu2s" title="YouTube video" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+https://youtu.be/f8Jgp45wu2s
 
 The problem with Weebly is I don't like their outdated templates, and they don't have many variations of the template. So I will suggest you look for some other options.
 
@@ -46,7 +46,7 @@ Wix is also a drag and drops page builder, but I prefer it more as compared to W
 
 **Here is the video on how to set up your Wix website**
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/4UuwYco8K7c" title="YouTube video" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+https://youtu.be/4UuwYco8K7c
 
 ### [WordPress](http://wordpress.com)
 
@@ -54,7 +54,7 @@ Wordpress is also gaining popularity when it comes do setting up a simple and po
 
 **Here is the video on how to use it!**
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/vBcsj3LNtxM" title="YouTube video" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+https://youtu.be/vBcsj3LNtxM
 
 I will still suggest you to use wix because wordpress can be a little bit harder for you to use and also wix has good customer support.
 
@@ -80,7 +80,7 @@ You can use go on to the elegant theme, and from there, you can purchase an eleg
 
 **Here is the full video, which will guide you properly.**
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/FHWCiNmh9DA" title="YouTube video" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+https://youtu.be/FHWCiNmh9DA
 
 ### Themeforest
 
@@ -88,7 +88,7 @@ You can also buy your theme from [themeforest.com](http://themeforest.com); that
 
 **Here is the create video teaching about it.**
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/e_1gjfl2aGU" title="YouTube video" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+https://youtu.be/e\_1gjfl2aGU
 
 ## If you are specifically building a landing or sales page and don't care about complete control!
 
@@ -100,7 +100,7 @@ Since it's coming with these types of inbuilt feature for capturing email and se
 
 If you just want to sell something and lead generation where control doesn't matter much, go ahead with this tool without thinking even a second.
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/MacHlfw6gBk" title="YouTube video" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+https://youtu.be/MacHlfw6gBk
 
 There are 3 more tools(click funnel, Unbounce, Instapage) similar to what leadpages is doing, but personally, I don't know much about them, but you can learn about them from here. [https://www.growthmarketingpro.com/instapage-vs-leadpages-vs-unbounce-vs-clickfunnels/](https://www.growthmarketingpro.com/instapage-vs-leadpages-vs-unbounce-vs-clickfunnels/)
 
@@ -112,7 +112,7 @@ That's why I decided to tell you about some of my favourite tools for doing it! 
 
 ### [Optimizepress](https://www.optimizepress.com/)
 
-![https://www.optimizepress.com/](/assets/uploads/Screenshot-2021-06-17-at-11-01-40-OptimizePress-Landing-Page-Builder-for-WordPress-1-1024x580-2.png)
+![https://www.optimizepress.com/](/assets/uploads/Screenshot-2021-06-17-at-11-01-40-OptimizePress-Landing-Page-Builder-for-WordPress-1-1024x580.png)
 
 This is the best tool in terms of creating a landing page and sales pages. The most important thing I love about OptimizePress it is built on WordPress. And WordPress already give you full access to your website(assuming that you have your own domain and hosting).
 

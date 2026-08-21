@@ -5,7 +5,7 @@ description: "I was thinking of writing this article for the last year, but I am
 date: 2021-06-20 15:46:45
 category: "Landing pages"
 tags: []
-image: "/assets/uploads/surface-8JALcqYP25s-unsplash-2.jpg"
+image: "/assets/uploads/surface-8JALcqYP25s-unsplash.jpg"
 ---
 I was thinking of writing this article for the last year, but I am not sure what was resisting me from writing this article. Maybe being a designer, I don't want to offend other designers too.
 
@@ -29,7 +29,7 @@ Before talking about anything else, let's talk about types of the design.
 
 ### There are two types of design:
 
-![hammer image](/assets/uploads/hammer-image-2.jpg)
+![hammer image](/assets/uploads/hammer-image.jpg)
 
 image credit conversion optimization experts
 
@@ -43,13 +43,13 @@ Most agencies and designers design for beauty rather than understanding customer
 
 Below is the screenshot of the design made by an agency for their client. As you can see, it's purely made for beauty (you can't read the text correctly, colours are too distracting, the layout is breaking the design law etc.)
 
-![tea-website client website image](/assets/uploads/Tea-Store-1024x515-2.png)
+![tea-website client website image](/assets/uploads/Tea-Store-1024x515.png)
 
 * * *
 
 On the other hand, Below is another website(which sells tea), but they focused on making it functional, not beautiful even though it's looking good.
 
-![piquetea](/assets/uploads/piquetea-1024x584-2.png)
+![piquetea](/assets/uploads/piquetea-1024x584.png)
 
 More than half of the client falls into this trap. They see the portfolio of a designer or agency. And Rather than asking a question about the process and other business-related questions. 
 
@@ -69,7 +69,7 @@ You are getting me wrong, my friend!
 
 It's OK to optimize for beauty if your insights(market research, customer research etc.) tell you that your visitor will buy more as a result. You should absolutely test with making the design beautiful.
 
-![website](/assets/uploads/piquetea1-1024x584-2.png)
+![website](/assets/uploads/piquetea1-1024x584.png)
 
 For example, [piquetea.com](http://piquetea.com) know to sell their product, it's essential to make the design look beautiful to increase trust and product value in the customer mind.
 

@@ -5,7 +5,7 @@ description: "Neither about the design process, UI hacks or design jobs nor abou
 date: 2022-08-23 14:36:52
 category: "Life"
 tags: ["design job"]
-image: "/assets/uploads/-6"
+image: "/assets/uploads/photo-1616531770192-6eaea74c2456"
 ---
 I will not talk about design tools.
 

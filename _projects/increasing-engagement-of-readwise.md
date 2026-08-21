@@ -95,7 +95,7 @@ Below is an example:
 
 Personalized notification in status bar with Foot-In-door technique.
 
-# Idea 3: Make it attractive
+## Idea 3: Make it attractive
 
 Like "making things easy", "making things attractive" is also a powerful technique to change human behaviour.
 

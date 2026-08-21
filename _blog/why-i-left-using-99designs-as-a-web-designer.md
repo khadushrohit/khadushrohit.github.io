@@ -5,7 +5,7 @@ description: "I have been using 99designs since 2018, and there is no doubt that
 date: 2021-02-03 14:36:44
 category: "Design career"
 tags: []
-image: "/assets/uploads/business-man-working-office-with-laptop-using-phone-2.jpg"
+image: "/assets/uploads/business-man-working-office-with-laptop-using-phone.jpg"
 ---
 I have been using [99designs](http://www.99designs.com/) since 2018, and there is no doubt that this platform helps me make some money and practise my design skill.
 

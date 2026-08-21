@@ -174,7 +174,7 @@ This is what the final design looks like:
 
 The final video of the website
 
-# Final outcome & lessons
+## Final outcome & lessons
 
 Since our company was very tight on budget, the development of the website didn't go as expected. 
 

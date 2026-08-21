@@ -5,7 +5,7 @@ description: "I am 24 and never thought about writing this article, especially o
 date: 2022-11-20 06:43:32
 category: "Life"
 tags: []
-image: "/assets/uploads/-7"
+image: "/assets/uploads/photo-1604480132736-44c188fe4d20"
 ---
 I am 24 and never thought about writing this article, especially on this topic. However, in the book ["The happiness equation"](https://www.amazon.in/Happiness-Equation-Neil-Pasricha/dp/0399169474), the author has talked writing can make you happy!
 

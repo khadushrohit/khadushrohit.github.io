@@ -5,7 +5,7 @@ description: "I still remember those days of 2020 when I had just passed out of 
 date: 2025-03-21 05:12:14
 category: "Design career"
 tags: ["design"]
-image: "/assets/uploads/-10"
+image: "/assets/uploads/photo-1558655146-d09347e92766"
 ---
 **I still remember those days of 2020** when I had just passed out of college and was talking with my girlfriend over the phone about future planning.
 
@@ -63,7 +63,7 @@ Fear is a great motivator—even more than rewards.
 
 Make a list of things you *hate*. Then, build your life in a way that helps you avoid those things.
 
-[![I went from waiter to designer at VWO — Here are the 2 mindset shifts that made it possible](/assets/uploads/Screenshot-2025-03-21-at-10.37.21-AM-300x73-2.png)](/assets/uploads/Screenshot-2025-03-21-at-10.37.21-AM-2.png)
+[![I went from waiter to designer at VWO — Here are the 2 mindset shifts that made it possible](/assets/uploads/Screenshot-2025-03-21-at-10.37.21-AM-300x73.png)](/assets/uploads/Screenshot-2025-03-21-at-10.37.21-AM.png)
 
 Hating things is good for motivation, but you need proper planning to avoid that scary dream.
 

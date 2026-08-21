@@ -348,3 +348,13 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
 /* ---------- embedded video ---------- */
 .video { position: relative; aspect-ratio: 16/9; margin: 2rem 0; border-radius: 10px; overflow: hidden; border: 1px solid var(--border); }
 .video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
+/* ---------- image captions ----------
+   WordPress figcaptions land as the paragraph right after a lone image.
+   Style them as captions instead of body copy. */
+.article-body p:has(> img:only-child) { margin-bottom: .5rem; }
+.article-body p:has(> img:only-child) + p,
+.article-body p:has(> a > img:only-child) + p {
+  color: var(--muted); font-size: .88rem; line-height: 1.5;
+  margin-bottom: 2rem; padding-left: 2px;
+}

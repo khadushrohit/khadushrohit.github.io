@@ -5,9 +5,9 @@ description: "In 2018 I was started to play with web design during my summer vac
 date: 2021-05-10 15:47:27
 category: "Design career"
 tags: ["design"]
-image: "/assets/uploads/school-supplies-floating-out-book-amidst-colorful-balls-soft-pink-3d-render-2.jpg"
+image: "/assets/uploads/school-supplies-floating-out-book-amidst-colorful-balls-soft-pink-3d-render.jpg"
 ---
-# A little context
+## A little context
 
 In 2018 I was started to play with web design during my summer vacation because I have to create a project for my college. But soon, I found my interest in web design.
 
@@ -23,9 +23,9 @@ That's why I had curated a list of my courses & books, which helped to make my d
 
 Let's start.....
 
-# **If you wanted to become a product and UX designer**
+## **If you wanted to become a product and UX designer**
 
-## [Learn UX design by Erik Kennedy](https://learnui.design/courses/learn-ux-design.html)
+### [Learn UX design by Erik Kennedy](https://learnui.design/courses/learn-ux-design.html)
 
 When I first saw this course, I was not intrigued. You know why? Because the Erik landing page was not looking awesome as compared to other design courses, let's face the truth, visual design always increases the value of the product. Hence, the same thing happened to me.
 
@@ -47,7 +47,7 @@ After a couple of days, I subscribed to his newsletter because I like his blog p
 
 Erik Kennedy has recently updated his UI design course in 2022. and I really love his content!
 
-## [Digital psychology](https://cxl.com/institute/programs/digital-psychology-persuasion-training/)
+### [Digital psychology](https://cxl.com/institute/programs/digital-psychology-persuasion-training/)
 
 This course is provided by the CXL Institute. It's a well-known institute for research in conversion optimization and digital psychology. This course will not help you directly in the UX design because it is more based on psychology & cognitive bias rather than UX principles and process.
 
@@ -60,7 +60,7 @@ Honestly, I didn't pay for this course due to weak financial conditions. Thus, I
 
 > No pros and cons because it is an bonus course
 
-## [Product Design (UI/UX) Master Course by Elizabeth Alli](https://designerup.co/product-design-ui-ux-mastercourse)
+### [Product Design (UI/UX) Master Course by Elizabeth Alli](https://designerup.co/product-design-ui-ux-mastercourse)
 
 I took this course very early in my career when I was unaware of UX and product design.  
 I found this course accidentally when I was a member of a Facebook group author of this course was helping many beginning designers by answering their question.
@@ -78,7 +78,7 @@ The content quality was good, and the videos were short and practical. But still
 > **Cons**:  
 > 1\. Lack of in-depth knowledge of UI/UX process and principles.
 
-## [Conversion optimization by CXL institute](https://cxl.com/institute/programs/conversion-optimization/)
+### [Conversion optimization by CXL institute](https://cxl.com/institute/programs/conversion-optimization/)
 
 This course is also provided by CXL Institue, and here is how it will help you as a UX designer. I found many situations where you will have to deal with quantitive data(Like A/B testing, statistics, google analytics, etc.).
 
@@ -88,9 +88,9 @@ One more thing which I want to add is, As a designer, many companies, especially
 
 > No cons, only pros because it a bonus skill to have under your belt
 
-# If you want, to become a Web & visual design
+## If you want, to become a Web & visual design
 
-## [Learn Photoshop, Web Design & Profitable Freelancing by Cristian Doru Barin](https://www.udemy.com/course/learn-photoshop-web-design-profitable-freelancing/)
+### [Learn Photoshop, Web Design & Profitable Freelancing by Cristian Doru Barin](https://www.udemy.com/course/learn-photoshop-web-design-profitable-freelancing/)
 
 Before entering the design industry, I wanted to be a freelance web designer. So, This was the first course that drew my attention towards it. 
 
@@ -108,13 +108,13 @@ If you want to be a designer and never design a single piece of app or a website
 > 1\. The whole course is taught in photoshop  
 > 2\. Don't teach basic design principles and other small details like button size, which colour to choose.
 
-## [Master Web Design in Photoshop by Cristian Doru Barin](https://www.udemy.com/course/master-web-design-in-photoshop/)
+### [Master Web Design in Photoshop by Cristian Doru Barin](https://www.udemy.com/course/master-web-design-in-photoshop/)
 
 If you are an intermediate designer looking to sharpen your web design skills and stretch to the next level. In that case, this course will definitely help you. Actually, this an upgrade version of the course mentioned above. Also, it's a great course to teach you suitable lessons regarding design trends and how to create them.
 
 > No pros and cons because it's a bonus with the above course
 
-## [10k website process by Ran segall](https://www.flux-academy.com/courses/10k-website-process)
+### [10k website process by Ran segall](https://www.flux-academy.com/courses/10k-website-process)
 
 I was introduced to the author of this course when I was learning web design at the thefutur academy. I saw an interview of Chris do with Ran Segall(the main author of the course).  
 He talked about how he charged $10,000 for a website as a freelance designer. Seeing such a vast about of money intrigued me, and I searched about the author further on youtube.  
@@ -126,7 +126,7 @@ Long story short, I took his course. As the name suggests, this course is about 
 >   
 > **No cons found so far.**
 
-## [Funnel designer by Neel Sarode](https://conversiondesigner.co/)
+### [Funnel designer by Neel Sarode](https://conversiondesigner.co/)
 
 This course is built explicitly for those designers who want to sharpen their visual design(for website). 
 
@@ -145,13 +145,13 @@ However, this course will not allow you to deal with the client like running str
 
 Creating a website is not just about throwing images & colours and coming up with beautiful web pages. A website should be built to solve a business problem, which means we need a strategy to solve a particular problem. So I had already shared with you the course "10k website process". This course will definitely give you the strategy to create a winning website.
 
-I want to share another bonus course that will help you understand your audience, basics of marketing and teach you how to write online(copywriting). I personally used this course to write copy for my website. You can check my homepage www.khadush.com
+I want to share another bonus course that will help you understand your audience, basics of marketing and teach you how to write online(copywriting). I personally used this course to write copy for my own website.
 
-## [SELL WITH STORY](https://www.digitalmarketer.com/lp/donald-miller-workshop/)
+### [SELL WITH STORY](https://www.digitalmarketer.com/lp/donald-miller-workshop/)
 
-# If you want to be a UI designer
+## If you want to be a UI designer
 
-## [Learn UI design, by Erik Kennedy](https://learnui.design/)
+### [Learn UI design, by Erik Kennedy](https://learnui.design/)
 
 I had already shared one course of this author above yet. This is another course in which the author had taught UI design in a practical and in-depth way. 
 
@@ -168,7 +168,7 @@ If you are a completely new designer and looking to understand the UI principles
 > **Cons**:  
 > Videos are a bit longer (but that's ok)
 
-## [Designacademy.io](https://www.designacademy.io/)
+### [Designacademy.io](https://www.designacademy.io/)
 
 Laura Elizabeth, the author of this course, is quite famous on social media and among the client for his freelancing work. If you are working as a developer and looking for a short, practical and affordable course that will teach you how to design websites. Then, this course is definitely for you.  
 Even if you are a designer, this course gives you some practical tips and hacks to design a good-looking website. But, you are ok without also. If you have extra money, then you can check this course.
@@ -181,7 +181,7 @@ Even if you are a designer, this course gives you some practical tips and hacks 
 > 1\. Suitable only for developer  
 > 2\. Don't teach you any process to design a website
 
-## [Shift nudge](https://shiftnudge.com/)
+### [Shift nudge](https://shiftnudge.com/)
 
 I am a fan of matt d. smith(author shift nudge course) because I love his visual design skills as well his lifestyle. When I first saw his course website, It blew my mind completely. His website was looking very classic and high end. 
 
@@ -198,14 +198,14 @@ If you are a new designer and looking for a UI design course, I will recommend t
 > 2\. Videos are very long  
 > 3\. Lack of straightforward design process (This is what I was expecting more)
 
-## [Refactoring UI](https://www.refactoringui.com/)
+### [Refactoring UI](https://www.refactoringui.com/)
 
 If you are intermediate designer who has learned the UI skills as well as did some real world project then this is the best content you should invest into. Personally, I learned lots of new tips & tricks can help in making the interface looking more beautfiul. So, without thinking to much invest your money in it.  
 This is not a course so take this as an addon with your UI skills.
 
-# Bonus
+## Bonus
 
-## Some personal read book recommendation
+### Some personal read book recommendation
 
 Like most you guys I also don't like to read books but here are some of the books which I had read personally and I learned so many great things from it!
 

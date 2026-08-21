@@ -5,7 +5,7 @@ description: "So, you want to launch your first landing page and seek some help 
 date: 2021-06-14 04:27:05
 category: "Landing pages"
 tags: []
-image: "/assets/uploads/close-up-hand-holding-paper-plane1-2.jpg"
+image: "/assets/uploads/close-up-hand-holding-paper-plane1.jpg"
 ---
 ## Start here
 
@@ -105,7 +105,7 @@ For example, suppose you are reading the word on the landing page, but the words
 
 Or what if your webpage colour is very light similar to given in the below image.
 
-![5 things to ensure before launching your landing page](/assets/uploads/badux-1024x216-2.png)
+![5 things to ensure before launching your landing page](/assets/uploads/badux-1024x216.png)
 
 Or what if your landing page is not looking trustworthy at all? Is it looking more like a website built in 20 century?
 

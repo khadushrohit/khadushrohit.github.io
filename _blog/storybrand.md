@@ -21,7 +21,7 @@ Since There was no risk and I gave it a try. By the time I had finished half of 
 
 He was providing top-notch knowledge of marketing in a consumable format. Once I had finished the book, I started to apply the knowledge.
 
-Since I am a web designer, I prepared a brand script and using that script, I write copy for my own website, which you can check here khadush.com/service.
+Since I am a web designer, I prepared a brand script and used it to write the copy for my own website.
 
 Unfortunately, the brand script didn't produce any result for me, and I left the idea using it and moved further to find something that would work.
 

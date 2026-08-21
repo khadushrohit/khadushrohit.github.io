@@ -21,7 +21,7 @@ We have only two options left: Either choose a different location for the shop o
 
 Rather than choosing one option among the two, we decided to use completely another approach.
 
-![gray and blue Open signage](/assets/uploads/mike-petrucci-c9fqyqiecds-unsplash-1024x683-2.jpeg)
+![gray and blue Open signage](/assets/uploads/mike-petrucci-c9fqyqiecds-unsplash-1024x683.jpeg)
 
 Photo by [Mike Petrucci](https://unsplash.com/@mikepetrucci)
 
@@ -49,11 +49,11 @@ Both channels teach the same content in the same language (Hindi), create their 
 
 But, you see the no of subscribers and easily spot the difference.
 
-[![image](/assets/uploads/khansir-2.png)](/assets/uploads/khansir-2.png)
+[![image](/assets/uploads/khansir.png)](/assets/uploads/khansir.png)
 
 khan GS Research Centre with 16.3M subscribers
 
-[![image](/assets/uploads/worldaffairs-1024x152-2.png)](/assets/uploads/worldaffairs-2.png)
+[![image](/assets/uploads/worldaffairs-1024x152.png)](/assets/uploads/worldaffairs.png)
 
 World affairs with 2.23M subscribers
 
@@ -105,12 +105,12 @@ I procrastinated in writing the article because I am working as a full-time desi
 
 Now there is only 5min left on the stopwatch.
 
-Need any help, email me at rohit@khadush.com
+Need any help? {% include email.html text="email me" %}.
 
 Timesup!
 
 Oh, here is an image of my new shop, CARING INSIGHT.
 
-[![caring insight image](/assets/uploads/Caring-insight-1024x768-2.jpg)](/assets/uploads/Caring-insight-2.jpg)
+[![caring insight image](/assets/uploads/Caring-insight-1024x768.jpg)](/assets/uploads/Caring-insight.jpg)
 
 My elder brother sitting in the shop

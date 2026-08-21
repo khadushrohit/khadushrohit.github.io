@@ -5,7 +5,7 @@ description: "I was nine when I first noticed something strange about my mother.
 date: 2025-06-28 13:35:37
 category: "Psychology"
 tags: []
-image: "/assets/uploads/image-863-2.png"
+image: "/assets/uploads/image-863.png"
 ---
 I was nine when I first noticed something strange about my mother.
 
@@ -19,7 +19,7 @@ Now I understand what happened to my mother. And what happened to me. And what h
 
 ## How Emotions Make Stories Stick
 
-![Brain image](/assets/uploads/image-1-6.png)
+![Brain image](/assets/uploads/image-1-4.png)
 
 [https://qbi.uq.edu.au/brain-basics/memory/where-are-memories-stored](https://qbi.uq.edu.au/brain-basics/memory/where-are-memories-stored)
 
@@ -53,7 +53,7 @@ The result? Users who saw positive posts created more positive content themselve
 
 **Why does this happen?** As **Tali Sharot** explains in "The Influential Mind," our brains are designed to transmit emotions quickly because emotions often convey important survival information about our environment.
 
-![Research timeline from the mother-infant stress contagion study by Wendy Berry Mendes, showing how emotions transfer between](/assets/uploads/image-6.png)
+![Research timeline from the mother-infant stress contagion study by Wendy Berry Mendes, showing how emotions transfer between](/assets/uploads/image-4.png)
 
 *Research timeline from the mother-infant stress contagion study by Wendy Berry Mendes, showing how emotions transfer between brains even without direct communication*
 

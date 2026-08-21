@@ -5,7 +5,7 @@ description: "I worked as a freelance designer with small businesses(my website)
 date: 2021-06-02 03:43:54
 category: "Landing pages"
 tags: ["landingpage"]
-image: "/assets/uploads/oops-sign-wooden-cut-circle-2.jpg"
+image: "/assets/uploads/oops-sign-wooden-cut-circle.jpg"
 ---
 ## A little context
 

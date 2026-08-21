@@ -5,11 +5,11 @@ description: "This was the first time I visited one of the Seven Wonders of the 
 date: 2023-03-04 08:26:14
 category: "Marketing"
 tags: []
-image: "/assets/uploads/-8"
+image: "/assets/uploads/photo-1588347300869-4e8709274b1b"
 ---
 This was the first time I visited one of the Seven Wonders of the World, the Taj Mahal, with my family.
 
-![my image with taj mahal](/assets/uploads/photo_2023-03-04_13-55-18-461x1024-2.jpg)
+![my image with taj mahal](/assets/uploads/photo_2023-03-04_13-55-18-461x1024.jpg)
 
 Like every human on Earth, we don't want to spend an extra penny on something we don't need.
 

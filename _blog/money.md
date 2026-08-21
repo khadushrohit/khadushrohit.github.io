@@ -5,7 +5,7 @@ description: "I don't know how to start, but I am like most people working for m
 date: 2023-04-17 04:44:39
 category: "Life"
 tags: []
-image: "/assets/uploads/-9"
+image: "/assets/uploads/photo-1556740714-a8395b3bf30f"
 ---
 I don't know how to start, but I am like most people working for money.
 
@@ -37,6 +37,6 @@ I am following dankoe.com, where he talks about self-development.
 
 In a video on finding purpose, he talked about finding something a big problem in our society and then solving that problem.
 
-<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/iHGvsDGj1SI" title="YouTube video" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+https://youtu.be/iHGvsDGj1SI
 
 Here is the video. I am still figuring out how to find the purpose because finding purpose is the only thing which can keep us happy and motivated throughout life.

@@ -5,7 +5,7 @@ description: "One of my close friends spent 8 years' worth of his savings on his
 date: 2025-06-29 02:40:45
 category: "Life"
 tags: []
-image: "/assets/uploads/Twitter-post-8-2.png"
+image: "/assets/uploads/Twitter-post-8.png"
 ---
 One of my close friends spent 8 years' worth of his savings on his sister's marriage. When I asked him why, he couldn't give me a straight answer.
 

@@ -9,11 +9,11 @@ image: ""
 ---
 Imagine you wake up in the morning and your parents want you to leave their house. You don't have a job and little to no savings. How will you survive?
 
-![Photo by Surface](/assets/uploads/surface-rb8vfip7ges-unsplash-2.jpeg)
+![Photo by Surface](/assets/uploads/surface-rb8vfip7ges-unsplash.jpeg)
 
 Photo by [Surface](https://unsplash.com/@surface)
 
-# Story of Prince
+## Story of Prince
 
 I have a friend who lived in Bihar(India); his name was Prince. He falls in love with a beautiful skinny girl. They enjoyed their life until one day, someone informed Prince's father that he is in the relationship(Hurray!).
 
@@ -35,7 +35,7 @@ How will you deal with this situation?
 
 The same situation was faced by Prince, but the emergency fund saved his ass!
 
-# You can never imagine what could go wrong.
+## You can never imagine what could go wrong.
 
 Just like Prince, your situation your life can also turn upside down within a matter of weeks. That's why it's essential to have an emergency fund so you can survive in worse conditions.
 
@@ -49,7 +49,7 @@ Never do that...
 
 Treat your emergency fund like a bunker. You use the bunker only when there is a nuclear war to save yourself from radiation. Otherwise, you stay in a typical house.
 
-# How much should I save?
+## How much should I save?
 
 On average, you can save a total of 4 months of savings. For example, if your salary is $100/m, your total fund could be $400.
 

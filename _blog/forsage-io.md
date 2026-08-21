@@ -5,7 +5,7 @@ description: "In this article, you will learn about my little journey and how I 
 date: 2022-01-01 05:33:50
 category: "Life"
 tags: []
-image: "/assets/uploads/-2"
+image: "/assets/uploads/photo-1559067096-49ebca3406aa"
 ---
 ## What will you learn in this article?
 
@@ -17,7 +17,7 @@ I am not a financial expert. I am a 23-year-old guy looking to save and invest h
 
 Basically, I want financial freedom.
 
-![Investment Scrabble text](/assets/uploads/precondo-ca-olsgcrlsykw-unsplash-1024x576-2.jpeg)
+![Investment Scrabble text](/assets/uploads/precondo-ca-olsgcrlsykw-unsplash-1024x576.jpeg)
 
 Photo by Precondo CA
 
@@ -63,7 +63,7 @@ It will take me around six years to get this amount of return with a 15k rupee o
 
 .
 
-![forsage](/assets/uploads/photo_2022-01-01-07.52.37-461x1024-2.jpeg)
+![forsage](/assets/uploads/photo_2022-01-01-07.52.37-461x1024.jpeg)
 
 It gets increased later
 
@@ -99,6 +99,6 @@ In forsage, there are two types of slots: one working and another is non-working
 
 That's it for now. I know it is a little bit confusing cause you have any doubts!
 
-**Drop me your doubt at** [**rohit@khadush.com**](mailto:rs949863@gmail.com)**, and if you want to join forsage,**
+**Drop me your doubt** &mdash; {% include email.html text="email me" %} **&mdash; and if you want to join forsage,**
 
 > **use my referral code** [https://forsage.io/b/z1x8xn](https://forsage.io/b/z1x8xn)

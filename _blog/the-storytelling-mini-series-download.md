@@ -13,6 +13,6 @@ image: ""
 
 **Booklet 3: The Power of Drama**: https://www.psychotactics.com/pddownloads/sttlg09/003\_Creating\_Drama3.pdf
 
-**Randomly found this pdf online: Identify the right target** [Link](/assets/uploads/01-Identify-The-Right-Target-2.pdf)
+**Randomly found this pdf online: Identify the right target** [Link](/assets/uploads/01-Identify-The-Right-Target.pdf)
 
 Looking for more courses from Sean D\`souza? Let's collect money and do a group buy together: Join this telegram group [https://t.me/+qEvdwQCTtcc1ZmU9](https://t.me/+qEvdwQCTtcc1ZmU9)
