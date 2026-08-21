@@ -6,7 +6,7 @@ year: 2025
 tags:
   - Systems
   - Automation
-image: ''
+image: /assets/uploads/Screenshot 2026-08-21 at 6.20.11 AM.png
 link: ''
 order: 2
 layout: project
