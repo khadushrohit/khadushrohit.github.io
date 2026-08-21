@@ -1,4 +1,4 @@
-# Edited in the CMS under Homepage. Powers the client strip and the Writing section.
+portrait: /assets/uploads/photo_2025-06-27_07-41-03.jpg
 clients:
   - name: Taj Hotels
     logo: /assets/uploads/client-taj-hotels.png
@@ -10,19 +10,16 @@ clients:
     logo: /assets/uploads/client-canvas-culture.png
   - name: Dae Hair
     logo: /assets/uploads/client-daehair.png
-
 articles:
-  - title: "Designers who don't study psychology will be replaced by AI coding tools by the end of 2026."
-    excerpt: "Tools and trends keep changing. Human nature doesn't. There was a time people used pigeons to send messages. Now it's Instagram. Same humans, new medium."
+  - title: Designers who don't study psychology will be replaced by AI coding tools by the end of 2026.
+    excerpt: Tools and trends keep changing. Human nature doesn't. There was a time people used pigeons to send messages. Now it's Instagram. Same humans, new medium.
     date: 2025-06-13
     url: https://medium.com/design-bootcamp/designers-who-dont-study-psychology-will-be-replaced-by-ai-coding-tools-by-the-end-of-2026-c9eaf09bc035
-
-  - title: "4 reasons why new designers are struggling to land design jobs."
-    excerpt: "My younger brother has been unemployed for the last 10 months. He wanted to become a designer because I earn well and work from home. Nothing wrong with his logic."
+  - title: 4 reasons why new designers are struggling to land design jobs.
+    excerpt: My younger brother has been unemployed for the last 10 months. He wanted to become a designer because I earn well and work from home. Nothing wrong with his logic.
     date: 2025-03-15
     url: https://medium.com/design-bootcamp/4-reasons-why-new-designers-are-struggling-to-land-design-jobs-233a74c2886c
-
-  - title: "How to overcome self-doubt for new designers only."
-    excerpt: "In 2020 my life was hell. Fresh out of college, I wanted to be a developer. Fear defeats more people than any other thing in the world."
+  - title: How to overcome self-doubt for new designers only.
+    excerpt: In 2020 my life was hell. Fresh out of college, I wanted to be a developer. Fear defeats more people than any other thing in the world.
     date: 2025-01-15
     url: https://medium.com/design-bootcamp/how-to-overcome-self-doubt-im-not-too-confident-in-design-for-new-designers-only-be8cb298d506
