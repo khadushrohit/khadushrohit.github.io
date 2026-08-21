@@ -1,10 +1,10 @@
-# khadushrohit.github.io
+# rohitdesigner.in
 
 Design portfolio. Jekyll site, hosted free on GitHub Pages, edited through [Sveltia CMS](https://sveltiacms.app).
 
 ## Editing
 
-Normal route: <https://khadushrohit.github.io/admin/> → sign in → edit. Saves commit to this repo and the site rebuilds in about a minute.
+Normal route: <https://rohitdesigner.in/admin/> → sign in → edit. Saves commit to this repo and the site rebuilds in about a minute.
 
 Manual route: case studies are Markdown files in `_projects/`. The filename becomes the URL.
 

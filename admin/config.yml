@@ -4,8 +4,8 @@ backend:
   repo: khadushrohit/khadushrohit.github.io
   branch: main
 
-site_url: https://khadushrohit.github.io
-display_url: https://khadushrohit.github.io
+site_url: https://rohitdesigner.in
+display_url: https://rohitdesigner.in
 
 media_folder: assets/uploads
 public_folder: /assets/uploads
