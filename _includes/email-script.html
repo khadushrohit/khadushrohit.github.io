@@ -1,0 +1,10 @@
+<script>
+(function () {
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest ? e.target.closest('.email-link') : null;
+    if (!a) return;
+    e.preventDefault();
+    window.location.href = 'mailto:' + atob(a.getAttribute('data-e'));
+  });
+})();
+</script>

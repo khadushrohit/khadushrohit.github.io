@@ -1,0 +1,6 @@
+{%- comment -%}
+Obfuscated contact link. The address never appears in the HTML source as plain
+text, so page scrapers and spam harvesters don't pick it up. It is assembled by
+JS on click. Usage: {% include email.html %} or {% include email.html text="Write to me" %}
+{%- endcomment -%}
+<a href="#" class="email-link" data-e="cnM5NDk4NjNAZ21haWwuY29t">{{ include.text | default: "email me" }}</a>

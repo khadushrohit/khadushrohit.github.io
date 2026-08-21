@@ -33,7 +33,7 @@ Research, User Experience, Visual Design
 
 ## The app is incomplete due to a lack of enough data. Can you help me build this app by sharing your insights?
 
-Yes, please write "hello" at Rohit@khadush.com
+Yes, please write "hello" — {% include email.html text="send me an email" %}
 
 ## Design challenges
 
@@ -132,7 +132,7 @@ Second flow
 
 ## The app is incomplete due to a lack of enough data. Can you help me build this app by sharing your insights?
 
-Yes, please write "hello" at Rohit@khadush.com
+Yes, please write "hello" — {% include email.html text="send me an email" %}
 
 More sketches and flows: [https://www.figma.com/file/xPu3UtKWSATaeVYT1EaPPK/no-more-mess?node-id=0%3A1](https://www.figma.com/file/xPu3UtKWSATaeVYT1EaPPK/no-more-mess?node-id=0%3A1)
 

@@ -190,4 +190,4 @@ style guide
 
 I handed over all assets with the final style guide of the website.
 
-Finally, we reached the end of the case study. If you have any doubts or want to ask a question. Write to me at [Rohit@khadush.com](mailto:Rohit@khadush.com)
+Finally, we reached the end of the case study. If you have any doubts or want to ask a question. Write to me — {% include email.html text="send me an email" %}

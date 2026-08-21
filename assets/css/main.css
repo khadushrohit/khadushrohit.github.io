@@ -269,3 +269,6 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
 .card .thumb { transition: opacity .15s ease; }
 /* keep tags below the invisible link overlay so they don't swallow clicks oddly */
 .card .tags { position: relative; z-index: 2; pointer-events: none; }
+
+/* ---- Obfuscated email link ---- */
+.email-link { cursor: pointer; }
