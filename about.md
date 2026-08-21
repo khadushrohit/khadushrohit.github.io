@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Who is Rohit (Khadush)?
-permalink: /about/
 eyebrow: About me
 description: Product designer, four years in, obsessed with why people do what they do.
+layout: page
+permalink: /about/
 ---
 
 > Demo content. Replace this with your real About copy through Pages CMS.
@@ -18,6 +18,6 @@ Complex, data-heavy B2B products — the kind where the hard part isn't making a
 
 Start from the real use case, not the data model. Make the important action the most visible thing on screen. Cut anything that asks the user for something the product could have inferred.
 
-## Elsewhere
+## Elsewhere or timepass
 
 Twitter, LinkedIn, Instagram — links in the footer.
