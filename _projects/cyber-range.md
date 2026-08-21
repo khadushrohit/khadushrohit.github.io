@@ -130,7 +130,7 @@ Instead of starting to write user story mapping for all three user types, I focu
 
 ## User flow, Wire flow & Card sorting
 
-[![](/assets/uploads/Screenshot-2023-06-10-at-2.23.49-PM-1024x455.png)](/assets/uploads/Screenshot-2023-06-10-at-2.23.49-PM.png)
+[![User flow for the instructor journey](/assets/uploads/Screenshot-2023-06-10-at-2.23.49-PM-1024x455.png)](/assets/uploads/Screenshot-2023-06-10-at-2.23.49-PM.png)
 
 User flow
 
@@ -138,7 +138,7 @@ User flow
 
 Wireframe
 
-[![](/assets/uploads/Screenshot-2023-06-14-at-5.53.30-PM-1024x524.png)](/assets/uploads/Screenshot-2023-06-14-at-5.53.30-PM.png)
+[![Card sorting results for the student side of the product](/assets/uploads/Screenshot-2023-06-14-at-5.53.30-PM-1024x524.png)](/assets/uploads/Screenshot-2023-06-14-at-5.53.30-PM.png)
 
 Card sorting did for the student part side
 
@@ -176,15 +176,15 @@ Gamified cyber range
 
 After lots of UI vairations our team landed on color scheme of last moodboard and used the typography of second last moodboard.
 
-![](/assets/uploads/Screenshot-2023-06-10-at-9.35.49-PM-1024x556.png)
+![Final colour scheme and typography chosen from the moodboards](/assets/uploads/Screenshot-2023-06-10-at-9.35.49-PM-1024x556.png)
 
 **As I told you earlier, we were limited resources, so instead of developing our component, we were following the base guidelines of [material ui](https://m2.material.io/components) and React components of [MUI](https://mui.com/material-ui/react-autocomplete/).**
 
-[![](/assets/uploads/Screenshot-2023-06-11-at-9.34.07-AM-1024x445.png)](/assets/uploads/Screenshot-2023-06-11-at-9.34.07-AM.png)
+[![Cyber range screens built with the design system](/assets/uploads/Screenshot-2023-06-11-at-9.34.07-AM-1024x445.png)](/assets/uploads/Screenshot-2023-06-11-at-9.34.07-AM.png)
 
 Screens designed with design system
 
-[![](/assets/uploads/Screenshot-2023-06-11-at-9.32.13-AM-1024x418.png)](/assets/uploads/Screenshot-2023-06-11-at-9.32.13-AM.png)
+[![More cyber range screens built with the design system](/assets/uploads/Screenshot-2023-06-11-at-9.32.13-AM-1024x418.png)](/assets/uploads/Screenshot-2023-06-11-at-9.32.13-AM.png)
 
 Screens designed with design system
 

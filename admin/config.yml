@@ -53,6 +53,39 @@ collections:
       - { label: Layout, name: layout, widget: hidden, default: project }
       - { label: Case study, name: body, widget: richtext }
 
+  - name: blog
+    label: Writing
+    label_singular: Blog post
+    folder: _blog
+    create: true
+    delete: true
+    extension: md
+    format: yaml-frontmatter
+    slug: '{{slug}}'
+    summary: '{{title}}'
+    sortable_fields: [date, title, category]
+    view_groups:
+      - { label: Category, field: category }
+    fields:
+      - { label: Layout, name: layout, widget: hidden, default: post }
+      - { label: Post title, name: title, widget: string }
+      - {
+          label: Excerpt,
+          name: description,
+          widget: text,
+          hint: One or two sentences. Shows on the writing list and in Google results.,
+        }
+      - { label: Published, name: date, widget: datetime, format: 'YYYY-MM-DD HH:mm:ss' }
+      - {
+          label: Category,
+          name: category,
+          widget: select,
+          options: [Design career, UX, Psychology, Landing pages, Marketing, Money, Mental health, Life],
+        }
+      - { label: Tags, name: tags, widget: list, required: false }
+      - { label: Cover image, name: image, widget: image, required: false }
+      - { label: Post, name: body, widget: richtext }
+
   - name: pages
     label: Pages
     files:
@@ -75,12 +108,15 @@ collections:
       - name: homepage_data
         label: Homepage content
         file: _data/homepage.yml
-        description: The client strip under the hero, and the three Medium articles in the Writing section.
+        description: Hero portrait, the client logo strip, and the Medium articles listed at the bottom of the Writing page.
         fields:
+          - { label: Hero portrait, name: portrait, widget: image, required: false }
           - label: Client strip
             name: clients
             widget: list
-            field: { label: Company name, name: name, widget: string }
+            fields:
+              - { label: Company name, name: name, widget: string }
+              - { label: Logo, name: logo, widget: image }
           - label: Medium articles
             name: articles
             widget: list

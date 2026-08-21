@@ -88,9 +88,9 @@ There is no solid solution regarding increasing self-control especially when the
 
 There was lots of idea and things going in my mind about the app because I have to create the behaviour intervention as well as merge it will the product so, I decided to create brain mapping to see the big picture.
 
-[![](/assets/uploads/image-1024x399.png)](/assets/uploads/full-image.png)
+[![Brain mapping of the app idea and behaviour intervention](/assets/uploads/image-1024x399.png)](/assets/uploads/full-image.png)
 
-https://www.figma.com/file/chshCCRcwoAoHy1JreJkZ2/brain-mapping?node-id=0%3A1
+[figma.com](https://www.figma.com/file/chshCCRcwoAoHy1JreJkZ2/brain-mapping?node-id=0%3A1)
 
 Rather than creating the whole app flow in one go, I decided to draw the flow one by one. Until I reached the MVP of the app.
 

@@ -22,7 +22,7 @@ order: 3
 
 This time I decided to record a video rather than write down my whole process.
 
-https://youtu.be/uak\_8ayHUwo
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/uak_8ayHUwo" title="YouTube video" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Final delivery
 

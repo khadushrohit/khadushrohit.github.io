@@ -111,7 +111,7 @@ This first idea is to make the note showing section more attractive through colo
 
 readwise.io
 
-https://codemyui.com/square-emoji-shadow-and-line-particles-popper-effect-on-button-click/
+[codemyui.com](https://codemyui.com/square-emoji-shadow-and-line-particles-popper-effect-on-button-click/)
 
 Adding little animation on clicking is also a good idea.
 

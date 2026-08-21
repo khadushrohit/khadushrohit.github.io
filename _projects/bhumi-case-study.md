@@ -104,7 +104,7 @@ The main thing I found on the competitor's websites was:
 -   Their homepage content is written in a way that assumes that the customer is already aware of the solution entirely.
 -   Since we are selling to Indian clients so, on our homepage, we need to talk about the problem than a solution.
 
-[![](/assets/uploads/market-research-1024x690.png)](/assets/uploads/market-research.png)
+[![Market research board comparing competitor homepages](/assets/uploads/market-research-1024x690.png)](/assets/uploads/market-research.png)
 
 ## After research
 
@@ -170,7 +170,7 @@ This is what the final design looks like:
 
 * * *
 
-https://youtu.be/EjjyZTj71WA
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/EjjyZTj71WA" title="YouTube video" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The final video of the website
 
@@ -184,7 +184,7 @@ We also lacked a highly skilled motion designer, so we made some compromises wit
 
 Overall, even after many obstacles, every stakeholder was happy with the outcome and made the website live.
 
-[![](/assets/uploads/style-guide-871x1024.png)](/assets/uploads/style-guide.png)
+[![Bhumi style guide: colour palette, type scale and components](/assets/uploads/style-guide-871x1024.png)](/assets/uploads/style-guide.png)
 
 style guide
 

@@ -1,0 +1,65 @@
+---
+layout: default
+title: Writing
+permalink: /blog/
+description: Essays on design, psychology, decision-making, careers, and money — by Rohit Singh.
+---
+<section class="page-head">
+  <div class="wrap">
+    <div class="measure">
+      <p class="eyebrow">Writing</p>
+      <h1>Why humans do what they do</h1>
+      <p>{{ site.blog | size }} essays on design, psychology, landing pages, careers, and the awkward stuff nobody writes about. Newest first.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section section--flush">
+  <div class="wrap">
+    <div class="post-list">
+      {% assign posts = site.blog | sort: 'date' | reverse %}
+      {% for p in posts %}
+      <article class="post-item">
+        {% if p.image != "" %}
+        <div class="post-item__thumb" style="background-image:url('{{ p.image | relative_url }}')"></div>
+        {% endif %}
+        <div class="post-item__body">
+          <p class="post-meta">
+            {% if p.category %}<span class="chip">{{ p.category }}</span>{% endif %}
+            <time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%b %-d, %Y" }}</time>
+            <span aria-hidden="true">&middot;</span>
+            <span>{{ p.content | number_of_words | divided_by: 200 | plus: 1 }} min read</span>
+          </p>
+          <h2><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h2>
+          <p>{{ p.description }}</p>
+          <span class="read-more">Read post &rarr;</span>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% assign hp = site.data.homepage %}
+{% if hp.articles %}
+<section class="section" id="medium">
+  <div class="wrap">
+    <div class="section-head measure">
+      <p class="eyebrow">Also on Medium</p>
+      <h2>Published elsewhere</h2>
+    </div>
+    <div class="grid grid--articles">
+      {% for a in hp.articles %}
+      <article class="card article-card">
+        <div class="body">
+          <p class="muted">{{ a.date | date: "%b %-d, %Y" }} &middot; Medium</p>
+          <h3><a href="{{ a.url }}" target="_blank" rel="noopener noreferrer">{{ a.title }}</a></h3>
+          <p>{{ a.excerpt }}</p>
+          <span class="read-more">Read article &rarr;</span>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

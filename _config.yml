@@ -9,7 +9,24 @@ baseurl: ""
 
 permalink: /:title/
 
+lang: en_IN
+
+# jekyll-seo-tag reads these to emit the Person JSON-LD and Twitter card.
 social:
+  name: Rohit Singh
+  links:
+    - https://www.linkedin.com/in/rohit-singh-designer/
+    - https://medium.com/@rohitdesigner
+    - https://twitter.com/Rohitsi00372049
+    - https://dribbble.com/khadush
+    - https://www.instagram.com/khadush_rohit/
+
+twitter:
+  username: Rohitsi00372049
+  card: summary_large_image
+
+# Footer links, keyed by name.
+links:
   twitter: https://twitter.com/Rohitsi00372049
   linkedin: https://www.linkedin.com/in/rohit-singh-designer/
   medium: https://medium.com/@rohitdesigner
@@ -20,10 +37,15 @@ collections:
   projects:
     output: true
     permalink: /:name/
+  blog:
+    output: true
+    permalink: /blog/:name/
 
 defaults:
   - scope: { path: "", type: "projects" }
     values: { layout: "project" }
+  - scope: { path: "", type: "blog" }
+    values: { layout: "post" }
   - scope: { path: "" }
     values: { layout: "page" }
 

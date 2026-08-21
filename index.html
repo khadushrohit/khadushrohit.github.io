@@ -1,21 +1,31 @@
 ---
 layout: default
 title: Product Designer — SaaS websites & web apps
+description: >-
+  Rohit Singh is a product designer with 4+ years in SaaS websites and web apps, currently at VWO.
+  Case studies in UX, conversion optimisation, and design systems.
 ---
+{% assign hp = site.data.homepage %}
 <section class="hero">
-  <div class="wrap">
-    <p class="eyebrow">Rohit Singh &mdash; Product Designer</p>
-    <h1>I design interfaces that convert visitors into customers</h1>
-    <p>Product designer, 4+ years, specialised in SaaS websites and web apps. Right now I'm building features and redesigning screens for <strong>VWO.com</strong>, an A/B testing tool doing $40M ARR.</p>
-    <p>I use psychology and conversion optimisation to make products usable, customer-centric, and conversion-focused. Not everything is shown here &mdash; some work is under NDA.</p>
-    <div class="actions">
-      <a class="btn btn-primary" href="#work">See design work</a>
-      <a href="#" class="btn btn-ghost email-link" data-e="cnM5NDk4NjNAZ21haWwuY29t">Email me</a>
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <p class="eyebrow">Rohit Singh &mdash; Product Designer</p>
+      <h1>I design interfaces that convert visitors into customers</h1>
+      <p>Product designer, 4+ years, specialised in SaaS websites and web apps. Right now I'm building features and redesigning screens for <strong>VWO.com</strong>, an A/B testing tool doing $40M ARR.</p>
+      <p>I use psychology and conversion optimisation to make products usable, customer-centric, and conversion-focused. Not everything is shown here &mdash; some work is under NDA.</p>
+      <div class="actions">
+        <a class="btn btn-primary" href="#work">See design work</a>
+        <a href="#" class="btn btn-ghost email-link" data-e="cnM5NDk4NjNAZ21haWwuY29t">Email me</a>
+      </div>
     </div>
+    {% if hp.portrait %}
+    <div class="hero-portrait">
+      <img src="{{ hp.portrait | relative_url }}" alt="Rohit Singh" width="900" height="900">
+    </div>
+    {% endif %}
   </div>
 </section>
 
-{% assign hp = site.data.homepage %}
 {% if hp.clients %}
 <section class="clients">
   <div class="wrap">
@@ -62,22 +72,31 @@ title: Product Designer — SaaS websites & web apps
     <div class="section-head measure">
       <p class="eyebrow">Writing</p>
       <h2>Why humans do what they do</h2>
-      <p>I write about design, psychology, decision-making, and why smart people get stuck. Published on Medium.</p>
+      <p>I write about design, psychology, decision-making, and why smart people get stuck.</p>
     </div>
-    <div class="grid grid--articles">
-      {% for a in hp.articles %}
-      <article class="card article-card">
-        <div class="body">
-          <p class="muted">{{ a.date | date: "%b %-d, %Y" }} &middot; Medium</p>
-          <h3><a href="{{ a.url }}" target="_blank" rel="noopener noreferrer">{{ a.title }}</a></h3>
-          <p>{{ a.excerpt }}</p>
-          <span class="read-more">Read article &rarr;</span>
+    <div class="post-list">
+      {% assign latest = site.blog | sort: 'date' | reverse %}
+      {% for p in latest limit: 3 %}
+      <article class="post-item">
+        {% if p.image != "" %}
+        <div class="post-item__thumb" style="background-image:url('{{ p.image | relative_url }}')"></div>
+        {% endif %}
+        <div class="post-item__body">
+          <p class="post-meta">
+            {% if p.category %}<span class="chip">{{ p.category }}</span>{% endif %}
+            <time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%b %-d, %Y" }}</time>
+            <span aria-hidden="true">&middot;</span>
+            <span>{{ p.content | number_of_words | divided_by: 200 | plus: 1 }} min read</span>
+          </p>
+          <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+          <p>{{ p.description }}</p>
+          <span class="read-more">Read post &rarr;</span>
         </div>
       </article>
       {% endfor %}
     </div>
     <p class="more-link">
-      <a class="btn btn-ghost" href="{{ site.social.medium }}" target="_blank" rel="noopener">Read more on Medium &rarr;</a>
+      <a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">Read all {{ site.blog | size }} essays &rarr;</a>
     </p>
   </div>
 </section>
