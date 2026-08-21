@@ -12,12 +12,14 @@ permalink: /:title/
 social:
   twitter: https://twitter.com/Rohitsi00372049
   linkedin: https://www.linkedin.com/in/rohit-singh-designer/
+  medium: https://medium.com/@rohitdesigner
+  dribbble: https://dribbble.com/khadush
   instagram: https://www.instagram.com/khadush_rohit/
 
 collections:
   projects:
     output: true
-    permalink: /work/:name/
+    permalink: /:name/
 
 defaults:
   - scope: { path: "", type: "projects" }

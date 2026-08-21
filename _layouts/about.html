@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">{{ page.eyebrow }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
+  </div>
+</section>
+
+<article class="article article--about">
+  <div class="wrap">
+    <div class="about-grid">
+      <div class="article-body">{{ content }}</div>
+      <aside class="about-aside">
+        {% if page.portrait %}
+        <figure class="portrait">
+          <img src="{{ page.portrait | relative_url }}" alt="{{ site.author }}">
+          {% if page.portrait_caption %}<figcaption>{{ page.portrait_caption }}</figcaption>{% endif %}
+        </figure>
+        {% endif %}
+        <div class="about-card">
+          <p class="eyebrow">Connect</p>
+          <ul class="link-list">
+            <li><a href="{{ site.social.linkedin }}" rel="noopener">LinkedIn</a></li>
+            <li><a href="{{ site.social.medium }}" rel="noopener">Medium</a></li>
+            <li><a href="{{ site.social.twitter }}" rel="noopener">Twitter</a></li>
+            <li><a href="{{ site.social.dribbble }}" rel="noopener">Dribbble</a></li>
+          </ul>
+        </div>
+        <div class="about-card">
+          <p class="eyebrow">Work with me</p>
+          <p>Have a remote opportunity, or something you want to talk through?</p>
+          <a class="btn btn-ghost" href="mailto:{{ site.email }}">Email me</a>
+        </div>
+      </aside>
+    </div>
+    <hr>
+    <p><a class="read-more" href="{{ '/' | relative_url }}">&larr; See the design work</a></p>
+  </div>
+</article>

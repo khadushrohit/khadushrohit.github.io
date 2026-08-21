@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Product Designer
+title: Product Designer & Psychology Writer
 ---
 <section class="hero">
   <div class="wrap">
     <p class="eyebrow">Rohit Singh &mdash; Khadush</p>
     <h1>I design experimentation tools people actually understand</h1>
-    <p>Product designer at VWO. Four years turning complex, data-heavy products into something a first-time user can act on without training.</p>
+    <p>Product designer at VWO. Four years turning complex, data-heavy products into something a first-time user can act on without training. I care about revenue as much as usability, and about psychology more than either.</p>
     <div class="actions">
       <a class="btn btn-primary" href="#work">See design work</a>
+      <a class="btn btn-ghost" href="{{ '/about/' | relative_url }}">About me</a>
     </div>
   </div>
 </section>
@@ -17,14 +18,14 @@ title: Product Designer
   <div class="wrap">
     <div class="section-head measure">
       <p class="eyebrow">Design work</p>
-      <h2>Products I've shaped</h2>
-      <p>A few things I've designed end to end. Placeholder case studies for now &mdash; real ones landing soon.</p>
+      <h2>Case studies</h2>
+      <p>Client work, product work, and self-initiated teardowns. Newest first.</p>
     </div>
     <div class="grid">
       {% assign projects = site.projects | sort: 'order' %}
       {% for project in projects %}
       <article class="card">
-        <div class="thumb"{% if project.image != "" %} style="background-image:url('{{ project.image | relative_url }}')"{% endif %}></div>
+        <a class="thumb"{% if project.image != "" %} style="background-image:url('{{ project.image | relative_url }}')"{% endif %} href="{{ project.url | relative_url }}" aria-label="{{ project.title }}"></a>
         <div class="body">
           <p class="muted">{{ project.role }}{% if project.year %} &middot; {{ project.year }}{% endif %}</p>
           <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
@@ -39,11 +40,16 @@ title: Product Designer
 
 <section class="section">
   <div class="wrap">
-    <div class="section-head measure">
-      <p class="eyebrow">About me</p>
-      <h2>Who is Rohit (Khadush)?</h2>
-      <p>Product designer, four years in, most of them at VWO working on experimentation tooling. I'm obsessed with why people do what they do, and with removing the friction between a user's intent and the thing they came to do.</p>
-      <p><a class="read-more" href="{{ '/about/' | relative_url }}">More about me &rarr;</a></p>
+    <div class="writing-split">
+      <div class="section-head measure">
+        <p class="eyebrow">Writing</p>
+        <h2>I write about design, psychology &amp; money</h2>
+        <p>Deep dives on why people do what they do, and how that shows up in the products we build. All my articles live on Medium now.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="{{ site.social.medium }}" rel="noopener">Read on Medium</a>
+          <a class="btn btn-ghost" href="{{ site.social.linkedin }}" rel="noopener">Connect on LinkedIn</a>
+        </div>
+      </div>
     </div>
   </div>
 </section>

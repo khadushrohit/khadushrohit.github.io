@@ -31,6 +31,7 @@ collections:
           hint: Shows on the homepage card. Keep it to one sentence.,
         }
       - { label: Your role, name: role, widget: string, default: Product Designer }
+      - { label: Date, name: date, widget: datetime, required: false, format: 'YYYY-MM-DD HH:mm:ss' }
       - { label: Year, name: year, widget: number, value_type: int, required: false }
       - { label: Tags, name: tags, widget: list, required: false }
       - { label: Cover image, name: image, widget: image, required: false }
@@ -62,6 +63,8 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: Eyebrow, name: eyebrow, widget: string, required: false }
           - { label: Subtitle, name: description, widget: text, required: false }
-          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Portrait image, name: portrait, widget: image, required: false }
+          - { label: Portrait caption, name: portrait_caption, widget: string, required: false }
+          - { label: Layout, name: layout, widget: hidden, default: about }
           - { label: Permalink, name: permalink, widget: hidden, default: /about/ }
           - { label: Content, name: body, widget: richtext }
