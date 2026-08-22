@@ -411,3 +411,7 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
 .article-body table.data td:first-child {
   white-space: normal; width: auto; color: var(--heading);
 }
+
+/* Before/after tables: the "after" column is the result, so let it read as one. */
+.article-body table.wins td:last-child { color: var(--accent); }
+.article-body table.wins th:last-child { color: var(--accent); }

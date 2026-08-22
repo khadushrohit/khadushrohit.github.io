@@ -15,7 +15,7 @@ published: true
 > ### When your visitor quota runs out, every experiment stops. No overage. No grace period.
 > That is not a billing detail. It is the line between experiments running and going dark. And customers could not see that line.
 
-<table><tbody><tr><td><strong>Product</strong></td><td>VWO by Wingify — A/B testing &amp; experimentation</td></tr><tr><td><strong>Scale</strong></td><td>3,000+ brands, 90+ countries, ~$50M ARR</td></tr><tr><td><strong>My role</strong></td><td>Competitive research, billing logic, state model, core screens</td></tr><tr><td><strong>Team</strong></td><td>1 PM, me, 1 design manager, 1 UI/UX, 1 QA, eng pod</td></tr><tr><td><strong>Status</strong></td><td>Shipped. Phase 2 in flight.</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Product</strong></td><td>VWO by Wingify — A/B testing &amp; experimentation</td></tr><tr><td><strong>Scale</strong></td><td>3,000+ brands, 90+ countries, ~$50M ARR</td></tr><tr><td><strong>My role</strong></td><td>Competitive research, billing logic, state model, core screens</td></tr><tr><td><strong>Team</strong></td><td>1 PM, me, 1 design manager, 1 UI/UX, 1 QA, eng pod</td></tr><tr><td><strong>Status</strong></td><td>Shipped — all phases live</td></tr></tbody></table>
 
 ## The problem
 
@@ -105,20 +105,26 @@ I did not run the usability sessions — someone else did. My job was the synthe
 
 ## Outcomes
 
-No numbers yet. So here is what actually changed.
+### Quota-related support tickets went to zero.
 
-<table class="data"><thead><tr><th>&nbsp;</th><th>Before</th><th>After</th></tr></thead><tbody>
-<tr><td>Find your quota</td><td>3 clicks, buried</td><td>Own section in the nav</td></tr>
+Not fewer. None. The queue that started this project — customers asking a human to read a number back to them — stopped.
+
+Every row below used to be a ticket.
+
+<table class="data wins"><thead><tr><th>&nbsp;</th><th>Before</th><th>After</th></tr></thead><tbody>
+<tr><td>Find your quota</td><td>3 clicks, buried in Accounts</td><td>Its own section in the nav</td></tr>
 <tr><td>What it told you</td><td>"17K / 10K visitors"</td><td>Consumed, expiry, renewal, days left</td></tr>
-<tr><td>Usage by workspace</td><td>Raise a ticket</td><td>Daily graph, 180-day range, export CSV</td></tr>
-<tr><td>Latest invoice</td><td>Download several and check</td><td>Readable IDs and statuses</td></tr>
-<tr><td>Quota running out</td><td>You find out when tests stop</td><td>A warning state, before it happens</td></tr>
-<tr><td>Old Usage page</td><td>—</td><td>"Page has been moved →"</td></tr>
+<tr><td>Usage by workspace</td><td>Email support and wait</td><td>Daily graph, 180-day range, export CSV</td></tr>
+<tr><td>Finding the latest invoice</td><td>Download several and check</td><td>Readable IDs and statuses</td></tr>
+<tr><td>Quota about to run out</td><td>You find out when tests stop</td><td>A warning state, before it happens</td></tr>
+<tr><td>The old Usage page</td><td>—</td><td>Deleted. It now redirects.</td></tr>
 </tbody></table>
 
-That last row is the proof it shipped.
+### All of it is live
 
-**The honest gap.** The PRD bet on fewer billing tickets and lower churn. I do not have those figures, and I would rather leave the hole visible than claim a win I cannot back up.
+The subscription hub, per-product pages, the MTU usage graph, the invoice list, billing profiles, transaction history, the subscription timeline, in-app Salesforce invoices, monthly-to-annual switching, and usage forecasting.
+
+Plus the unglamorous half: the old Usage and Billing pages retired, consistent graph colours across products and workspaces, a 180-day range, exact date on hover, and corrected combined-quota CSVs.
 
 ## Three things I would carry forward
 
