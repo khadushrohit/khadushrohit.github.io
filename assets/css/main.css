@@ -394,3 +394,20 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 3rem 0; }
   color: var(--muted); text-align: center;
 }
 .section--medium { padding-top: 56px; }
+
+/* ---- Data tables (decision matrices, prioritisation boards) ----
+   Many columns and real headers, unlike the two-column spec table above. */
+.article-body table.data { font-size: .92rem; }
+.article-body table.data th {
+  border: 0; border-bottom: 1px solid var(--border);
+  padding: 12px 18px; text-align: left; vertical-align: bottom;
+  color: var(--heading); font-weight: 700;
+  font-size: .7rem; letter-spacing: .12em; text-transform: uppercase;
+  white-space: nowrap; background: rgba(255, 255, 255, .035);
+}
+.article-body table.data th + th,
+.article-body table.data td + td { border-left: 1px solid var(--border); }
+.article-body table.data td { padding: 12px 18px; }
+.article-body table.data td:first-child {
+  white-space: normal; width: auto; color: var(--heading);
+}

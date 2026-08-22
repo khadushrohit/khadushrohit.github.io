@@ -1,143 +1,129 @@
 ---
 layout: project
-title: "Redesigning the billing experience for a $50M ARR product"
-description: "How I helped 3,000+ brands see their usage before it cost them their experiments."
-role: "Product Designer — research, design & testing"
+title: "Designing the billing experience of a $50M ARR product"
+description: "3,000+ brands could not see how much visitor quota they had left. When it ran out, their experiments stopped."
+role: "Research, billing logic & UX"
 date: 2026-08-21 10:00:00
-year: 2026
-tags: ["B2B SaaS", "Research", "UX"]
+year: 2024
+tags: ["B2B SaaS", "Systems thinking", "UX"]
 image: "/assets/uploads/vwo-billing-hero.png"
 link: ""
 order: 0
 published: true
 ---
-### How I helped 3,000+ brands see their usage before it cost them their experiments.
 
-| | |
-| --- | --- |
-| **Role** | **Product Designer** — owned research, design, and testing end to end |
-| **Design Manager** | Rohit Bind — direction, design critique, stakeholder alignment |
-| **Product** | VWO by Wingify — enterprise A/B testing & experimentation |
-| **Scale** | 3,000+ brands · 90+ countries · 600,000+ experiments · ~$50M ARR |
-| **Team** | 1 PM · me (Product Designer) · 1 Design Manager · 1 UI/UX · 1 QA · eng pod · 3 stakeholders |
-| **Status** | All phases are shipped now |
-| **My focus** | Subscription Overview · per-product pages · MTU usage graph · invoice & billing flows · the billing-logic system underneath it all |
+> ### When your visitor quota runs out, every experiment stops. No overage. No grace period.
+> That is not a billing detail. It is the line between experiments running and going dark. And customers could not see that line.
 
-![The redesigned Subscription and Invoices hub, showing MTU consumed, next renewal, and a daily workspace usage graph](/assets/uploads/vwo-billing-hero.png){: loading="lazy" decoding="async"}
+<table><tbody><tr><td><strong>Product</strong></td><td>VWO by Wingify — A/B testing &amp; experimentation</td></tr><tr><td><strong>Scale</strong></td><td>3,000+ brands, 90+ countries, ~$50M ARR</td></tr><tr><td><strong>My role</strong></td><td>Competitive research, billing logic, state model, core screens</td></tr><tr><td><strong>Team</strong></td><td>1 PM, me, 1 design manager, 1 UI/UX, 1 QA, eng pod</td></tr><tr><td><strong>Status</strong></td><td>Shipped. Phase 2 in flight.</td></tr></tbody></table>
 
-## 1. The Problem
+## The problem
 
-One screen was quietly costing a market leader its trust.
+The most important number in the product — how much quota is left — was three clicks deep, next to an unrelated activity timeline, shown as raw text.
 
-VWO runs on a visitor quota called **MTU**. The rule underneath it is brutal: **when MTU runs out, every test stops and unused quota expires.** No overage, no grace. For these customers, usage isn't a billing detail — it's the line between experiments running and going dark.
+![The old Accounts to Usage screen, showing quota as 17K of 10K visitors with no forecast](/assets/uploads/vwo-billing-before-usage.png)
 
-They couldn't see that line.
+**17K / 10K visitors.** Already over. No forecast, no warning, no way to see what ate it.
 
-![The old Accounts to Usage screen, showing quota as a raw 17K of 10K visitors with no forecast](/assets/uploads/vwo-billing-before-usage.png){: loading="lazy" decoding="async"}
+Our PM handed me a PRD and a document of every billing request support had received. Read as a list they look like feature requests. Read together they are one question, asked over and over:
 
-**BEFORE (old "Accounts → Usage"):** quota shown as raw **"17K / 10K visitors"** — already over, no forecast, no alert — with shared-quota confusion shoved into a banner. Buried three clicks deep, tangled with an activity timeline.
+<table class="data"><thead><tr><th>What the customer said</th><th>What they actually needed</th></tr></thead><tbody>
+<tr><td>"My dashboard says I used 18,000 visitors. My test ran on 1.18 million. Which is right?"</td><td>Show me how you count.</td></tr>
+<tr><td>"Two of our teams share one quota. One team used it all. The other can't run anything now."</td><td>Show me who spent it.</td></tr>
+<tr><td>"I download four invoices every month just to find the newest one."</td><td>Give invoices a name I can read.</td></tr>
+<tr><td>"Can we pick our own date range instead of emailing you for it?"</td><td>Stop making me ask a human.</td></tr>
+</tbody></table>
 
-![The old account usage panel sitting next to an unrelated activity timeline](/assets/uploads/vwo-billing-before-invoices.png){: loading="lazy" decoding="async"}
+Take the first one. Both numbers were right. VWO [counts a person once per billing cycle](https://help.wingify.com/hc/en-us/articles/58784135981465-Visitor-Counting-Logic-in-Wingify) even if they land in five different tests — so 1.18 million visits really were 18,000 billable people.
 
-The old Usage and Billing pages were an afterthought: billing showed only web testing, split across two cycles, with no per-workspace or per-campaign breakdown. The on-screen MTU number routinely disagreed with reality — because VWO counts a unique visitor only once per cycle no matter how many campaigns they touch, logic that's correct but invisible. When the math looked wrong, the only fix was a support ticket.
+Sensible rule. It just appeared nowhere on screen. So the customer sees two numbers that don't match, assumes something is broken, and opens a ticket. Every row in that table is the same shape: the product knew the answer and never said it out loud.
 
-The evidence was specific and damning:
+That reframed it for me. I was not designing a settings page. I was designing the thing that makes usage-based pricing survivable for the person paying for it.
 
-- One enterprise account's dashboard said **18,000 visitors**. The real number was **1.18 million** — a **6,400% gap** only support could explain.
-- Visitor overlap inflated consumption by **200%+** with zero on-screen reason.
-- A **20-workspace** account couldn't pull its own **Jan–Jul** usage. Another had **two teams sharing one quota** — one drained it, the other got locked out, blind.
-- Three accounts at once sat in grace-period limbo, unsure if they'd even failed a payment.
-- Finance couldn't download invoices, couldn't tell which was latest, couldn't find their monthly cost.
+## Audience
 
-This wasn't an edge case. VWO holds **4.4/5 across ~1,000 G2 reviews** — and the single most repeated complaint is *this exact thing:* quota confusion, the hard stop, opaque pricing. **When a market leader's #1 gripe is "I can't see what I'm paying for," that's not a UI bug. It's churn, loading.**
+-   **Experimentation lead** — needs warning before quota kills a live test.
+-   **Account admin** — needs per-workspace breakdowns to allocate quota fairly.
+-   **Finance** — needs readable invoices and the monthly cost, in one place.
 
-Three layers of one problem:
+Each one is a person who wrote one of those tickets.
 
-- **Functional:** "I can't see my usage, invoices, or true cost."
-- **Operational:** every blind spot became a deflectable support ticket.
-- **Strategic:** opacity in a usage-based product is a churn precursor.
+## Constraints
 
-**The mandate:** kill the opacity. Build a self-serve hub where customers answer their own questions and catch quota exhaustion *before* it kills their tests.
+**"Next renewal date" had six different correct answers.**
 
-## 2. The Users
+Three cycles run independently — contract term, quota cycle, billing cycle — and the billing month is anchored to the contract date, not the calendar.
 
-### Three people share one account — and each one was flying blind differently.
+<table class="data"><thead><tr><th>Case</th><th>Contract</th><th>Quota</th><th>Billing</th><th>What the screen must show</th></tr></thead><tbody>
+<tr><td><strong>1</strong></td><td>12m</td><td>12m</td><td>12m</td><td>One date.</td></tr>
+<tr><td><strong>2</strong></td><td>12m</td><td>6m</td><td>12m</td><td>Auto-pay changes the label.</td></tr>
+<tr><td><strong>3</strong></td><td>12m</td><td>6m</td><td>3m</td><td>Renewal ≠ invoice ≠ quota reset.</td></tr>
+<tr><td><strong>4</strong></td><td>Until cancelled</td><td>12m</td><td>12m</td><td>No end date exists.</td></tr>
+<tr><td><strong>5</strong></td><td>Until cancelled</td><td>12m</td><td>1m</td><td>Twelve invoices per quota cycle.</td></tr>
+<tr><td><strong>6</strong></td><td colspan="3">Organic self-serve signup</td><td>No contract to anchor to.</td></tr>
+</tbody></table>
 
-VWO's users are **CRO leaders, product managers, marketers, and UX professionals** at mid-market and enterprise eCommerce, SaaS, and media companies — teams of 5–20 running experiments off a shared quota. The subscription dashboard serves three of them, and the ticket data made it clear they have *opposing* needs.
+Design the screens first and half of them confidently show the wrong date. So I built the matrix before I drew anything.
 
-**Persona 1 — Maya, the Experimentation Lead (CRO / Growth)**
-*Owns the program.* Runs dozens of tests across workspaces. Her nightmare is quota silently running out mid-test and killing live experiments.
+## What I did
 
-- **Wants:** "Show me what's left, what's eating it, and warn me before it's gone."
-- **Job to be done:** protect running experiments from a surprise hard stop.
+### Every state an account can be in
 
-**Persona 2 — Devang, the Account Admin (Product / Ops owner)**
-*Owns the contract and the workspaces.* Manages sub-accounts and reconciles which team spent what.
+Not one status — four independent tracks running at once.
 
-- **Wants:** per-workspace, per-campaign breakdowns for any date range, exportable.
-- **Job to be done:** allocate and defend quota fairly across teams.
+![The subscription status model: trial and premium branches, each with quota, renewal and payment tracks](/assets/uploads/vwo-billing-state-model.png)
 
-**Persona 3 — Priya, Finance / Procurement**
-*Owns the money.* Doesn't log in to experiment — logs in to reconcile.
+Two details mattered more than they look:
 
-- **Wants:** downloadable invoices with readable IDs, clear statuses, and the monthly cost in one place.
-- **Job to be done:** close the books without emailing support.
+**Auto-renewal has no grace period. Manual renewal does.** So "grace" means two different things, and the screen has to say which.
 
-These aren't invented archetypes. Each maps to a real support ticket and a real account — and to VWO's documented buyer base of CRO managers, PMs, and growth leaders.
+**We stopped calling expired trials "inactive."** Inactive sounds like something you switched off. *Disabled with zero quota* tells you what happened and what to do. One word, one fewer ticket.
 
-## 3. The Team
+![Loading framework: passive versus active loading, and lazy loading strategies](/assets/uploads/vwo-billing-loading-framework.png)
 
-#### No unicorns. I designed it; my manager steered it.
+I split loading into **passive** (system-initiated, can be a skeleton) and **active** (user asked for it, must confirm something is happening). The invoices table got pagination out of this — finance needs to jump to one invoice, not scroll.
 
-- **Product Manager:** Mayank — PRD, prioritisation
-- **Product Designer (me):** competitive research, the billing-logic system, all core screens, and the usability testing
-- **Design Manager:** Rohit Bind — design direction, critique, and stakeholder alignment
-- **Engineers:** Anand & team
-- **QA:** Shubhra
-- **Stakeholders:** 3
+### From flow to final
 
-I drove the work day to day — research, the date-logic matrix, the screens, and the user testing. Rohit Bind, as Design Manager, set direction, ran critique, and kept the work aligned with stakeholders and the wider design system.
+![Exploration: the add-payment-method and edit-subscription flows, including cancel and downgrade paths](/assets/uploads/vwo-billing-explore.png)
 
-## 4. The Constraint
+Flows first — cancel, pause and downgrade paths, before any visual design.
 
-### "Next renewal date" had six different correct answers.
+![Billing profile iterations, from single profile to multiple card layouts](/assets/uploads/vwo-billing-iterate.png)
 
-That was the whole problem in four words. The date a customer sees depends on the combination of **Contract Term × Order Frequency × Billing Frequency × Auto-pay** — and VWO's billing month is anchored to the contract date, so cycles never line up. Design the screens first, and half of them confidently show the wrong date.
+Iterating on billing profiles until multiple cards, products and addresses fit one readable layout.
 
-Stacked on top: shared MTU across products, complimentary plans, pay-as-you-go, extensions, grace periods, trials. Three data sources that disagreed — **Salesforce, 2Checkout, Data360.** Eight product states from *normal* to *exhausted* to *empty.* And a backlog too big for one release.
+![The final design set: product usage, subscription dashboard, invoices and billing](/assets/uploads/vwo-billing-final-screens.png)
 
-## 5. The Work
+The final set — product usage, subscription dashboard, invoices, billing.
 
-### I ran it like research, not decoration — teardown, logic, design, test, ship.
+![The shipped Subscription and Invoices hub, showing MTU consumed, next renewal and a daily usage graph](/assets/uploads/vwo-billing-hero.png)
 
-**Stage 1 — I tore down how 20+ products solve this.** Before sketching anything, I built a competitive research wall: how Spotify, Disney+, Shopify, ExpressVPN and Coda handle subscription and cancellation; how Mixpanel and Amplitude visualise usage; how Deel, Fiverr and Contra do invoices and payment methods; how Jasper, Squarespace, GitHub, Glide and Intercom handle upgrades and trials. I dissected enterprise procurement separately — Zoom and Zoho end to end, plus the hard truths (Salesforce: no self-service; Amazon: quote-only; Atlassian: trial-led; HubSpot: unified cart). I organised every teardown under the four pillars we'd own: **Subscription Info, Subscription Management, Usage Statistics, Billing & Invoices** — grounding the design in proven patterns (Jakob's Law) instead of invention.
+Shipped. A product card now reads like a sentence: *17K / 2.01M, auto-renews Aug 1, 5 days left.*
 
-**Stage 2 — I designed the logic before the layout.** The date-scenario matrix defined what each screen shows for every contract, billing and auto-pay combination, and I designed the **MTU quota status system** (Default → Warning → Exhausted) up front, so state was a foundation, not a bolt-on.
+I did not run the usability sessions — someone else did. My job was the synthesis: clustering raw observations into themes and separating real problems from one person's preference. The copy and the forecast visualisation both changed because of it.
 
-**Stage 3 — I designed the core surfaces.** The Subscription main page (product cards reading "Testing Visitor Quota 17K / 2.01M · billing auto-renews Aug 1 · 5 days left"), per-product detail pages with a **daily-consumption graph** and editable billing cycle, the add-ons and inactive-subscription tables, and the invoices table with full status, download, and pagination. Every number on screen traced back to a real account state.
+## Outcomes
 
-**Stage 4 — I tested it, internally and externally.** I ran usability sessions on a dedicated FigJam board with **separate internal and external tracks**, capturing neutral observations and quotes live, then clustered findings into concrete iteration themes: **forecast bars, filter behaviour, export placement, contract-date copy, hover states, insights sampling, and table/filter usability.** The copy and the forecast visualisation both changed because of what testing surfaced — not opinion.
+No numbers yet. So here is what actually changed.
 
-**Stage 5 — I phased the ship.** With Mayank I ran every story through impact/effort. Decommissioning the old confusing pages was critical-impact, low-effort — so it shipped first.
+<table class="data"><thead><tr><th>&nbsp;</th><th>Before</th><th>After</th></tr></thead><tbody>
+<tr><td>Find your quota</td><td>3 clicks, buried</td><td>Own section in the nav</td></tr>
+<tr><td>What it told you</td><td>"17K / 10K visitors"</td><td>Consumed, expiry, renewal, days left</td></tr>
+<tr><td>Usage by workspace</td><td>Raise a ticket</td><td>Daily graph, 180-day range, export CSV</td></tr>
+<tr><td>Latest invoice</td><td>Download several and check</td><td>Readable IDs and statuses</td></tr>
+<tr><td>Quota running out</td><td>You find out when tests stop</td><td>A warning state, before it happens</td></tr>
+<tr><td>Old Usage page</td><td>—</td><td>"Page has been moved →"</td></tr>
+</tbody></table>
 
-## 6. The Impact
+That last row is the proof it shipped.
 
-### From "email support to read your own bill" to self-serve, in one screen.
+**The honest gap.** The PRD bet on fewer billing tickets and lower churn. I do not have those figures, and I would rather leave the hole visible than claim a win I cannot back up.
 
-**Before:** quota at "17K / 10K," over-limit, buried, shared-quota note as an apology banner.
+## Three things I would carry forward
 
-**After:** a dedicated **Subscription & Invoices** hub — per-product MTU consumed and total, expiry, next renewal, billing frequency, add-ons, clean cards.
+-   **Design the logic before the layout.** The matrix and the state map *were* the design.
+-   **Read the raw input, not just the brief.** Every screen traces to a sentence a customer actually wrote.
+-   **Deciding what not to ship is senior work.** The highest-impact ticket on a 29-story board was deleting two pages.
 
-**Proof it shipped:** the old Usage page now reads *"Page has been moved → Go to Subscription & Invoices."*
-
-**Shipped & live (Phase 1 & 1.5):** My Subscription page, per-product pages, the MTU usage graph, the invoice list — plus retiring the old pages, consistent graph colours across products and workspaces, the 180-day range, exact-date-on-hover, and corrected combined-quota CSVs.
-
-**In flight (Phase 2):** subscription timeline, transaction history, billing profiles, in-app Salesforce invoices, monthly-to-annual switch, usage forecasting.
-
-**The bet:** fewer billing and quota tickets · higher dashboard adoption · lower churn · higher NPS — on a $50M revenue base where opacity was the #1 complaint.
-
-### What I'd carry forward
-
-- **Design the logic before the layout.** In a system this conditional, the matrix *was* the design.
-- **Real tickets beat invented personas.** Every screen traced to a sentence a customer wrote.
-- **Deciding what *not* to ship first is senior work.** Phasing kept the dashboard usable instead of overwhelming.
+Thank you for reading my case study.
